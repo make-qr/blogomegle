@@ -4,9 +4,13 @@ layout: default
 <article class="post-page">
   {% if page.series_name %}
   <p class="post-kicker">
+    {% if page.series_slug %}
+    <a href="{{ '/series/' | append: page.series_slug | append: '/' | relative_url }}">{{ page.series_name }}</a>
+    {% else %}
     <a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">{{ page.series_name }}</a>
+    {% endif %}
     {% if page.series_part_label %}
-    · {{ page.series_part_label }}{% if page.series_parts %} of VI{% endif %}
+    · {{ page.series_part_label }}{% if page.series_parts %} of {{ page.series_parts }}{% endif %}
     {% endif %}
   </p>
   {% endif %}

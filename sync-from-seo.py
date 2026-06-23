@@ -28,6 +28,7 @@ DATE_MAP: dict[str, str] = {
     "quiet-hours-chronicle-part-iv": "2026-06-12",
     "quiet-hours-chronicle-part-v": "2026-06-16",
     "quiet-hours-chronicle-part-vi": "2026-06-20",
+    "late-bloom-part-i-late-blooming-cherry": "2026-06-23",
 }
 
 GUIDE_CATEGORY = "Omegle & Alternatives"
@@ -123,6 +124,8 @@ def collect_sources() -> list[Path]:
     serial = SRC / "serial"
     if serial.is_dir():
         for p in sorted(serial.glob("part-*.md")):
+            paths.append(p)
+        for p in sorted(serial.glob("late-bloom*.md")):
             paths.append(p)
     return paths
 
