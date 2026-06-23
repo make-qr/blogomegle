@@ -8,7 +8,8 @@ from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-SRC = Path.home() / "huong-dan/du-an/ca-nhan-anh/seo-offpage/content/articles"
+SRC_LOCAL = Path.home() / "huong-dan/du-an/ca-nhan-anh/seo-offpage/content/articles"
+SRC = SRC_LOCAL if SRC_LOCAL.is_dir() else ROOT / "source-articles"
 POSTS = ROOT / "_posts"
 
 # slug → publish date (newest serial last for sort order we want reverse - actually Jekyll sorts newest first)
@@ -127,6 +128,9 @@ def collect_sources() -> list[Path]:
 
 
 def main() -> None:
+    if not SRC.is_dir():
+        print(f"Skip sync: no articles at {SRC} (using committed _posts)")
+        return
     if POSTS.exists():
         shutil.rmtree(POSTS)
     POSTS.mkdir()

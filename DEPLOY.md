@@ -1,19 +1,33 @@
 # Deploy blog.omeglechat.online
 
-## Cloudflare DNS (anh làm)
+## Repo & hosting
+
+| Mục | Giá trị |
+|-----|---------|
+| GitHub | [make-qr/blogomegle](https://github.com/make-qr/blogomegle) |
+| Custom domain | `blog.omeglechat.online` |
+| Pages branch | `gh-pages` (tự deploy qua Actions) |
+
+## Cloudflare DNS (đã cấu hình)
 
 | Type | Name | Content | Proxy |
 |------|------|---------|-------|
-| CNAME | `blog` | `vanthangtechlabglobal-pixel.github.io` | Proxied ✅ |
+| CNAME | `blog` | `make-qr.github.io` | DNS only (grey) |
 
-*(Đổi `vanthangtechlabglobal-pixel` nếu repo nằm user/org khác.)*
+## GitHub Pages (anh bật 1 lần)
 
-## GitHub Pages
+1. Mở [Settings → Pages](https://github.com/make-qr/blogomegle/settings/pages)
+2. **Build and deployment → Source:** Deploy from a branch
+3. **Branch:** `gh-pages` / `/ (root)` → Save
+4. **Custom domain:** `blog.omeglechat.online` (nếu chưa có)
+5. **Enforce HTTPS:** ON (sau khi certificate sẵn sàng, ~10 phút)
 
-1. Repo name đề xuất: **`blog.omeglechat.online`**
-2. Settings → Pages → Custom domain: `blog.omeglechat.online`
-3. Enforce HTTPS: ON
-4. Chờ certificate (~10 phút)
+## Sync bài từ seo-offpage (máy local)
+
+```bash
+python3 sync-from-seo.py   # đọc ~/huong-dan/.../seo-offpage/content/articles
+git add _posts && git commit -m "Sync posts" && git push
+```
 
 ## Kiểm tra sau deploy
 
@@ -21,7 +35,3 @@
 - https://blog.omeglechat.online/series/the-quiet-hours-chronicle/
 - https://blog.omeglechat.online/quiet-hours-chronicle-part-i/
 - https://blog.omeglechat.online/author/morgan-rivers/
-
-## Canonical (tùy chọn)
-
-Bài cũ trỏ `omeglechat.online/blog/...` — có thể 301 redirect trên main site hoặc cập nhật canonical trong seo-offpage sang subdomain blog.
