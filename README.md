@@ -22,29 +22,21 @@ bundle exec jekyll serve
 
 ## Deploy to GitHub Pages
 
-1. Create repo **`blog.omeglechat.online`** on GitHub (account `vanthangtechlabglobal-pixel` or org)
-2. Push this folder:
+- **Repo:** [make-qr/blogomegle](https://github.com/make-qr/blogomegle)
+- **Push:** `git push origin main` (Actions build → nhánh `gh-pages`)
+
+1. **GitHub → [Settings → Pages](https://github.com/make-qr/blogomegle/settings/pages)**
+   - Source: **Deploy from branch** → `gh-pages` / `/ (root)` → Save
+   - Custom domain: `blog.omeglechat.online`
+   - Enforce HTTPS: ON
+
+2. **Cloudflare DNS** (đã cấu hình):
+   - CNAME `blog` → `make-qr.github.io` (DNS only)
 
 ```bash
-git init
-git add .
-git commit -m "Initial OmegleChat blog — Jekyll + Quiet Hours Chronicle"
-git branch -M main
-git remote add origin git@github.com:YOUR_USER/blog.omeglechat.online.git
+git remote set-url origin git@github.com-personal:make-qr/blogomegle.git
 git push -u origin main
 ```
-
-3. **GitHub → Settings → Pages**
-   - Source: **Deploy from branch** `main` / `/ (root)`
-   - Or enable **GitHub Actions** (Jekyll build runs on push)
-
-4. **Cloudflare DNS** (anh tự cấu hình):
-   - Type: `CNAME`
-   - Name: `blog`
-   - Target: `YOUR_USER.github.io` (or custom Pages URL)
-   - **SSL:** Full
-
-5. **GitHub → Settings → Pages → Custom domain:** `blog.omeglechat.online`
 
 ## After writing new articles
 
