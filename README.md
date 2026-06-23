@@ -11,6 +11,10 @@ Jekyll blog for **OmegleChat** essays, guides, and *The Quiet Hours Chronicle* s
 ```bash
 cd ~/huong-dan/du-an/ca-nhan-anh/omeglechat/blog.omeglechat.online
 
+# Local preview (Docker, no Ruby cần cài)
+./preview.sh
+# → http://localhost:4000
+
 # Sync articles from seo-offpage
 python3 sync-from-seo.py
 
