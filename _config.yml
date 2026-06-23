@@ -1,0 +1,42 @@
+title: OmegleChat Blog
+description: Essays on human connection, random chat safety, and life after Omegle — by the OmegleChat editorial team.
+url: https://blog.omeglechat.online
+baseurl: ""
+lang: en
+timezone: UTC
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:categories/:slug/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+main_site: https://omeglechat.online
+chat_url: https://omeglechat.online/chat.html
+
+author:
+  name: OmegleChat Editorial
+  default_writer: Morgan Rivers
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - DEPLOY.md
+  - sync-from-seo.py
+  - vendor
+  - .bundle
