@@ -29,7 +29,7 @@ Every story touches **loneliness** and **connection** — including quiet nights
 | Part | Title |
 |------|-------|
 | I | [Late Blooming Cherry]({{ '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}) |
-| II | *The Messages She Never Sent* *(coming soon)* |
+| II | [The Messages She Never Sent]({{ '/late-bloom-part-ii-messages-never-sent/' | relative_url }}) |
 | III | *Broken Mirror Rain Street* *(coming soon)* |
 | IV | *One Year Contract* *(coming soon)* |
 | V | *Friend From That Year* *(coming soon)* |
