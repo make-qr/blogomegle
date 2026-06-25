@@ -12,7 +12,7 @@ category_slug: human-connection
 series_name: "Late Bloom Stories"
 series_slug: late-bloom-stories
 series_part: 1
-series_parts: 6
+series_parts: 300
 series_part_label: "Part I"
 format: serial
 next_part: /late-bloom-part-ii-messages-never-sent/

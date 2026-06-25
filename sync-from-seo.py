@@ -30,6 +30,10 @@ DATE_MAP: dict[str, str] = {
     "quiet-hours-chronicle-part-vi": "2026-06-20",
     "late-bloom-part-i-late-blooming-cherry": "2026-06-23",
     "late-bloom-part-ii-messages-never-sent": "2026-06-23",
+    "late-bloom-part-iii-broken-mirror-rain-street": "2026-06-25",
+    "late-bloom-part-iv-one-year-contract": "2026-06-26",
+    "late-bloom-part-v-friend-from-that-year": "2026-06-27",
+    "late-bloom-part-vi-noodle-shop-number-seven": "2026-06-28",
 }
 
 GUIDE_CATEGORY = "Omegle & Alternatives"

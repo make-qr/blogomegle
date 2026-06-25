@@ -12,7 +12,7 @@ category_slug: human-connection
 series_name: "Late Bloom Stories"
 series_slug: late-bloom-stories
 series_part: 2
-series_parts: 6
+series_parts: 300
 series_part_label: "Part II"
 format: serial
 prev_part: /late-bloom-part-i-late-blooming-cherry/
@@ -81,7 +81,7 @@ When you're ready:
 - **Stay safe:** [random chat safety tips](https://omeglechat.online/safety-tips.html)
 
 **Previous:** [Part I — Late Blooming Cherry](/late-bloom-part-i-late-blooming-cherry/)  
-**Next:** Part III — *Broken Mirror, Rain Street.*
+****Next:** [Part III — Broken Mirror on a Rain Street](/late-bloom-part-iii-broken-mirror-rain-street/)
 
 ---
 
