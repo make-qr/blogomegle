@@ -46,10 +46,34 @@ git push -u origin main
 
 ```bash
 # 1. Write in seo-offpage/content/articles/
-# 2. Add slug + date to sync-from-seo.py DATE_MAP
+# 2. Add slug + date to sync-from-seo.py DATE_MAP (date ≤ hôm nay — Jekyll không build bài tương lai)
 python3 sync-from-seo.py
-git add _posts && git commit -m "Add post: ..." && git push
+git add _posts assets/ series/ sync-from-seo.py
+git commit -m "Add post: ..." && git push
 ```
+
+### SEO / sitemap (mỗi lần publish — **nhớ làm**)
+
+| Việc | Tự động? | Ghi chú |
+|------|----------|---------|
+| `sitemap.xml` | ✅ Jekyll build | Plugin `jekyll-sitemap` — mọi post + series + category |
+| `robots.txt` | ✅ committed | `Sitemap: https://blog.omeglechat.online/sitemap.xml` |
+| `feed.xml` | ✅ Jekyll build | RSS — plugin `jekyll-feed` |
+| Canonical / meta | ✅ | `{% seo %}` + `permalink` trong frontmatter |
+| Verify URL live | Chạy script | `./post-deploy-check.sh late-bloom-part-ii-...` |
+| Ping Bing | Script | `cd seo-offpage && ./ping-sitemap.sh` (ping cả blog) |
+| Google Search Console | Thủ công | Property `blog.omeglechat.online` → Submit sitemap |
+| IndexNow (tuỳ) | Env | `INDEXNOW_URLS="https://blog.../slug/"` trong `omeglechat.env` |
+
+```bash
+# Sau push, đợi GH Actions ~2 phút rồi:
+./post-deploy-check.sh late-bloom-part-ii-messages-never-sent
+
+cd ~/huong-dan/du-an/ca-nhan-anh/seo-offpage
+./ping-sitemap.sh
+```
+
+**Lưu ý:** `omeglechat.online/sitemap.xml` (site chính) là property khác — serial mới trên **blog subdomain** chỉ cần blog sitemap + GSC blog.
 
 ## Structure
 

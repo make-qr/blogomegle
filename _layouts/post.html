@@ -35,9 +35,13 @@ layout: default
     {% endif %}
   </header>
 
+  {% include ad-leaderboard.html %}
+
   <div class="post-body prose">
     {{ content }}
   </div>
+
+  {% include ad-leaderboard.html %}
 
   {% if page.series_name and page.prev_part or page.next_part %}
   <nav class="serial-nav" aria-label="Series navigation">

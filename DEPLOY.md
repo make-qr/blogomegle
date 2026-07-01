@@ -12,7 +12,9 @@
 
 | Type | Name | Content | Proxy |
 |------|------|---------|-------|
-| CNAME | `blog` | `make-qr.github.io` | DNS only (grey) |
+| CNAME | `blog` | `make-qr.github.io` | **DNS only (grey)** — không bật proxy cam |
+
+> ⚠️ Nếu bật **proxy cam** → redirect loop 301, blog không mở được. Sửa: Cloudflare → DNS → `blog` → Edit → **DNS only**.
 
 ## GitHub Pages (anh bật 1 lần)
 

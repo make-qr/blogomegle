@@ -317,6 +317,20 @@ a:hover { text-decoration: underline; }
 
 .toc-table { width: 100%; margin: 1rem 0; }
 
+/* Ads */
+.blog-ad {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.blog-ad-leaderboard {
+  width: 100%;
+  max-width: 728px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 90px;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--border);

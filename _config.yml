@@ -16,6 +16,12 @@ plugins:
 main_site: https://omeglechat.online
 chat_url: https://omeglechat.online/chat.html
 
+# AdSense — same account as omeglechat.online (ads-config.js)
+adsense:
+  client: ca-pub-4151519079019358
+  slots:
+    leaderboard: "7974813655"
+
 author:
   name: OmegleChat Editorial
   default_writer: Morgan Rivers
