@@ -1,4 +1,5 @@
 ---
+
 title: "When Sadness Visits Anyway"
 date: 2026-06-08
 slug: quiet-hours-chronicle-part-iii
@@ -18,6 +19,10 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-ii/
 next_part: /quiet-hours-chronicle-part-iv/
 tags: [serial, essay, sadness, mental health, human-connection]
+hero_image: /assets/images/posts/quiet-hours-chronicle-part-iii/hero-50c0665b.jpg
+hero_alt: "The Quiet Hours Chronicle — essay cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part III of VI*  

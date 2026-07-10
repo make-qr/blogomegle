@@ -1,4 +1,5 @@
 ---
+
 title: "A One-Year Contract — Late Bloom Stories Part IV"
 date: 2026-06-26
 slug: late-bloom-part-iv-one-year-contract
@@ -18,6 +19,10 @@ format: serial
 prev_part: /late-bloom-part-iii-broken-mirror-rain-street/
 next_part: /late-bloom-part-v-friend-from-that-year/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: /assets/images/posts/late-bloom-part-iv-one-year-contract/hero-8f3607e2.jpg
+hero_alt: "Late Bloom Stories — romance serial cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *This is the story of Jake and Emma.*

@@ -23,6 +23,8 @@ jobs:
           bundler-cache: true
           cache-version: 1
       - run: python3 sync-from-seo.py
+      - run: python3 assign-post-covers.py
+      - run: python3 download-cover-images.py
       - run: python3 download-post-images.py
       - run: bundle exec jekyll build --destination ./_site
       - uses: peaceiris/actions-gh-pages@v4

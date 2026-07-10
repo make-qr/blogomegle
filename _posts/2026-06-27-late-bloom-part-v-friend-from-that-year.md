@@ -1,4 +1,5 @@
 ---
+
 title: "The Friend from That Year — Late Bloom Stories Part V"
 date: 2026-06-27
 slug: late-bloom-part-v-friend-from-that-year
@@ -18,6 +19,10 @@ format: serial
 prev_part: /late-bloom-part-iv-one-year-contract/
 next_part: /late-bloom-part-vi-noodle-shop-number-seven/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: /assets/images/posts/late-bloom-part-v-friend-from-that-year/hero-e6f1016e.jpg
+hero_alt: "Late Bloom Stories — romance serial cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *This is the story of Ryan and Lily.*

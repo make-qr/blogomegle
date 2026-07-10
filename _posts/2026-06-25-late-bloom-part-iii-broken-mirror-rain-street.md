@@ -1,4 +1,5 @@
 ---
+
 title: "Broken Mirror on a Rain Street — Late Bloom Stories Part III"
 date: 2026-06-25
 slug: late-bloom-part-iii-broken-mirror-rain-street
@@ -18,6 +19,10 @@ format: serial
 prev_part: /late-bloom-part-ii-messages-never-sent/
 next_part: /late-bloom-part-iv-one-year-contract/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: /assets/images/posts/late-bloom-part-iii-broken-mirror-rain-street/hero-b75f3f6b.jpg
+hero_alt: "Late Bloom Stories — romance serial cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *This is the story of Marcus and Sarah.*

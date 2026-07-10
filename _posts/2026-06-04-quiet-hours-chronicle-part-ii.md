@@ -1,4 +1,5 @@
 ---
+
 title: "Evenings That Stopped Feeling Empty"
 date: 2026-06-04
 slug: quiet-hours-chronicle-part-ii
@@ -18,6 +19,10 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-i/
 next_part: /quiet-hours-chronicle-part-iii/
 tags: [serial, essay, loneliness, evening routine, human-connection]
+hero_image: /assets/images/posts/quiet-hours-chronicle-part-ii/hero-2ea870d2.jpg
+hero_alt: "The Quiet Hours Chronicle — essay cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part II of VI*  

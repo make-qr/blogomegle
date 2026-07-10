@@ -1,4 +1,5 @@
 ---
+
 title: "Keeping People Close"
 date: 2026-06-20
 slug: quiet-hours-chronicle-part-vi
@@ -17,6 +18,10 @@ series_part_label: "Part VI"
 format: serial
 prev_part: /quiet-hours-chronicle-part-v/
 tags: [serial, essay, friendship, relationships, human-connection]
+hero_image: /assets/images/posts/quiet-hours-chronicle-part-vi/hero-2ea870d2.jpg
+hero_alt: "The Quiet Hours Chronicle — essay cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part VI of VI · **Finale***  

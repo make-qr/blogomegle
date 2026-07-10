@@ -1,4 +1,5 @@
 ---
+
 title: "This Is Not How I Got a Girlfriend"
 date: 2026-06-12
 slug: quiet-hours-chronicle-part-iv
@@ -18,6 +19,10 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-iii/
 next_part: /quiet-hours-chronicle-part-v/
 tags: [serial, essay, dating, relationships, human-connection]
+hero_image: /assets/images/posts/quiet-hours-chronicle-part-iv/hero-7a43ae31.jpg
+hero_alt: "The Quiet Hours Chronicle — essay cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part IV of VI*  

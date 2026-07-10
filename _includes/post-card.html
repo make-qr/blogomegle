@@ -1,11 +1,10 @@
 {% assign post = include.post %}
 {% if post %}
 <article class="post-card">
-  {% if post.hero_image or post.image %}
+  {% include post-cover.html post=post %}
   <a class="post-card-image" href="{{ post.url | relative_url }}" aria-hidden="true" tabindex="-1">
-    <img src="{% if post.hero_image contains 'http' %}{{ post.hero_image }}{% else %}{{ post.hero_image | default: post.image | relative_url }}{% endif %}" alt="" loading="lazy" width="400" height="225">
+    <img src="{{ cover_src }}" alt="{{ post.hero_alt | default: post.title | escape }}" loading="lazy" width="400" height="225">
   </a>
-  {% endif %}
   <div class="post-card-body">
     {% if post.series_name %}
     <span class="post-card-tag tag-romance">{{ post.series_name }}{% if post.series_part_label %} · {{ post.series_part_label }}{% endif %}</span>

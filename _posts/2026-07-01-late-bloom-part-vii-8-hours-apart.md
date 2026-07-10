@@ -1,4 +1,5 @@
 ---
+
 title: "8 Hours Apart — Late Bloom Stories Part VII"
 date: 2026-07-01
 slug: late-bloom-part-vii-8-hours-apart
@@ -18,6 +19,10 @@ format: serial
 prev_part: /late-bloom-part-vi-noodle-shop-number-seven/
 next_part: /late-bloom-part-viii-blind-date-at-pike-place/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: /assets/images/posts/late-bloom-part-vii-8-hours-apart/hero-c7573e51.jpg
+hero_alt: "Late Bloom Stories — romance serial cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *"Eight p.m. for you is four a.m. for me"*

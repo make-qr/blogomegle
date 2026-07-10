@@ -1,0 +1,11 @@
+# Fallback cover images when a post has no hero_image
+series:
+  late-bloom-stories: /assets/images/covers/late-bloom.jpg
+  the-quiet-hours-chronicle: /assets/images/covers/quiet-hours.jpg
+categories:
+  love-journey: /assets/images/covers/love-journey.jpg
+  love-romance: /assets/images/covers/late-bloom.jpg
+  human-connection: /assets/images/covers/human-connection.jpg
+  omegle-alternatives: /assets/images/covers/guide-chat.jpg
+  safety-guides: /assets/images/covers/guide-chat.jpg
+default: /assets/images/covers/default-blog.jpg

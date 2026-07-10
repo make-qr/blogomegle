@@ -1,4 +1,5 @@
 ---
+
 title: "The Messages She Never Sent — 365 Drafts, One Love Story"
 date: 2026-06-23
 slug: late-bloom-part-ii-messages-never-sent
@@ -18,6 +19,10 @@ format: serial
 prev_part: /late-bloom-part-i-late-blooming-cherry/
 next_part: /late-bloom-part-iii-broken-mirror-rain-street/
 tags: [serial, love, connection, romance, human-connection, omeglechat, texting]
+hero_image: /assets/images/posts/late-bloom-part-ii-messages-never-sent/hero-7a43ae31.jpg
+hero_alt: "Late Bloom Stories — romance serial cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 <p class="audio-player-wrap">

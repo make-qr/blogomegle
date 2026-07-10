@@ -3,7 +3,7 @@
 <head>
   {% include head.html %}
 </head>
-<body class="{% if page.url == '/' %}page-home{% elsif page.layout == 'post' %}page-post{% else %}page-static{% endif %}">
+<body class="{% if page.url == '/' %}page-home{% elsif page.layout == 'post' %}page-post{% elsif page.page_kind == 'archive' %}page-archive{% else %}page-static{% endif %}">
   {% include header.html %}
   <main class="site-main">
     <div class="container {% if page.full_width %}container-wide{% else %}content-wrap{% endif %}">

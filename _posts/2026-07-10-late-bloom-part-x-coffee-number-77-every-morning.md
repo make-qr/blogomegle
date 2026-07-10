@@ -1,4 +1,5 @@
 ---
+
 title: "Coffee Number 77 Every Morning — Late Bloom Stories Part X"
 date: 2026-07-10
 slug: late-bloom-part-x-coffee-number-77-every-morning
@@ -17,6 +18,10 @@ series_part_label: "Part X"
 format: serial
 prev_part: /late-bloom-part-ix-mochi-the-dog-and-two-strangers/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: /assets/images/posts/late-bloom-part-x-coffee-number-77-every-morning/hero-fb42065e.jpg
+hero_alt: "Late Bloom Stories — romance serial cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *This is the story of Nathan and Maya.*

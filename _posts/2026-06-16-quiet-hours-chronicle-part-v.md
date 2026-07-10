@@ -1,4 +1,5 @@
 ---
+
 title: "Finding a Boyfriend Without Losing Yourself"
 date: 2026-06-16
 slug: quiet-hours-chronicle-part-v
@@ -18,6 +19,10 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-iv/
 next_part: /quiet-hours-chronicle-part-vi/
 tags: [serial, essay, dating, relationships, human-connection]
+hero_image: /assets/images/posts/quiet-hours-chronicle-part-v/hero-e6f1016e.jpg
+hero_alt: "The Quiet Hours Chronicle — essay cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part V of VI*  

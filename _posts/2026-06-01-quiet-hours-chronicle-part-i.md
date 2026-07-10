@@ -1,4 +1,5 @@
 ---
+
 title: "The Room That Answered Back"
 date: 2026-06-01
 slug: quiet-hours-chronicle-part-i
@@ -17,6 +18,10 @@ series_part_label: "Part I"
 format: serial
 next_part: /quiet-hours-chronicle-part-ii/
 tags: [serial, essay, loneliness, connection, human-connection]
+hero_image: /assets/images/posts/quiet-hours-chronicle-part-i/hero-50c0665b.jpg
+hero_alt: "The Quiet Hours Chronicle — essay cover"
+hero_caption: "Photo: Unsplash"
+
 ---
 
 *[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part I of VI*  
