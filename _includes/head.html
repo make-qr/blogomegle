@@ -12,7 +12,7 @@
 <meta property="og:image" content="{% if page.hero_image contains 'http' %}{{ page.hero_image }}{% else %}{{ page.hero_image | default: page.image | absolute_url }}{% endif %}">
 <meta name="twitter:card" content="summary_large_image">
 {% else %}
-<meta property="og:image" content="https://images.unsplash.com/photo-1518199266791-5375a83190cc?w=1200&q=80">
+<meta property="og:image" content="{{ '/assets/images/logo-icon.png' | absolute_url }}">
 <meta name="twitter:card" content="summary_large_image">
 {% endif %}
 {% include adsense-loader.html %}
