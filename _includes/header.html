@@ -14,12 +14,23 @@
         <small>Blog</small>
       </span>
     </a>
-    <nav class="site-nav" aria-label="Main">
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <a href="{{ '/' | relative_url }}">Home</a>
       <a href="{{ '/posts/' | relative_url }}">Articles</a>
-      <a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">Serial</a>
-      <a href="{{ '/category/human-connection/' | relative_url }}">Human Connection</a>
+      <span class="nav-dropdown">
+        <a href="{{ '/series/' | relative_url }}">Serials</a>
+        <span class="nav-dropdown-menu">
+          <a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a>
+          <a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">Quiet Hours Chronicle</a>
+        </span>
+      </span>
+      <a href="{{ '/category/love-journey/' | relative_url }}">Love Journey</a>
+      <a href="{{ '/category/human-connection/' | relative_url }}">Connection</a>
       <a href="{{ '/author/morgan-rivers/' | relative_url }}">Morgan Rivers</a>
-      <a href="{{ site.main_site }}" class="nav-cta">Main site</a>
+      <a href="{{ site.chat_url }}" class="nav-cta">Start chat</a>
     </nav>
   </div>
 </header>

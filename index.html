@@ -1,37 +1,53 @@
 ---
 layout: default
 title: Home
+full_width: true
 ---
 
 <section class="hero">
   <h1>Stories about connection in a loud, lonely world</h1>
-  <p class="hero-lead">Essays, guides, and serial fiction on loneliness, friendship, dating, and safer ways to talk to strangers online — from the OmegleChat editorial team.</p>
+  <p class="hero-lead">Long-form romance serials, relationship advice, and safety guides — with images, audio, and video when it helps you stay.</p>
+  <p class="hero-sub">Romance serials · Love Journey advice · Safer random chat</p>
 </section>
 
 {% include ad-leaderboard.html %}
 
-<section class="featured-serial">
-  <p class="label">Featured serial</p>
-  <h2><a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">The Quiet Hours Chronicle</a></h2>
-  <p>A six-part personal essay by <a href="{{ '/author/morgan-rivers/' | relative_url }}">Morgan Rivers</a> — loneliness, sadness, love, and learning to reach out again.</p>
-  <a class="btn" href="{{ '/quiet-hours-chronicle-part-i/' | relative_url }}">Start Part I</a>
-  <a class="btn btn-outline" href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}" style="margin-left:0.5rem">Table of contents</a>
+<div class="category-pills">
+  <a class="pill active" href="{{ '/' | relative_url }}">All</a>
+  <a class="pill" href="{{ '/category/love-romance/' | relative_url }}">Love &amp; Romance</a>
+  <a class="pill" href="{{ '/category/love-journey/' | relative_url }}">Love Journey</a>
+  <a class="pill" href="{{ '/category/human-connection/' | relative_url }}">Human Connection</a>
+  <a class="pill" href="{{ '/category/safety-guides/' | relative_url }}">Safety Guides</a>
+</div>
+
+<section class="featured-grid">
+  <article class="featured-card featured-primary">
+    <p class="label">★ Featured serial · Ongoing</p>
+    <h2><a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a></h2>
+    <p>300 romance episodes with happy endings — loneliness, random chat, and love that blooms late. New parts every week.</p>
+    {% assign lb = site.posts | where: "series_slug", "late-bloom-stories" | first %}
+    {% if lb %}
+    <a class="btn" href="{{ lb.url | relative_url }}">Continue reading</a>
+    {% else %}
+    <a class="btn" href="{{ '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Start Part I</a>
+    {% endif %}
+    <a class="btn btn-outline" href="{{ '/series/late-bloom-stories/' | relative_url }}">Series index</a>
+  </article>
+  <article class="featured-card">
+    <p class="label">✓ Complete · 6 parts</p>
+    <h2><a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">The Quiet Hours Chronicle</a></h2>
+    <p>Personal essays on loneliness, dating, and keeping people close — by Morgan Rivers.</p>
+    <a class="btn btn-outline" href="{{ '/quiet-hours-chronicle-part-i/' | relative_url }}">Read Part I</a>
+  </article>
 </section>
 
-<section>
+<section class="home-section">
   <h2 class="section-title">Latest articles</h2>
-  <ul class="post-list">
-    {% assign recent = site.posts | slice: 0, 10 %}
+  <div class="post-card-grid">
+    {% assign recent = site.posts | slice: 0, 12 %}
     {% for post in recent %}
-    <li>
-      <a class="title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <div class="meta">
-        {% if post.author %}{{ post.author }} · {% endif %}
-        {{ post.date | date: "%B %d, %Y" }}
-        {% if post.category %} · {{ post.category }}{% endif %}
-      </div>
-    </li>
+      {% include post-card.html post=post %}
     {% endfor %}
-  </ul>
-  <p style="margin-top:1.5rem"><a href="{{ '/posts/' | relative_url }}">View all posts →</a></p>
+  </div>
+  <p class="section-more"><a href="{{ '/posts/' | relative_url }}">View all posts →</a></p>
 </section>

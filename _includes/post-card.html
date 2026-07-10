@@ -1,0 +1,31 @@
+{% assign post = include.post %}
+{% if post %}
+<article class="post-card">
+  {% if post.hero_image or post.image %}
+  <a class="post-card-image" href="{{ post.url | relative_url }}" aria-hidden="true" tabindex="-1">
+    <img src="{% if post.hero_image contains 'http' %}{{ post.hero_image }}{% else %}{{ post.hero_image | default: post.image | relative_url }}{% endif %}" alt="" loading="lazy" width="400" height="225">
+  </a>
+  {% endif %}
+  <div class="post-card-body">
+    {% if post.series_name %}
+    <span class="post-card-tag tag-romance">{{ post.series_name }}{% if post.series_part_label %} · {{ post.series_part_label }}{% endif %}</span>
+    {% elsif post.category_slug == 'love-journey' %}
+    <span class="post-card-tag tag-advice">Love Journey</span>
+    {% elsif post.category_slug == 'safety-guides' or post.format == 'guide' %}
+    <span class="post-card-tag tag-guide">Guide</span>
+    {% elsif post.category %}
+    <span class="post-card-tag tag-essay">{{ post.category }}</span>
+    {% endif %}
+    <h3 class="post-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    {% if post.excerpt %}
+    <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+    {% endif %}
+    <div class="post-card-meta">
+      {% if post.date %}<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>{% endif %}
+      <span class="sep">·</span>
+      {% include reading-time.html content=post.content %}
+      {% if post.author %}<span class="sep">·</span><span>{{ post.author }}</span>{% endif %}
+    </div>
+  </div>
+</article>
+{% endif %}

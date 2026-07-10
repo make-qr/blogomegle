@@ -2,7 +2,8 @@
 layout: page
 title: Late Bloom Stories
 permalink: /series/late-bloom-stories/
-excerpt: 300-episode romance serial with happy endings — love that blooms late, loneliness, and learning to reach out again. By Morgan Rivers for OmegleChat.
+full_width: true
+excerpt: 300-episode romance serial with happy endings — love that blooms late. By Morgan Rivers for OmegleChat.
 ---
 
 # Late Bloom Stories
@@ -10,36 +11,32 @@ excerpt: 300-episode romance serial with happy endings — love that blooms late
 **300 love stories with happy endings — love that blooms late**
 
 *By [Morgan Rivers]({{ '/author/morgan-rivers/' | relative_url }}) · Staff Essayist*  
-*Category: [Human Connection]({{ '/category/human-connection/' | relative_url }})*
+*Category: [Love & Romance]({{ '/category/love-romance/' | relative_url }})*
 
 ---
 
 ## About this serial
 
-*Late Bloom Stories* is a **300-episode fiction serial** in English for **OmegleChat** — each episode is a standalone romance with a **happy ending**, tied together by loneliness, connection, and quiet nights when **random chat** helps for an hour (but real love is still offline).
+*Late Bloom Stories* is a **300-episode fiction serial** — each episode is a **standalone romance (1,000+ words)** with a **happy ending**, hero image, and optional narrated audio. Themes: loneliness, connection, and quiet nights when random chat helps for an hour (but real love is still offline).
 
-**~6–10 min read per episode** · New parts publish on a rolling schedule.
+**~8–12 min read per episode** · New parts publish on a rolling schedule.
 
 ---
 
-## Season 1 — Episodes I–VI (live on blog)
+## All published parts
 
+<div class="post-card-grid">
+{% assign lb_posts = site.posts | where: "series_slug", "late-bloom-stories" | sort: "series_part" %}
+{% for post in lb_posts %}
+  {% include post-card.html post=post %}
+{% endfor %}
+</div>
+
+{% if lb_posts.size == 0 %}
 | Part | Title | Status |
 |------|-------|--------|
-| I | [Late Blooming Cherry]({{ '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}) | ✅ Live |
-| II | [The Messages She Never Sent]({{ '/late-bloom-part-ii-messages-never-sent/' | relative_url }}) | ✅ Live |
-| III | [Broken Mirror on a Rain Street]({{ '/late-bloom-part-iii-broken-mirror-rain-street/' | relative_url }}) | ✅ Live |
-| IV | [A One-Year Contract]({{ '/late-bloom-part-iv-one-year-contract/' | relative_url }}) | ✅ Live |
-| V | [The Friend from That Year]({{ '/late-bloom-part-v-friend-from-that-year/' | relative_url }}) | ✅ Live |
-| VI | [Noodle Shop Number Seven]({{ '/late-bloom-part-vi-noodle-shop-number-seven/' | relative_url }}) | ✅ Finale S1 |
-
----
-
-## Episodes VII–300
-
-The full catalog (300 episodes · US settings · mirror of the Vietnamese serial) is in production. Episodes publish to this blog **2–3 per week** after Season 1.
-
-**Themes:** second chances, wrong photographs, fake dating, childhood friends, long distance, blind dates, elevator blackouts, language exchange on random chat, and more.
+| I | [Late Blooming Cherry]({{ '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}) | Live |
+{% endif %}
 
 ---
 

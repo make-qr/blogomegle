@@ -1,5 +1,6 @@
 ---
 layout: default
+full_width: true
 ---
 <article class="post-page">
   {% if page.series_name %}
@@ -19,43 +20,88 @@ layout: default
     <h1>{{ page.title }}</h1>
     <div class="post-meta">
       {% if page.author %}
-      <span>By <a href="{{ '/author/morgan-rivers/' | relative_url }}">{{ page.author }}</a>{% if page.author_role %}, {{ page.author_role }}{% endif %}</span>
+      <span>By <a href="{{ '/author/' | append: page.author_slug | default: 'morgan-rivers' | append: '/' | relative_url }}">{{ page.author }}</a>{% if page.author_role %}, {{ page.author_role }}{% endif %}</span>
       {% endif %}
       {% if page.category %}
       <span class="sep">·</span>
-      <a href="{{ '/category/human-connection/' | relative_url }}">{{ page.category }}</a>
+      <a href="{{ '/category/' | append: page.category_slug | default: 'human-connection' | append: '/' | relative_url }}">{{ page.category }}</a>
       {% endif %}
       {% if page.date %}
       <span class="sep">·</span>
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
       {% endif %}
+      <span class="sep">·</span>
+      {% include reading-time.html %}
     </div>
     {% if page.excerpt %}
     <p class="post-deck">{{ page.excerpt }}</p>
     {% endif %}
   </header>
 
-  {% include ad-leaderboard.html %}
-
-  <div class="post-body prose">
-    {{ content }}
-  </div>
-
-  {% include ad-leaderboard.html %}
-
-  {% if page.series_name and page.prev_part or page.next_part %}
-  <nav class="serial-nav" aria-label="Series navigation">
-    {% if page.prev_part %}
-    <a class="serial-nav-prev" href="{{ page.prev_part | relative_url }}">← Previous part</a>
-    {% else %}<span></span>{% endif %}
-    {% if page.next_part %}
-    <a class="serial-nav-next" href="{{ page.next_part | relative_url }}">Next part →</a>
-    {% endif %}
-  </nav>
+  {% if page.hero_image or page.image %}
+  <figure class="post-hero">
+    <img src="{% if page.hero_image contains 'http' %}{{ page.hero_image }}{% else %}{{ page.hero_image | default: page.image | relative_url }}{% endif %}" alt="{{ page.hero_alt | default: page.title }}" width="1200" height="630" loading="eager">
+    {% if page.hero_caption %}<figcaption>{{ page.hero_caption }}</figcaption>{% endif %}
+  </figure>
   {% endif %}
 
-  <footer class="post-footer">
-    <a href="{{ '/posts/' | relative_url }}">← All posts</a>
-    <a href="{{ site.main_site }}" class="cta-chat">Try OmegleChat</a>
-  </footer>
+  {% if page.youtube_id %}
+  <div class="media-embed video-embed">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}"
+      title="{{ page.title }}"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    {% if page.youtube_caption %}<p class="media-caption">{{ page.youtube_caption }}</p>{% endif %}
+  </div>
+  {% endif %}
+
+  <div class="post-layout">
+    <div class="post-main">
+      <nav id="post-toc" class="post-toc-mobile" aria-label="Table of contents" hidden>
+        <strong>On this page</strong>
+        <ol id="post-toc-list"></ol>
+      </nav>
+
+      {% include ad-leaderboard.html %}
+
+      <div class="post-body prose">
+        {{ content }}
+      </div>
+
+      {% include ad-leaderboard.html %}
+
+      {% include serial-progress.html %}
+
+      {% if page.series_name and page.prev_part or page.next_part %}
+      <nav class="serial-nav" aria-label="Series navigation">
+        {% if page.prev_part %}
+        <a class="serial-nav-prev btn btn-outline" href="{{ page.prev_part | relative_url }}">← Previous part</a>
+        {% else %}<span></span>{% endif %}
+        {% if page.next_part %}
+        <a class="serial-nav-next btn" href="{{ page.next_part | relative_url }}">Next part →</a>
+        {% endif %}
+      </nav>
+      {% endif %}
+
+      <footer class="post-footer">
+        <a href="{{ '/posts/' | relative_url }}">← All posts</a>
+        <a href="{{ site.chat_url }}" class="cta-chat">Try OmegleChat</a>
+      </footer>
+    </div>
+
+    <aside class="post-sidebar">
+      <nav id="post-toc-desktop" class="post-toc" aria-label="Table of contents" hidden>
+        <strong>On this page</strong>
+        <ol id="post-toc-list-desktop"></ol>
+      </nav>
+      {% include related-posts.html %}
+      <div class="sidebar-cta">
+        <p><strong>Need someone to talk to?</strong></p>
+        <p class="text-muted">Safe random chat in your browser — no download.</p>
+        <a class="btn" href="{{ site.chat_url }}">Start free chat</a>
+      </div>
+    </aside>
+  </div>
 </article>

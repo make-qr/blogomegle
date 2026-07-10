@@ -36,6 +36,7 @@ DATE_MAP: dict[str, str] = {
     "late-bloom-part-iv-one-year-contract": "2026-06-26",
     "late-bloom-part-v-friend-from-that-year": "2026-06-27",
     "late-bloom-part-vi-noodle-shop-number-seven": "2026-06-28",
+    "how-to-start-conversation-someone-you-like": "2026-07-10",
 }
 
 GUIDE_CATEGORY = "Omegle & Alternatives"
@@ -100,7 +101,8 @@ def jekyll_post(meta: dict, body: str, slug: str, d: str) -> str:
     for key in (
         "author", "author_slug", "author_role", "category", "category_slug",
         "series_name", "series_slug", "series_part", "series_parts", "series_part_label",
-        "format", "prev_part", "next_part", "tags",
+        "format", "pillar", "prev_part", "next_part", "tags",
+        "hero_image", "hero_alt", "hero_caption", "youtube_id", "youtube_caption",
     ):
         if key in meta and meta[key] not in ("", None):
             val = meta[key]
@@ -111,9 +113,15 @@ def jekyll_post(meta: dict, body: str, slug: str, d: str) -> str:
                 if not p.endswith("/"):
                     p += "/"
                 lines.append(f"{key}: {p}")
-            else:
-                lines.append(f"{key}: {val}" if not isinstance(val, str) or " " not in val else f'{key}: "{val}"')
-    if meta.get("format") != "serial" and meta.get("category") != "Human Connection":
+            elif key in ("hero_image", "hero_alt", "hero_caption", "youtube_caption", "excerpt", "title") or (
+                isinstance(val, str) and (" " in val or val.startswith("http"))
+            ):
+                lines.append(f'{key}: "{val.replace(chr(34), chr(39))}"')
+    if (
+        meta.get("format") != "serial"
+        and meta.get("category_slug") not in ("human-connection", "love-journey", "love-romance")
+        and meta.get("category") != "Human Connection"
+    ):
         lines.append(f"category: {GUIDE_CATEGORY}")
         lines.append(f"category_slug: {GUIDE_SLUG}")
     lines.append("---")
@@ -133,6 +141,10 @@ def collect_sources() -> list[Path]:
         for p in sorted(serial.glob("part-*.md")):
             paths.append(p)
         for p in sorted(serial.glob("late-bloom*.md")):
+            paths.append(p)
+    lj = SRC / "love-journey"
+    if lj.is_dir():
+        for p in sorted(lj.glob("*.md")):
             paths.append(p)
     return paths
 

@@ -1,6 +1,6 @@
 ---
 title: "Coffee Number 77 Every Morning — Late Bloom Stories Part X"
-date: 2026-07-01
+date: 2026-07-10
 slug: late-bloom-part-x-coffee-number-77-every-morning
 permalink: /late-bloom-part-x-coffee-number-77-every-morning/
 excerpt: "Nathan and Maya — a Late Bloom love story with a happy ending."

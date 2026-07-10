@@ -3,10 +3,10 @@
 <head>
   {% include head.html %}
 </head>
-<body>
+<body class="{% if page.url == '/' %}page-home{% elsif page.layout == 'post' %}page-post{% else %}page-static{% endif %}">
   {% include header.html %}
   <main class="site-main">
-    <div class="container content-wrap">
+    <div class="container {% if page.full_width %}container-wide{% else %}content-wrap{% endif %}">
       {{ content }}
     </div>
   </main>

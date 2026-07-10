@@ -1,6 +1,6 @@
 ---
 title: "Mochi the Dog and Two Strangers — Late Bloom Stories Part IX"
-date: 2026-07-01
+date: 2026-07-10
 slug: late-bloom-part-ix-mochi-the-dog-and-two-strangers
 permalink: /late-bloom-part-ix-mochi-the-dog-and-two-strangers/
 excerpt: "Lucas and Mia — a Late Bloom love story with a happy ending."

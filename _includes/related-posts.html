@@ -1,0 +1,18 @@
+{% assign cat = page.category_slug | default: 'human-connection' %}
+{% assign related = site.posts | where_exp: "item", "item.url != page.url" %}
+{% assign count = 0 %}
+<aside class="related-posts" aria-label="Related articles">
+  <h2 class="sidebar-title">Related reading</h2>
+  <ul class="related-list">
+    {% for post in related %}
+      {% if count >= 3 %}{% break %}{% endif %}
+      {% assign match = false %}
+      {% if page.series_slug and post.series_slug == page.series_slug %}{% assign match = true %}{% endif %}
+      {% if post.category_slug == cat %}{% assign match = true %}{% endif %}
+      {% if match %}
+        {% assign count = count | plus: 1 %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</aside>
