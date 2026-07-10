@@ -43,6 +43,11 @@ exclude:
   - Gemfile.lock
   - README.md
   - DEPLOY.md
+  - HUONG-DAN-VIET-BAI-BLOG.md
   - sync-from-seo.py
+  - assign-post-covers.py
+  - download-cover-images.py
+  - download-post-images.py
+  - check-links.py
   - vendor
   - .bundle

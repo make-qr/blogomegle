@@ -79,6 +79,27 @@ Markdown inline (sau khi localize):
 
 ---
 
+## Link — trỏ đúng website đích
+
+Mọi link phải tới đúng đích, tránh 404. Sau khi viết/sync chạy:
+
+```bash
+cd ~/huong-dan/du-an/ca-nhan-anh/omeglechat/blog.omeglechat.online
+python3 check-links.py         # kiểm tra (nội bộ + omeglechat.online)
+python3 check-links.py --fix   # tự sửa dạng sai đã biết (thiếu .html)
+```
+
+Quy tắc:
+
+- **Trang chính (site chính):** luôn có đuôi `.html` — `https://omeglechat.online/chat.html`, `/making-friends.html`, `/safety-tips.html`, `/language-learning.html`. **Không** dùng `/chat` (404).
+- **Nút chat / main site:** dùng biến `{{ site.chat_url }}` và `{{ site.main_site }}` (khai báo trong `_config.yml`), không hardcode.
+- **Link nội bộ blog:** dùng permalink có `/` đầu–cuối — `/late-bloom-part-i-.../`, `/series/late-bloom-stories/`, `/category/love-journey/`, `/author/morgan-rivers/`. **Không** dùng `/blog/....html` (đường dẫn cũ).
+- **Ảnh:** `/assets/images/...` phải tồn tại trên đĩa (script tự kiểm tra).
+
+CI và script NAS tự chạy `check-links.py --fix` trước khi build.
+
+---
+
 ## Video YouTube
 
 Frontmatter:
