@@ -145,10 +145,10 @@ def collect_sources() -> list[Path]:
     if POSTS.is_dir():
         files.extend(sorted(POSTS.glob("*.md")))
     if SEO.is_dir():
-        for md in sorted(SEO.rglob("*.md")):
-            if any(skip in md.name for skip in ("KE-HOACH", "_")):
-                continue
-            files.append(md)
+        for sub in ("serial", "love-journey"):
+            d = SEO / sub
+            if d.is_dir():
+                files.extend(sorted(d.glob("*.md")))
     return files
 
 
