@@ -743,7 +743,32 @@ a:hover { text-decoration: underline; }
 .nav-dropdown-menu a:hover { background: var(--bg-elevated); color: var(--text); text-decoration: none; }
 
 .page-home .content-wrap,
-.page-home .container-wide { max-width: var(--wide); }
+.page-home .container-wide,
+.page-archive .container-wide { max-width: var(--wide); }
+
+.page-archive .archive-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.page-archive .archive-header h1 {
+  font-family: var(--serif);
+  font-size: clamp(1.85rem, 4vw, 2.35rem);
+  font-weight: 600;
+  line-height: 1.15;
+  margin-bottom: 0.6rem;
+}
+
+.page-archive .archive-lead {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 40em;
+}
+
+.page-archive .category-pills { margin-bottom: 2rem; }
+
+.page-archive .archive-listing { margin-top: 0; }
 
 .page-static { max-width: var(--wide); }
 
