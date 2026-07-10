@@ -33,7 +33,7 @@ category: Love Journey
 category_slug: love-journey
 pillar: love-journey
 format: article
-hero_image: "https://images.unsplash.com/photo-...?w=1200&q=80"
+hero_image: "/assets/images/posts/your-slug/hero-xxxxxxxx.jpg"
 hero_alt: "Mô tả ảnh"
 hero_caption: "Photo: Unsplash"
 youtube_id: "VIDEO_ID"          # tuỳ chọn
@@ -47,7 +47,7 @@ youtube_caption: "Video: ..."
 category: Love & Romance
 category_slug: love-romance
 series_slug: late-bloom-stories
-hero_image: "https://images.unsplash.com/..."
+hero_image: "/assets/images/posts/your-slug/hero-xxxxxxxx.jpg"
 format: serial
 ```
 
@@ -55,14 +55,25 @@ format: serial
 
 ## Ảnh
 
-- **Nguồn ưu tiên:** [Unsplash](https://unsplash.com) — URL trực tiếp `?w=1200&q=80` (hero) / `?w=800` (inline)
+**Sau khi viết/sync bài — bắt buộc chạy:**
+
+```bash
+cd ~/huong-dan/du-an/ca-nhan-anh/omeglechat/blog.omeglechat.online
+python3 download-post-images.py
+```
+
+Script tải ảnh Unsplash (hoặc URL ngoài) về `assets/images/posts/{slug}/` và đổi link trong markdown sang đường dẫn local `/assets/images/...`. **Không hotlink** — tránh ảnh 404 trên live site.
+
+- **Nguồn ưu tiên:** [Unsplash](https://unsplash.com) — chọn ảnh còn hoạt động (test URL trước)
+- **Hero:** `hero_image: "/assets/images/posts/your-slug/hero-xxxxxxxx.jpg"`
+- **Inline:** `![Mô tả](/assets/images/posts/your-slug/inline-01-xxxxxxxx.jpg)`
 - **Caption:** Ghi `Photo: Unsplash` hoặc credit cụ thể
 - **Alt text:** `hero_alt` trong frontmatter
 
-Markdown inline:
+Markdown inline (sau khi localize):
 
 ```markdown
-![Mô tả ngắn](https://images.unsplash.com/photo-...?w=800&q=80)
+![Mô tả ngắn](/assets/images/posts/your-slug/inline-01-xxxxxxxx.jpg)
 *Caption in nghiêng.*
 ```
 
