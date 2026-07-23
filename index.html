@@ -19,11 +19,12 @@ full_width: true
     <p class="label">★ Featured serial · Ongoing</p>
     <h2><a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a></h2>
     <p>300 romance episodes with happy endings — loneliness, random chat, and love that blooms late. New parts every week.</p>
-    {% assign lb = site.posts | where: "series_slug", "late-bloom-stories" | first %}
-    {% if lb %}
-    <a class="btn" href="{{ lb.url | relative_url }}">Continue reading</a>
-    {% else %}
-    <a class="btn" href="{{ '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Start Part I</a>
+    <p id="continue-reading-meta" class="continue-meta" hidden></p>
+    {% assign lb_first = site.posts | where: "series_slug", "late-bloom-stories" | sort: "series_part" | first %}
+    {% assign lb_latest = site.posts | where: "series_slug", "late-bloom-stories" | first %}
+    <a id="continue-reading-btn" class="btn" href="{{ lb_first.url | default: '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Start Part I</a>
+    {% if lb_latest %}
+    <a class="btn btn-outline" href="{{ lb_latest.url | relative_url }}">Newest episode</a>
     {% endif %}
     <a class="btn btn-outline" href="{{ '/series/late-bloom-stories/' | relative_url }}">Series index</a>
   </article>

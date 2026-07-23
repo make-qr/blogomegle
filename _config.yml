@@ -52,5 +52,6 @@ exclude:
   - check-links.py
   - reassign-late-bloom-images.py
   - fix-guides-and-audio.py
+  - publish-serial-daily.sh
   - vendor
   - .bundle

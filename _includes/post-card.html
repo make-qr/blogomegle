@@ -13,7 +13,7 @@
   </a>
   <div class="post-card-body">
     {% if post.series_name %}
-    <span class="post-card-tag tag-romance">{{ post.series_name }}{% if post.series_part_label %} · {{ post.series_part_label }}{% endif %}</span>
+    <span class="post-card-tag tag-romance">{{ post.series_name }}{% if post.series_part %} · Part {{ post.series_part }}{% elsif post.series_part_label %} · {{ post.series_part_label }}{% endif %}</span>
     {% elsif post.category_slug == 'love-journey' %}
     <span class="post-card-tag tag-advice">Love Journey</span>
     {% elsif post.category_slug == 'safety-guides' or post.category_slug == 'omegle-alternatives' or post.format == 'guide' %}

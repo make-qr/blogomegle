@@ -361,6 +361,32 @@ article.page-static .toc-table th {
   margin-left: auto;
   margin-right: auto;
   min-height: 90px;
+  max-height: 120px;
+  overflow: hidden;
+}
+
+.continue-meta {
+  font-size: 0.9rem;
+  color: var(--accent-romance);
+  margin: 0 0 0.75rem;
+}
+
+.read-next-prompt {
+  margin: 1rem 0 0;
+  padding: 0.85rem 1rem;
+  background: var(--accent-soft);
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+.related-next a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.related-series-link {
+  margin: 0.75rem 0 0;
+  font-size: 0.8rem;
 }
 
 /* Footer */
@@ -472,6 +498,7 @@ article.page-static .toc-table th {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
+  isolation: isolate;
   display: flex;
   flex-direction: column;
   transition: transform 0.15s ease, border-color 0.15s ease;

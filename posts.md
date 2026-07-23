@@ -11,9 +11,9 @@ page_kind: archive
   <p class="archive-lead">Romance serials, relationship advice, and safer chat guides — {{ site.posts.size }} articles and counting.</p>
 </section>
 
-{% include ad-leaderboard.html %}
-
 {% include category-pills.html active='all' %}
+
+{% include ad-leaderboard.html %}
 
 {% assign lb_posts = site.posts | where: "series_slug", "late-bloom-stories" | sort: "series_part" | reverse %}
 {% assign qh_posts = site.posts | where: "series_slug", "the-quiet-hours-chronicle" | sort: "series_part" %}

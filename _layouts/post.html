@@ -2,7 +2,14 @@
 layout: default
 full_width: true
 ---
-<article class="post-page">
+<article
+  class="post-page"
+  data-series-slug="{{ page.series_slug }}"
+  data-series-part="{{ page.series_part }}"
+  data-post-url="{{ page.url | relative_url }}"
+  data-post-title="{{ page.title | escape }}"
+  data-next-part="{% if page.next_part %}{{ page.next_part | relative_url }}{% endif %}"
+>
   {% if page.series_name %}
   <p class="post-kicker">
     {% if page.series_slug %}
@@ -10,7 +17,9 @@ full_width: true
     {% else %}
     <a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">{{ page.series_name }}</a>
     {% endif %}
-    {% if page.series_part_label %}
+    {% if page.series_part %}
+    · Part {{ page.series_part }}{% if page.series_parts %} of {{ page.series_parts }}{% endif %}
+    {% elsif page.series_part_label %}
     · {{ page.series_part_label }}{% if page.series_parts %} of {{ page.series_parts }}{% endif %}
     {% endif %}
   </p>
@@ -77,12 +86,16 @@ full_width: true
       {% if page.series_name and page.prev_part or page.next_part %}
       <nav class="serial-nav" aria-label="Series navigation">
         {% if page.prev_part %}
-        <a class="serial-nav-prev btn btn-outline" href="{{ page.prev_part | relative_url }}">← Previous part</a>
+        <a class="serial-nav-prev btn btn-outline" href="{{ page.prev_part | relative_url }}">← Previous{% if page.series_part %} · Part {{ page.series_part | minus: 1 }}{% endif %}</a>
         {% else %}<span></span>{% endif %}
         {% if page.next_part %}
-        <a class="serial-nav-next btn" href="{{ page.next_part | relative_url }}">Next part →</a>
+        <a class="serial-nav-next btn" href="{{ page.next_part | relative_url }}">Next{% if page.series_part %} · Part {{ page.series_part | plus: 1 }}{% endif %} →</a>
         {% endif %}
       </nav>
+      {% endif %}
+
+      {% if page.next_part and page.series_slug == 'late-bloom-stories' %}
+      <p class="read-next-prompt">Keep the story going — <a href="{{ page.next_part | relative_url }}">open the next episode</a>.</p>
       {% endif %}
 
       <footer class="post-footer">
