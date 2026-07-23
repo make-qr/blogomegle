@@ -6,7 +6,7 @@
 <body class="{% if page.url == '/' %}page-home{% elsif page.layout == 'post' %}page-post{% elsif page.page_kind == 'archive' %}page-archive{% else %}page-default{% endif %}">
   {% include header.html %}
   <main class="site-main">
-    <div class="container {% if page.full_width %}container-wide{% else %}content-wrap{% endif %}">
+    <div class="container {% if page.full_width or page.layout == 'post' %}container-wide{% else %}content-wrap{% endif %}">
       {{ content }}
     </div>
   </main>

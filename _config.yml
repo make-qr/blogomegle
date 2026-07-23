@@ -32,6 +32,7 @@ defaults:
       type: posts
     values:
       layout: post
+      full_width: true
   - scope:
       path: ""
       type: pages
