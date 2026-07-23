@@ -83,8 +83,8 @@ DATE_MAP: dict[str, str] = {
     "how-to-start-conversation-someone-you-like": "2026-07-10",
 }
 
-GUIDE_CATEGORY = "Omegle & Alternatives"
-GUIDE_SLUG = "omegle-alternatives"
+GUIDE_CATEGORY = "Safety & Guides"
+GUIDE_SLUG = "safety-guides"
 
 SKIP_FILES = {"KE-HOACH", "_"}
 

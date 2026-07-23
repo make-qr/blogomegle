@@ -26,17 +26,6 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 This is Part 52 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 51](/late-bloom-part-51-college-rivals/).
 
-
-
-<div class="audio-player-wrap">
-  <strong>🎧 Listen (narrated)</strong><br>
-  <audio controls preload="metadata">
-    <source src="/assets/audio/late-bloom-part-52-an-exs-wedding.mp3" type="audio/mpeg">
-  </audio>
-  <em>Soft narration — Late Bloom Stories</em>
-</div>
-
-
 ## San Francisco
 
 This is the story of Noah and Kate.
@@ -105,7 +94,6 @@ If you are in your own San Francisco tonight, notice where you feel most yoursel
 ![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-52-an-exs-wedding/inline-02-f6762a99.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
-
 ## What this has to do with OmegleChat
 
 We build **OmegleChat** for safe random conversation in the browser — not to replace real love, but to soften lonely nights until you're ready to reach out offline.
@@ -113,7 +101,6 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Start free chat](https://omeglechat.online/chat.html)
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
-
 
 ## Reading note
 

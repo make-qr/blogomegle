@@ -27,17 +27,6 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 This is Part XI of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part X](/late-bloom-part-x-coffee-number-77-every-morning/).
 
-
-
-<div class="audio-player-wrap">
-  <strong>🎧 Listen (narrated)</strong><br>
-  <audio controls preload="metadata">
-    <source src="/assets/audio/late-bloom-part-xi-college-rivals.mp3" type="audio/mpeg">
-  </audio>
-  <em>Soft narration — Late Bloom Stories</em>
-</div>
-
-
 ## Portland
 
 This is the story of James and Olivia.
@@ -106,7 +95,6 @@ If you are in your own Portland tonight, notice where you feel most yourself. Th
 ![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-xi-college-rivals/inline-02-23232448.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
-
 ## What this has to do with OmegleChat
 
 We build **OmegleChat** for safe random conversation in the browser — not to replace real love, but to soften lonely nights until you're ready to reach out offline.
@@ -114,7 +102,6 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Start free chat](https://omeglechat.online/chat.html)
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
-
 
 ## Reading note
 

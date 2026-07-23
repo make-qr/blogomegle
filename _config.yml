@@ -51,5 +51,6 @@ exclude:
   - download-post-images.py
   - check-links.py
   - reassign-late-bloom-images.py
+  - fix-guides-and-audio.py
   - vendor
   - .bundle

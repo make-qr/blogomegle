@@ -18,9 +18,9 @@ category_slug: safety-guides
 <section class="home-section archive-listing">
   <div class="post-card-grid">
     {% for post in site.posts %}
-      {% unless post.category_slug == 'human-connection' or post.category_slug == 'love-romance' or post.category_slug == 'love-journey' or post.series_name %}
+      {% if post.category_slug == 'safety-guides' or post.category_slug == 'omegle-alternatives' %}
         {% include post-card.html post=post %}
-      {% endunless %}
+      {% endif %}
     {% endfor %}
   </div>
 </section>

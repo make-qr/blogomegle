@@ -27,17 +27,6 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 This is Part 28 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 27](/late-bloom-part-27-8-hours-apart/).
 
-
-
-<div class="audio-player-wrap">
-  <strong>🎧 Listen (narrated)</strong><br>
-  <audio controls preload="metadata">
-    <source src="/assets/audio/late-bloom-part-28-blind-date-at-zilker-park.mp3" type="audio/mpeg">
-  </audio>
-  <em>Soft narration — Late Bloom Stories</em>
-</div>
-
-
 ## Austin
 
 This is the story of Henry and Kara.
@@ -106,7 +95,6 @@ If you are in your own Austin tonight, notice where you feel most yourself. That
 ![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-28-blind-date-at-zilker-park/inline-02-f6762a99.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
-
 ## What this has to do with OmegleChat
 
 We build **OmegleChat** for safe random conversation in the browser — not to replace real love, but to soften lonely nights until you're ready to reach out offline.
@@ -114,7 +102,6 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Start free chat](https://omeglechat.online/chat.html)
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
-
 
 ## Reading note
 

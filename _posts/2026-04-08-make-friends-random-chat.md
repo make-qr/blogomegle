@@ -5,8 +5,11 @@ slug: make-friends-random-chat
 permalink: /make-friends-random-chat/
 excerpt: "Random chat isn't just for boredom — here's how people turn one good match into an actual online friendship."
 tags: [omegle, chat, social, friendship]
-category: Omegle & Alternatives
-category_slug: omegle-alternatives
+hero_image: "/assets/images/posts/make-friends-random-chat/hero-e6f1016e.jpg"
+hero_alt: "Safety guide cover — make-friends-random-chat"
+hero_caption: "Photo: Unsplash"
+category: Safety & Guides
+category_slug: safety-guides
 ---
 
 Most people treat random chat like a slot machine: spin, hope, leave. That's fine for killing time — but **some of the best online friendships start from a single good conversation** if you know what you're looking for.

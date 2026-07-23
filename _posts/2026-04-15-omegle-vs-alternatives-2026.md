@@ -5,8 +5,11 @@ slug: omegle-vs-alternatives-2026
 permalink: /omegle-vs-alternatives-2026/
 excerpt: "Omegle is gone. How do popular alternatives stack up on safety, ease of use, and mobile browser support?"
 tags: [omegle, chat, comparison, webdev]
-category: Omegle & Alternatives
-category_slug: omegle-alternatives
+hero_image: "/assets/images/posts/omegle-vs-alternatives-2026/hero-2b942ba9.jpg"
+hero_alt: "Safety guide cover — omegle-vs-alternatives-2026"
+hero_caption: "Photo: Unsplash"
+category: Safety & Guides
+category_slug: safety-guides
 ---
 
 Omegle shut down in November 2023. Search traffic didn't — millions still type **"omegle alternative"** every month. The names that fill results aren't equal. Here's a practical comparison for 2026.

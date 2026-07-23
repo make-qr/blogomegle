@@ -26,8 +26,6 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 This is Part I of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After the series.
 
-
-
 <div class="audio-player-wrap">
   <strong>🎧 Listen (narrated)</strong><br>
   <audio controls preload="metadata">
@@ -35,7 +33,6 @@ This is Part I of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 
   </audio>
   <em>Soft narration — Late Bloom Stories</em>
 </div>
-
 
 ## Seattle
 
@@ -162,7 +159,6 @@ If you are in your own Seattle tonight, notice where you feel most yourself. Tha
 
 ![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-i-late-blooming-cherry/inline-02-c06388d5.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
-
 
 ## What this has to do with OmegleChat
 

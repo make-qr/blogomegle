@@ -27,17 +27,6 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 This is Part 36 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 35](/late-bloom-part-35-you-smiled-more-today/).
 
-
-
-<div class="audio-player-wrap">
-  <strong>🎧 Listen (narrated)</strong><br>
-  <audio controls preload="metadata">
-    <source src="/assets/audio/late-bloom-part-36-viewer-number-3.mp3" type="audio/mpeg">
-  </audio>
-  <em>Soft narration — Late Bloom Stories</em>
-</div>
-
-
 ## Chicago
 
 This is the story of Lucas and Chloe.
@@ -106,7 +95,6 @@ If you are in your own Chicago tonight, notice where you feel most yourself. Tha
 ![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-36-viewer-number-3/inline-02-1cfd6c8d.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
-
 ## What this has to do with OmegleChat
 
 We build **OmegleChat** for safe random conversation in the browser — not to replace real love, but to soften lonely nights until you're ready to reach out offline.
@@ -114,7 +102,6 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Start free chat](https://omeglechat.online/chat.html)
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
-
 
 ## Reading note
 

@@ -5,8 +5,11 @@ slug: omegle-alternative-2026
 permalink: /omegle-alternative-2026/
 excerpt: "After Omegle shut down, here's how to choose a safe random chat site and what to try in your browser today."
 tags: [omegle, chat, webdev, security]
-category: Omegle & Alternatives
-category_slug: omegle-alternatives
+hero_image: "/assets/images/posts/omegle-alternative-2026/hero-72d756f9.jpg"
+hero_alt: "Safety guide cover — omegle-alternative-2026"
+hero_caption: "Photo: Unsplash"
+category: Safety & Guides
+category_slug: safety-guides
 ---
 
 When Omegle closed in late 2023, millions of users lost their go-to place for **random video and text chat**. Copycat sites appeared overnight — some fine, many sketchy. If you still want to **talk to strangers online** in 2026, you need a short checklist before you click "Start."

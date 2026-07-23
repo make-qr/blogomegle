@@ -5,8 +5,11 @@ slug: random-chat-safety-2026
 permalink: /random-chat-safety-2026/
 excerpt: "A practical safety checklist for random video and text chat — before, during, and after a session."
 tags: [security, chat, omegle, privacy]
-category: Omegle & Alternatives
-category_slug: omegle-alternatives
+hero_image: "/assets/images/posts/random-chat-safety-2026/hero-64d2df2c.jpg"
+hero_alt: "Safety guide cover — random-chat-safety-2026"
+hero_caption: "Photo: Unsplash"
+category: Safety & Guides
+category_slug: safety-guides
 ---
 
 Random chat is fun until it isn't. One bad match can ruin your week — or worse. The good news: **most risk is manageable** if you prepare for five minutes before your first session.
