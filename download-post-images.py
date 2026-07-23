@@ -19,6 +19,8 @@ BROKEN_REPLACEMENTS: dict[str, str] = {
     "photo-1522673607210-e57a6d6de36c": "https://images.unsplash.com/photo-1522383225653-ed111181a951",
     "photo-1477959857187-3cebc4723ba0": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2",
     "photo-1518199266791-5375a83190cc": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac",
+    "photo-1523438885200-e6350762bf28": "https://images.unsplash.com/photo-1519741497674-611481863552",
+    "photo-1437623889155-075d1c1d7d79": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e",
 }
 
 HTTP_URL_RE = re.compile(r"https?://[^\s\"')>\]]+")

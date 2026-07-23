@@ -18,6 +18,9 @@ format: serial
 prev_part: /late-bloom-part-i-late-blooming-cherry/
 next_part: /late-bloom-part-iii-broken-mirror-rain-street/
 tags: [serial, love, connection, romance, human-connection, omeglechat, texting]
+hero_image: "/assets/images/posts/late-bloom-part-ii-messages-never-sent/hero-7a43ae31.jpg"
+hero_alt: "Late Bloom Stories Part 2 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 <p class="audio-player-wrap">

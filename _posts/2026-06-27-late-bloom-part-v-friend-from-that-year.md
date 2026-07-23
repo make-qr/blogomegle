@@ -18,6 +18,9 @@ format: serial
 prev_part: /late-bloom-part-iv-one-year-contract/
 next_part: /late-bloom-part-vi-noodle-shop-number-seven/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: "/assets/images/posts/late-bloom-part-v-friend-from-that-year/hero-e6f1016e.jpg"
+hero_alt: "Late Bloom Stories Part 5 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 *This is the story of Ryan and Lily.*

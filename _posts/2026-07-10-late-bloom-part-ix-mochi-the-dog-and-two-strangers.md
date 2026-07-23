@@ -18,6 +18,9 @@ format: serial
 prev_part: /late-bloom-part-viii-blind-date-at-pike-place/
 next_part: /late-bloom-part-x-coffee-number-77-every-morning/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: "/assets/images/posts/late-bloom-part-ix-mochi-the-dog-and-two-strangers/hero-86df40ff.jpg"
+hero_alt: "Late Bloom Stories Part 9 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 *This is the story of Lucas and Mia.*

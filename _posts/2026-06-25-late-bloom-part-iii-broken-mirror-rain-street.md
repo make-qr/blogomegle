@@ -18,6 +18,9 @@ format: serial
 prev_part: /late-bloom-part-ii-messages-never-sent/
 next_part: /late-bloom-part-iv-one-year-contract/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: "/assets/images/posts/late-bloom-part-iii-broken-mirror-rain-street/hero-b75f3f6b.jpg"
+hero_alt: "Late Bloom Stories Part 3 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 *This is the story of Marcus and Sarah.*

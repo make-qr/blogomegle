@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-41-after-10-years-of-silence/
 next_part: /late-bloom-part-43-broken-mirror-on-the-west-village/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-42-119-messages-never-sent/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-42-119-messages-never-sent/hero-b75f3f6b.jpg"
 hero_alt: "Aaron & Hannah — 119 Messages Never Sent"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -94,7 +94,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-42-119-messages-never-sent/inline-01-84943e04.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-42-119-messages-never-sent/inline-01-c06388d5.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at New York

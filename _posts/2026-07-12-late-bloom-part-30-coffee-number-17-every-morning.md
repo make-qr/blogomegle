@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-29-bean-the-dog-and-two-strangers/
 next_part: /late-bloom-part-31-college-rivals/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-30-coffee-number-17-every-morning/hero-e6f1016e.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-30-coffee-number-17-every-morning/hero-acd84d4d.jpg"
 hero_alt: "Ryan & Emma — Coffee Number 17 Every Morning"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -94,7 +94,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-30-coffee-number-17-every-morning/inline-01-84943e04.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-30-coffee-number-17-every-morning/inline-01-c06388d5.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at Austin

@@ -17,6 +17,9 @@ series_part_label: "Part X"
 format: serial
 prev_part: /late-bloom-part-ix-mochi-the-dog-and-two-strangers/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: "/assets/images/posts/late-bloom-part-x-coffee-number-77-every-morning/hero-fb42065e.jpg"
+hero_alt: "Late Bloom Stories Part 10 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 *This is the story of Nathan and Maya.*

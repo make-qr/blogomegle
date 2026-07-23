@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-33-stuck-in-the-elevator-30-minutes/
 next_part: /late-bloom-part-35-you-smiled-more-today/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-34-blackout-on-lake-shore-drive/hero-e6f1016e.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-34-blackout-on-lake-shore-drive/hero-03d30ca1.jpg"
 hero_alt: "Kevin & Paige — Blackout on Lake Shore Drive"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -103,7 +103,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own Chicago tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-34-blackout-on-lake-shore-drive/inline-02-b7352339.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-34-blackout-on-lake-shore-drive/inline-02-5f0a4279.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 

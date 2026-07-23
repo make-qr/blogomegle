@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-x-coffee-number-77-every-morning/
 next_part: /late-bloom-part-xii-an-exs-wedding/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-xi-college-rivals/hero-e6f1016e.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-xi-college-rivals/hero-50c0665b.jpg"
 hero_alt: "James & Olivia — College Rivals"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -94,7 +94,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-xi-college-rivals/inline-01-84943e04.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-xi-college-rivals/inline-01-b7352339.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at Portland
@@ -103,7 +103,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own Portland tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-xi-college-rivals/inline-02-b7352339.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-xi-college-rivals/inline-02-23232448.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 

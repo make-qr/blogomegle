@@ -17,6 +17,9 @@ series_part_label: "Part VI"
 format: serial
 prev_part: /late-bloom-part-v-friend-from-that-year/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: "/assets/images/posts/late-bloom-part-vi-noodle-shop-number-seven/hero-437da30d.jpg"
+hero_alt: "Late Bloom Stories Part 6 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 *This is the story of Tom and Helen.*

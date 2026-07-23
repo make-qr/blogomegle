@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-21-after-1-years-of-silence/
 next_part: /late-bloom-part-23-broken-mirror-on-6th-street/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-22-539-messages-never-sent/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-22-539-messages-never-sent/hero-73ee9bff.jpg"
 hero_alt: "Ian & Nicole — 539 Messages Never Sent"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -103,7 +103,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own Austin tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-22-539-messages-never-sent/inline-02-b7352339.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-22-539-messages-never-sent/inline-02-5f0a4279.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 

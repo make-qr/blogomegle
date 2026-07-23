@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-xx-noodle-shop-number-27/
 next_part: /late-bloom-part-22-539-messages-never-sent/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-21-after-1-years-of-silence/hero-5d21e4a2.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-21-after-1-years-of-silence/hero-8323cdd6.jpg"
 hero_alt: "Grant & Rachel — After 1 Years of Silence"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -94,7 +94,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-21-after-1-years-of-silence/inline-01-84943e04.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-21-after-1-years-of-silence/inline-01-f6762a99.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at Austin
@@ -103,7 +103,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own Austin tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-21-after-1-years-of-silence/inline-02-b7352339.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-21-after-1-years-of-silence/inline-02-712dcb91.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 

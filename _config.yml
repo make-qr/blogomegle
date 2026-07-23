@@ -49,5 +49,6 @@ exclude:
   - download-cover-images.py
   - download-post-images.py
   - check-links.py
+  - reassign-late-bloom-images.py
   - vendor
   - .bundle
