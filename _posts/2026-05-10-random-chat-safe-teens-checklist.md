@@ -1,5 +1,4 @@
 ---
-
 title: "Is Random Video Chat Safe for Teens? A Parent's 5-Minute Checklist (2026)"
 date: 2026-05-10
 slug: random-chat-safe-teens-checklist
@@ -8,10 +7,6 @@ excerpt: "Before your teen clicks Start on any random chat app, run through this
 tags: [omegle, security, parenting, chat, privacy]
 category: Omegle & Alternatives
 category_slug: omegle-alternatives
-hero_image: /assets/images/posts/random-chat-safe-teens-checklist/hero-2ea870d2.jpg
-hero_alt: "Random chat safety guide"
-hero_caption: "Photo: Unsplash"
-
 ---
 
 "**Is Omegle safe for kids?**" still gets thousands of searches every month — even though Omegle itself shut down in 2023. Teens didn't stop wanting to **talk to strangers online**; they moved to OmeTV, Emerald, Discord servers, and dozens of "**Omegle alternative 2026**" sites with uneven moderation.

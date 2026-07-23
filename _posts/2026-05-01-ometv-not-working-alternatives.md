@@ -1,5 +1,4 @@
 ---
-
 title: "OmeTV Not Working? 6 Fixes + Safer Browser Alternatives (2026)"
 date: 2026-05-01
 slug: ometv-not-working-alternatives
@@ -8,10 +7,6 @@ excerpt: "OmeTV stuck on connecting, black screen, or camera blocked? Work throu
 tags: [omegle, chat, ometv, troubleshooting, webdev]
 category: Omegle & Alternatives
 category_slug: omegle-alternatives
-hero_image: /assets/images/posts/ometv-not-working-alternatives/hero-2ea870d2.jpg
-hero_alt: "Random chat safety guide"
-hero_caption: "Photo: Unsplash"
-
 ---
 
 If you searched **"OmeTV not working"**, you're not alone. OmeTV is one of the most popular post-Omegle random video apps — and also one of the most frustrating when the camera won't load, the spinner never ends, or you get banned in a loop with no explanation.

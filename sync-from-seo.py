@@ -15,6 +15,50 @@ POSTS = ROOT / "_posts"
 # slug → publish date (newest serial last for sort order we want reverse - actually Jekyll sorts newest first)
 # Assign dates so serial I is oldest in June, guides spread before
 DATE_MAP: dict[str, str] = {
+    "late-bloom-part-x-coffee-number-77-every-morning": "2026-07-10",
+    "late-bloom-part-ix-mochi-the-dog-and-two-strangers": "2026-07-10",
+    "late-bloom-part-52-an-exs-wedding": "2026-07-23",
+    "late-bloom-part-51-college-rivals": "2026-07-23",
+    "late-bloom-part-50-coffee-number-7-every-morning": "2026-07-22",
+    "late-bloom-part-49-mochi-the-dog-and-two-strangers": "2026-07-22",
+    "late-bloom-part-48-blind-date-at-brooklyn-bridge": "2026-07-21",
+    "late-bloom-part-47-8-hours-apart": "2026-07-21",
+    "late-bloom-part-46-neighbors-on-floor-8": "2026-07-20",
+    "late-bloom-part-45-the-friend-from-that-year-the-high-line": "2026-07-20",
+    "late-bloom-part-44-a-3-year-contract": "2026-07-19",
+    "late-bloom-part-43-broken-mirror-on-the-west-village": "2026-07-19",
+    "late-bloom-part-42-119-messages-never-sent": "2026-07-18",
+    "late-bloom-part-41-after-10-years-of-silence": "2026-07-18",
+    "late-bloom-part-40-noodle-shop-number-11": "2026-07-17",
+    "late-bloom-part-39-back-row-concert-tickets": "2026-07-17",
+    "late-bloom-part-38-night-shift-7": "2026-07-16",
+    "late-bloom-part-37-hello-from-random-chat": "2026-07-16",
+    "late-bloom-part-36-viewer-number-3": "2026-07-15",
+    "late-bloom-part-35-you-smiled-more-today": "2026-07-15",
+    "late-bloom-part-34-blackout-on-lake-shore-drive": "2026-07-14",
+    "late-bloom-part-33-stuck-in-the-elevator-30-minutes": "2026-07-14",
+    "late-bloom-part-32-an-exs-wedding": "2026-07-13",
+    "late-bloom-part-31-college-rivals": "2026-07-13",
+    "late-bloom-part-30-coffee-number-17-every-morning": "2026-07-12",
+    "late-bloom-part-29-bean-the-dog-and-two-strangers": "2026-07-12",
+    "late-bloom-part-28-blind-date-at-zilker-park": "2026-07-11",
+    "late-bloom-part-27-8-hours-apart": "2026-07-11",
+    "late-bloom-part-26-neighbors-on-floor-8": "2026-07-10",
+    "late-bloom-part-25-the-friend-from-that-year-the-congress-bridge": "2026-07-10",
+    "late-bloom-part-24-a-4-year-contract": "2026-07-09",
+    "late-bloom-part-23-broken-mirror-on-6th-street": "2026-07-09",
+    "late-bloom-part-22-539-messages-never-sent": "2026-07-08",
+    "late-bloom-part-21-after-1-years-of-silence": "2026-07-08",
+    "late-bloom-part-xx-noodle-shop-number-27": "2026-07-07",
+    "late-bloom-part-xix-back-row-concert-tickets": "2026-07-07",
+    "late-bloom-part-xviii-night-shift-17": "2026-07-06",
+    "late-bloom-part-xvii-hello-from-random-chat": "2026-07-06",
+    "late-bloom-part-xvi-viewer-number-11": "2026-07-05",
+    "late-bloom-part-xv-you-smiled-more-today": "2026-07-05",
+    "late-bloom-part-xiv-blackout-on-the-riverfront": "2026-07-04",
+    "late-bloom-part-xiii-stuck-in-the-elevator-30-minutes": "2026-07-04",
+    "late-bloom-part-xii-an-exs-wedding": "2026-07-03",
+    "late-bloom-part-xi-college-rivals": "2026-07-03",
     "late-bloom-part-viii-blind-date-at-pike-place": "2026-07-01",
     "late-bloom-part-vii-8-hours-apart": "2026-07-01",
     "omegle-alternative-2026": "2026-03-15",
@@ -113,10 +157,14 @@ def jekyll_post(meta: dict, body: str, slug: str, d: str) -> str:
                 if not p.endswith("/"):
                     p += "/"
                 lines.append(f"{key}: {p}")
+            elif key in ("series_part", "series_parts") and isinstance(val, int):
+                lines.append(f"{key}: {val}")
             elif key in ("hero_image", "hero_alt", "hero_caption", "youtube_caption", "excerpt", "title") or (
-                isinstance(val, str) and (" " in val or val.startswith("http"))
+                isinstance(val, str) and (" " in val or val.startswith("http") or "&" in val)
             ):
                 lines.append(f'{key}: "{val.replace(chr(34), chr(39))}"')
+            else:
+                lines.append(f"{key}: {val}")
     if (
         meta.get("format") != "serial"
         and meta.get("category_slug") not in ("human-connection", "love-journey", "love-romance")

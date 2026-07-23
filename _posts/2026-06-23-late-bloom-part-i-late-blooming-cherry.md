@@ -17,7 +17,7 @@ series_part_label: "Part I"
 format: serial
 next_part: /late-bloom-part-ii-messages-never-sent/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: /assets/images/posts/late-bloom-part-i-late-blooming-cherry/hero-5d21e4a2.jpg
+hero_image: "/assets/images/posts/late-bloom-part-i-late-blooming-cherry/hero-5d21e4a2.jpg"
 hero_alt: "Ethan & Claire — Late Blooming Cherry"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---

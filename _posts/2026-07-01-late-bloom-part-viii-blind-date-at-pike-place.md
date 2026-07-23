@@ -1,5 +1,4 @@
 ---
-
 title: "Blind Date at Pike Place — Late Bloom Stories Part VIII"
 date: 2026-07-01
 slug: late-bloom-part-viii-blind-date-at-pike-place
@@ -19,10 +18,6 @@ format: serial
 prev_part: /late-bloom-part-vii-8-hours-apart/
 next_part: /late-bloom-part-ix-mochi-the-dog-and-two-strangers/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: /assets/images/posts/late-bloom-part-viii-blind-date-at-pike-place/hero-15ad6385.jpg
-hero_alt: "Late Bloom Stories — romance serial cover"
-hero_caption: "Photo: Unsplash"
-
 ---
 
 *"Friends made me go"*

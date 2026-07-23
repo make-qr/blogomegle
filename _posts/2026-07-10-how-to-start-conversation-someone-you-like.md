@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, dating, conversation, relationships, advice]
-hero_image: /assets/images/posts/how-to-start-conversation-someone-you-like/hero-e6f1016e.jpg
+hero_image: "/assets/images/posts/how-to-start-conversation-someone-you-like/hero-e6f1016e.jpg"
 hero_alt: "Two friends laughing together"
 hero_caption: "Photo: Unsplash"
 youtube_id: Fnt6f3Zp0FE

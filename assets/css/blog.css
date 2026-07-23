@@ -297,21 +297,46 @@ a:hover { text-decoration: underline; }
   font-weight: 600;
 }
 
-/* Static pages */
-.page-static h1 {
+/* Static pages (article.page-static inside main — not body) */
+article.page-static h1 {
   font-family: var(--serif);
-  font-size: 2rem;
-  margin-bottom: 0.5rem;
+  font-size: clamp(1.85rem, 4vw, 2.35rem);
+  font-weight: 600;
+  line-height: 1.15;
+  margin-bottom: 0.6rem;
 }
 
-.page-static h2 {
+article.page-static h2 {
   font-family: var(--serif);
   font-size: 1.35rem;
   margin: 2rem 0 0.75rem;
 }
 
-.page-static p { margin-bottom: 1rem; color: var(--text-muted); }
-.page-static .prose p { color: var(--text); }
+article.page-static > p { margin-bottom: 1rem; color: var(--text-muted); }
+article.page-static .prose p { color: var(--text); }
+
+article.page-static > table,
+article.page-static .toc-table {
+  width: 100%;
+  margin: 1.25rem 0 1.75rem;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+article.page-static > table th,
+article.page-static > table td,
+article.page-static .toc-table th,
+article.page-static .toc-table td {
+  border: 1px solid var(--border);
+  padding: 0.65rem 0.85rem;
+  text-align: left;
+}
+
+article.page-static > table th,
+article.page-static .toc-table th {
+  background: var(--bg-elevated);
+  color: var(--text);
+}
 
 .author-card {
   background: var(--bg-card);
@@ -319,6 +344,7 @@ a:hover { text-decoration: underline; }
   border-radius: var(--radius);
   padding: 1.5rem;
   margin: 1.5rem 0;
+  width: 100%;
 }
 
 .toc-table { width: 100%; margin: 1rem 0; }
@@ -770,7 +796,19 @@ a:hover { text-decoration: underline; }
 
 .page-archive .archive-listing { margin-top: 0; }
 
-.page-static { max-width: var(--wide); }
+/* Only the article shell — never body (body.page-static used to shrink the whole site) */
+article.page-static {
+  max-width: none;
+  width: 100%;
+}
+
+body.page-default,
+body.page-home,
+body.page-archive,
+body.page-post {
+  max-width: none;
+  width: 100%;
+}
 
 @media (max-width: 960px) {
   .featured-grid { grid-template-columns: 1fr; }

@@ -1,5 +1,4 @@
 ---
-
 title: "How to Practice a Language with Strangers Online (Without Awkward Small Talk)"
 date: 2026-04-01
 slug: language-exchange-strangers
@@ -8,10 +7,6 @@ excerpt: "Turn random chat into real language practice — structure, boundaries
 tags: [language, chat, learning, omegle]
 category: Omegle & Alternatives
 category_slug: omegle-alternatives
-hero_image: /assets/images/posts/language-exchange-strangers/hero-2ea870d2.jpg
-hero_alt: "Random chat safety guide"
-hero_caption: "Photo: Unsplash"
-
 ---
 
 You don't need a classroom to improve speaking confidence. **Talking to strangers in your target language** is one of the fastest ways to break the "I understand but can't speak" wall — if you structure the session instead of hoping for a fluent partner.

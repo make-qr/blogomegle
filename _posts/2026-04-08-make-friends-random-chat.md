@@ -1,5 +1,4 @@
 ---
-
 title: "Can You Actually Make Friends on Random Chat? Yes — If You Change the Rules"
 date: 2026-04-08
 slug: make-friends-random-chat
@@ -8,10 +7,6 @@ excerpt: "Random chat isn't just for boredom — here's how people turn one good
 tags: [omegle, chat, social, friendship]
 category: Omegle & Alternatives
 category_slug: omegle-alternatives
-hero_image: /assets/images/posts/make-friends-random-chat/hero-e6f1016e.jpg
-hero_alt: "Random chat safety guide"
-hero_caption: "Photo: Unsplash"
-
 ---
 
 Most people treat random chat like a slot machine: spin, hope, leave. That's fine for killing time — but **some of the best online friendships start from a single good conversation** if you know what you're looking for.
