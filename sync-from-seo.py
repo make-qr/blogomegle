@@ -120,7 +120,15 @@ DATE_MAP: dict[str, str] = {
     "night-desk-companion-random-chat": "2026-08-25",
     "practice-english-conversation-with-strangers-browser": "2026-08-26",
     "after-breakup-talk-without-flirting": "2026-08-27",
+    # Keyword money cluster (Phase A+B)
+    "best-websites-to-talk-to-strangers-2026": "2026-08-28",
+    "free-random-chat-online": "2026-08-29",
+    "online-random-chat-rooms-guide": "2026-08-30",
+    "random-video-chat-vs-text-chat": "2026-08-31",
+    "why-people-still-want-anonymous-chat-2026": "2026-09-01",
+    "safe-random-chat-checklist-for-adults": "2026-09-02",
 }
+
 
 GUIDE_CATEGORY = "Safety & Guides"
 GUIDE_SLUG = "safety-guides"
