@@ -33,7 +33,14 @@ MD_IMG_RE = re.compile(r"(!\[[^\]]*\]\()(https?://[^)]+)(\))")
 
 
 def post_slug_from_path(path: Path) -> str:
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    m = re.search(r"^slug:\s*[\"']?([^\"'
+]+)[\"']?", text, re.MULTILINE)
+    if m:
+        return m.group(1).strip()
     name = path.stem
+    # Strip leading NN- from SEO filenames like 01-omegle-alternative-2026
+    name = re.sub(r"^\d{2}-", "", name)
     if re.match(r"^\d{4}-\d{2}-\d{2}-", name):
         return name[11:]
     return name

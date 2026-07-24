@@ -12,7 +12,7 @@ category_slug: safety-guides
 format: article
 pillar: chat-funnel
 tags: [omegle, omegle-alternative, random-chat, safety, chat]
-hero_image: "/assets/images/posts/01-omegle-alternative-2026/hero-72d756f9.jpg"
+hero_image: "/assets/images/posts/omegle-alternative-2026/hero-72d756f9.jpg"
 hero_alt: "Person using a laptop for online conversation"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -49,7 +49,7 @@ Before you grant camera or mic access, check:
 
 If a site pushes executables, steals focus with fake “virus” alerts, or demands social login before you can even try text chat, leave.
 
-![Laptop open on a desk for browser-based chat](/assets/images/posts/01-omegle-alternative-2026/inline-01-72d756f9.jpg)
+![Laptop open on a desk for browser-based chat](/assets/images/posts/omegle-alternative-2026/inline-01-72d756f9.jpg)
 *Prefer HTTPS browser chat over random APK downloads.*
 
 ## Safer habits (more important than the brand)
@@ -85,7 +85,7 @@ We are not claiming to replace Omegle’s peak-era scale. We *are* trying to be 
 
 If lonely nights are the real reason you searched “Omegle alternative,” pair this guide with [lonely at night: low-pressure ways to talk](https://blog.omeglechat.online/lonely-at-night-low-pressure-ways-to-talk/) so chat stays a bridge — not a panic button.
 
-![Quiet evening with a phone nearby for a short chat](/assets/images/posts/01-omegle-alternative-2026/inline-02-7a43ae31.jpg)
+![Quiet evening with a phone nearby for a short chat](/assets/images/posts/omegle-alternative-2026/inline-02-7a43ae31.jpg)
 *A short, leaveable conversation beats an endless lonely scroll.*
 
 ## A 60-second decision flow
