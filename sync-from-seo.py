@@ -129,7 +129,10 @@ def parse_frontmatter(text: str) -> tuple[dict, str]:
             if ":" not in line:
                 continue
             k, v = line.split(":", 1)
-            k, v = k.strip(), v.strip().strip('"').strip("'")
+            k, v = k.strip(), v.strip()
+            if (v.startswith('"') and v.endswith('"')) or (v.startswith("'") and v.endswith("'")):
+                v = v[1:-1]
+            v = v.replace('\\"', '"').replace("\\'", "'")
             if v == "":
                 continue
             if k in ("tags",):
@@ -150,15 +153,21 @@ def rewrite_links(body: str) -> str:
     return body
 
 
+def yaml_str(val: str) -> str:
+    """Quote a YAML string; prefer single quotes inside double-quoted values."""
+    cleaned = val.replace('\\"', '"').replace("\\'", "'").replace("\\", "")
+    return '"' + cleaned.replace('"', "'") + '"'
+
+
 def jekyll_post(meta: dict, body: str, slug: str, d: str) -> str:
     body = rewrite_links(body)
     lines = ["---"]
-    lines.append(f"title: \"{meta.get('title', slug).replace(chr(34), chr(39))}\"")
+    lines.append(f"title: {yaml_str(str(meta.get('title', slug)))}")
     lines.append(f"date: {d}")
     lines.append(f"slug: {slug}")
     lines.append(f"permalink: /{slug}/")
     if ex := meta.get("excerpt"):
-        lines.append(f"excerpt: \"{ex.replace(chr(34), chr(39))}\"")
+        lines.append(f"excerpt: {yaml_str(str(ex))}")
     for key in (
         "author", "author_slug", "author_role", "category", "category_slug",
         "series_name", "series_slug", "series_part", "series_parts", "series_part_label",
@@ -179,7 +188,7 @@ def jekyll_post(meta: dict, body: str, slug: str, d: str) -> str:
             elif key in ("hero_image", "hero_alt", "hero_caption", "youtube_caption", "excerpt", "title") or (
                 isinstance(val, str) and (" " in val or val.startswith("http") or "&" in val)
             ):
-                lines.append(f'{key}: "{val.replace(chr(34), chr(39))}"')
+                lines.append(f"{key}: {yaml_str(str(val))}")
             else:
                 lines.append(f"{key}: {val}")
     if (

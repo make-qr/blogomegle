@@ -1,5 +1,5 @@
 ---
-title: "How to Know If Someone Is \'the One\' — or Just Comfortable"
+title: "How to Know If Someone Is the One — or Just Comfortable"
 date: 2026-07-26
 slug: how-to-know-if-someone-is-the-one-or-just-comfortable
 permalink: /how-to-know-if-someone-is-the-one-or-just-comfortable/

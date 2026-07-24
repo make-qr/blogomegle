@@ -142,7 +142,10 @@ def main() -> int:
                 blog_m = BLOG_URL_RE.match(url)
                 if blog_m:
                     clean = normalize_internal_path(blog_m.group(1) or "/")
-                    if clean not in targets:
+                    if clean.startswith("/assets/"):
+                        if not check_asset(clean):
+                            broken.append((path.name, url, "asset not found on disk"))
+                    elif clean not in targets:
                         broken.append((path.name, url, "blog path missing locally"))
                     continue
 

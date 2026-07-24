@@ -1,5 +1,5 @@
 ---
-title: "Soft Couple Humor: When \'We\' Becomes a Comedy Duo"
+title: "Soft Couple Humor: When We Becomes a Comedy Duo"
 date: 2026-08-04
 slug: soft-couple-humor-when-we-becomes-a-comedy-duo
 permalink: /soft-couple-humor-when-we-becomes-a-comedy-duo/
