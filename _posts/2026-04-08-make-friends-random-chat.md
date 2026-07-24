@@ -57,3 +57,10 @@ You won't click with everyone. You only need **one good match** to prove the for
 ---
 
 *Friendship takes time. Random chat gives you the first hello — your judgment handles the rest.*
+
+![Illustration for make-friends-random-chat](/assets/images/posts/make-friends-random-chat/inline-01-88efbfcf.jpg)
+*Photo: Unsplash*
+
+
+![Illustration for make-friends-random-chat](/assets/images/posts/make-friends-random-chat/inline-02-718043a0.jpg)
+*Photo: Unsplash*

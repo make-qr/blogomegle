@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"I don't know you"*
 
-This is Part 41 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 40](/late-bloom-part-40-noodle-shop-number-11/).
+This is Part 41 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 40](https://blog.omeglechat.online/late-bloom-part-40-noodle-shop-number-11/).
 
 ## New York
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 40](/late-bloom-part-40-noodle-shop-number-11/)  
-**Next:** [Part 42](/late-bloom-part-42-119-messages-never-sent/)  
+**Previous:** [Part 40](https://blog.omeglechat.online/late-bloom-part-40-noodle-shop-number-11/)  
+**Next:** [Part 42](https://blog.omeglechat.online/late-bloom-part-42-119-messages-never-sent/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

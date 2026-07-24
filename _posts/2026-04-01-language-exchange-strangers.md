@@ -59,3 +59,10 @@ Pair with our [safety tips](https://omeglechat.online/safety-tips.html) if you'r
 ---
 
 *Fluency comes from repetition. Ten short chats beat one perfect conversation you never start.*
+
+![Illustration for language-exchange-strangers](/assets/images/posts/language-exchange-strangers/inline-01-95f07eab.jpg)
+*Photo: Unsplash*
+
+
+![Illustration for language-exchange-strangers](/assets/images/posts/language-exchange-strangers/inline-02-e11822a8.jpg)
+*Photo: Unsplash*

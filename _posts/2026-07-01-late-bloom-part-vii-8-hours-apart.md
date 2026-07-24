@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Eight p.m. for you is four a.m. for me"*
 
-This is Part VII of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part VI](/late-bloom-part-vi-noodle-shop-number-seven/).
+This is Part VII of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part VI](https://blog.omeglechat.online/late-bloom-part-vi-noodle-shop-number-seven/).
 ## Seattle
 
 This is the story of Kevin and Chloe.
@@ -74,9 +74,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
 
-**Previous:** [Part VI](/late-bloom-part-vi-noodle-shop-number-seven/)  
-**Next:** [Part VIII](/late-bloom-part-viii-blind-date-at-pike-place/)  
+**Previous:** [Part VI](https://blog.omeglechat.online/late-bloom-part-vi-noodle-shop-number-seven/)  
+**Next:** [Part VIII](https://blog.omeglechat.online/late-bloom-part-viii-blind-date-at-pike-place/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

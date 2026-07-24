@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Stood side by side three hours without n"*
 
-This is Part XIX of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XVIII](/late-bloom-part-xviii-night-shift-17/).
+This is Part XIX of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XVIII](https://blog.omeglechat.online/late-bloom-part-xviii-night-shift-17/).
 
 ## Portland
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part XVIII](/late-bloom-part-xviii-night-shift-17/)  
-**Next:** [Part XX](/late-bloom-part-xx-noodle-shop-number-27/)  
+**Previous:** [Part XVIII](https://blog.omeglechat.online/late-bloom-part-xviii-night-shift-17/)  
+**Next:** [Part XX](https://blog.omeglechat.online/late-bloom-part-xx-noodle-shop-number-27/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

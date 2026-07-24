@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"I wrote it, then closed the app"*
 
-This is Part 22 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 21](/late-bloom-part-21-after-1-years-of-silence/).
+This is Part 22 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 21](https://blog.omeglechat.online/late-bloom-part-21-after-1-years-of-silence/).
 
 ## Austin
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 21](/late-bloom-part-21-after-1-years-of-silence/)  
-**Next:** [Part 23](/late-bloom-part-23-broken-mirror-on-6th-street/)  
+**Previous:** [Part 21](https://blog.omeglechat.online/late-bloom-part-21-after-1-years-of-silence/)  
+**Next:** [Part 23](https://blog.omeglechat.online/late-bloom-part-23-broken-mirror-on-6th-street/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

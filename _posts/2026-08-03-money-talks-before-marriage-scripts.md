@@ -99,16 +99,7 @@ Most financial differences are workable. A few patterns deserve slower, more ser
 
 None of these automatically end a relationship, but all of them deserve direct, unhurried conversation — the kind covered in [What true love actually means](https://blog.omeglechat.online/what-true-love-actually-means/), where honesty and repair matter more than surface-level compatibility.
 
-![Partners sitting side by side for a calm money conversation](/assets/images/posts/money-talks-before-marriage-scripts/inline-02-e36a8606.jpg)
-*Side-by-side beats face-to-face interrogation energy.*
-
-## Keeping romance in the room
-
-Money talks do not have to feel clinical. Small habits keep warmth in the conversation:
-
-- End every money talk with something appreciative: "Thanks for being honest with me about this."
-- Celebrate small wins together — an emergency fund milestone, a paid-off card.
-- Use humor gently. Many long-term couples eventually laugh about the same argument they used to dread; see [Soft couple humor: when "we" becomes a comedy duo](https://blog.omeglechat.online/soft-couple-humor-when-we-becomes-a-comedy-duo/) for how shared jokes soften hard topics over time.
+![Partners sitting side by side for a calm money conversation](/assets/images/posts/money-talks-before-marriage-scripts/inline-02-e36a8606.jpg) for how shared jokes soften hard topics over time.
 - Physically sit together, side by side, rather than across from each other like an interview.
 
 Money conversations are also a preview of how a couple will handle every other hard topic — health, family, home. If you are working through a broader premarital list, our [premarital checkup checklist](https://blog.omeglechat.online/premarital-checkup-checklist-health-habits-family/) and [building a home that feels safe for both of you](https://blog.omeglechat.online/building-a-home-that-feels-safe-for-both-of-you/) continue this same series of grounded, unglamorous conversations that quietly decide whether a marriage holds up.

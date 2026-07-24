@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Every night at eleven I hear guitar"*
 
-This is Part 26 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 25](/late-bloom-part-25-the-friend-from-that-year-the-congress-bridge/).
+This is Part 26 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 25](https://blog.omeglechat.online/late-bloom-part-25-the-friend-from-that-year-the-congress-bridge/).
 
 ## Austin
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 25](/late-bloom-part-25-the-friend-from-that-year-the-congress-bridge/)  
-**Next:** [Part 27](/late-bloom-part-27-8-hours-apart/)  
+**Previous:** [Part 25](https://blog.omeglechat.online/late-bloom-part-25-the-friend-from-that-year-the-congress-bridge/)  
+**Next:** [Part 27](https://blog.omeglechat.online/late-bloom-part-27-8-hours-apart/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

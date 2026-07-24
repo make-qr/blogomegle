@@ -103,51 +103,6 @@ We want people who choose us to leave a session feeling *more* in control, not l
 **During:** no personal data · Next freely · no APK / no codes  
 **After:** revoke permissions if needed · no rushed social follow · report if required  
 
-
-## Video-specific rules
-
-If you eventually turn on the camera:
-
-- Face a plain wall; remove mail, diplomas, and street views
-- Wear clothes you would wear in a public café
-- Assume any frame can be screenshotted — do not do anything you would not want saved
-- Keep one hand free to hit Next immediately
-
-Text-only sessions avoid most of these risks. Many people never need video at all if their goal is conversation practice — [what to say first](https://blog.omeglechat.online/what-to-say-first-on-omegle-style-chat/) is enough to start.
-
-## Reporting and evidence
-
-If harassment happens, use the platform report button when available, leave the chat, and do not send more messages. Save a screenshot only if you need it for a serious report and you are legally allowed to do so in your region. Do not retaliate with insults — leave.
-
-## For parents and caregivers
-
-Adults helping older relatives or anxious young adults should sit through a first session together when possible, reinforce the nickname rule, and bookmark [safety tips](https://omeglechat.online/safety-tips.html). Random chat is optional entertainment — never a substitute for real care if someone is in distress.
-
-
-
-## Privacy checklist for shared computers
-
-On a library PC, school machine, or family laptop:
-
-- Use a private/incognito window when possible
-- Sign out of personal accounts in other tabs before video
-- Revoke camera/mic permissions when finished
-- Do not save passwords for random chat sites on shared devices
-
-Shared devices raise the cost of a mistake. Prefer short text sessions and leave nothing behind.
-
-## Emotional aftercare (simple)
-
-A rough chat can linger. Walk, drink water, message a real friend, or stop for the night. Do not chase “one more match” to erase a bad feeling — that is how people ignore Next. Conversation practice should leave you slightly more confident, not more drained.
-
-
-
-## One-page summary you can remember
-
-**Protect identity. Prefer text. Leave early. Never install random apps.**  
-Those four sentences cover most of this guide. Everything else is detail for edge cases. Bookmark this page and the on-site safety tips before your next session.
-
-
 ## Bottom line
 
 Random chat will always involve strangers. Treat it like crossing a busy street: look both ways, keep moving when something feels wrong, and do not hand strangers your address.
@@ -167,4 +122,3 @@ Safer ones exist; perfect safety does not. Combine platform choice with this che
 
 **Is chat with strangers online safe on mobile?**  
 Use the official mobile browser, not a random APK.
-

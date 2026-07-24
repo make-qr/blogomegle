@@ -127,6 +127,39 @@ DATE_MAP: dict[str, str] = {
     "random-video-chat-vs-text-chat": "2026-08-31",
     "why-people-still-want-anonymous-chat-2026": "2026-09-01",
     "safe-random-chat-checklist-for-adults": "2026-09-02",
+    # Lifestyle content — Table Talk / Life Habits / Love Journey (every 2 days from 2026-09-03)
+    "dinner-conversation-starters-that-feel-natural": "2026-09-03",
+    "why-eating-alone-feels-heavier-at-night": "2026-09-05",
+    "date-night-at-home-food-and-talk": "2026-09-07",
+    "how-shared-meals-strengthen-marriage": "2026-09-09",
+    "evening-routines-for-people-who-live-alone": "2026-09-11",
+    "walking-talking-accountability-needs-human-voice": "2026-09-13",
+    "cooking-for-one-without-empty-kitchen": "2026-09-15",
+    "gentle-weight-habits-not-a-diet-war": "2026-09-17",
+    "sunday-cooking-reset-for-calmer-week": "2026-09-19",
+    "soup-for-hard-days-comfort-without-isolation": "2026-09-21",
+    "tea-and-talk-ritual-at-home": "2026-09-23",
+    "grocery-run-as-social-reset": "2026-09-25",
+    "sleep-before-screens-evening-boundary": "2026-09-27",
+    "morning-quiet-vs-loneliness": "2026-09-29",
+    "hydration-habits-without-the-hype": "2026-10-01",
+    "fighting-after-dinner-how-to-reset": "2026-10-03",
+    "money-talk-at-the-table-scripts": "2026-10-05",
+    "in-laws-and-shared-meals-boundaries": "2026-10-07",
+    "first-year-kitchen-habits-for-couples": "2026-10-09",
+    "stop-scale-obsession-body-image-kindness": "2026-10-11",
+    "breakfast-alone-making-mornings-less-hollow": "2026-10-13",
+    "lunch-break-conversations-that-beat-scrolling": "2026-10-15",
+    "weekend-brunch-friends-vs-eating-solo": "2026-10-17",
+    "meal-prep-as-self-respect-not-punishment": "2026-10-19",
+    "cooking-with-a-partner-without-arguing": "2026-10-21",
+    "what-to-talk-about-first-home-cooked-date": "2026-10-23",
+    "lonely-holidays-and-the-kitchen-table": "2026-10-25",
+    "healthy-habits-after-a-breakup": "2026-10-27",
+    "how-to-ask-someone-to-walk-and-talk": "2026-10-29",
+    "weekly-dinner-with-friends-ritual": "2026-10-31",
+    "when-appetite-changes-with-loneliness": "2026-11-02",
+    "small-kitchen-wins-that-improve-mood": "2026-11-04",
 }
 
 
@@ -223,7 +256,8 @@ def jekyll_post(meta: dict, body: str, slug: str, d: str) -> str:
                 lines.append(f"{key}: {val}")
     if (
         meta.get("format") != "serial"
-        and meta.get("category_slug") not in ("human-connection", "love-journey", "love-romance", "safety-guides")
+        and meta.get("category_slug")
+        not in ("human-connection", "love-journey", "love-romance", "safety-guides", "table-talk", "life-habits")
         and meta.get("category") != "Human Connection"
         and meta.get("pillar") != "chat-funnel"
     ):
@@ -251,6 +285,11 @@ def collect_sources() -> list[Path]:
     if lj.is_dir():
         for p in sorted(lj.glob("*.md")):
             paths.append(p)
+    for sub in ("table-talk", "life-habits"):
+        d = SRC / sub
+        if d.is_dir():
+            for p in sorted(d.glob("*.md")):
+                paths.append(p)
     later = SRC / "later-years"
     if later.is_dir():
         for p in sorted(later.glob("*.md")):

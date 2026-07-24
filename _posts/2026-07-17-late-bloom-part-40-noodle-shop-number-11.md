@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"The owner said you two belong together"*
 
-This is Part 40 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 39](/late-bloom-part-39-back-row-concert-tickets/).
+This is Part 40 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 39](https://blog.omeglechat.online/late-bloom-part-39-back-row-concert-tickets/).
 
 ## Chicago
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 39](/late-bloom-part-39-back-row-concert-tickets/)  
-**Next:** [Part 41](/late-bloom-part-41-after-10-years-of-silence/)  
+**Previous:** [Part 39](https://blog.omeglechat.online/late-bloom-part-39-back-row-concert-tickets/)  
+**Next:** [Part 41](https://blog.omeglechat.online/late-bloom-part-41-after-10-years-of-silence/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

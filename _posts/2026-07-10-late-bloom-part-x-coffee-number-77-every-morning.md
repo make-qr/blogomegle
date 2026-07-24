@@ -24,7 +24,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *This is the story of Nathan and Maya.*
 
-This is Part I of **[Late Bloom Stories](/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
+This is Part I of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
 
 ## The story
 Nathan worked as a nurse. Maya was a high school English teacher.
@@ -49,8 +49,8 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
 
-**Previous:** [Part — late-bloom-part-ix-mochi-the-dog-and-two-strangers](/late-bloom-part-ix-mochi-the-dog-and-two-strangers/)
+**Previous:** [Part — late-bloom-part-ix-mochi-the-dog-and-two-strangers](https://blog.omeglechat.online/late-bloom-part-ix-mochi-the-dog-and-two-strangers/)
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

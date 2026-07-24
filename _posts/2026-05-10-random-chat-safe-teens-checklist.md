@@ -244,3 +244,10 @@ Use the checklist. Replace the need. Keep lines of communication open. If adults
 ---
 
 *This article is educational, not legal advice. Laws and school policies vary by country. When in doubt, consult a professional.*
+
+![Illustration for random-chat-safe-teens-checklist](/assets/images/posts/random-chat-safe-teens-checklist/inline-01-9cceabaf.jpg)
+*Photo: Unsplash*
+
+
+![Illustration for random-chat-safe-teens-checklist](/assets/images/posts/random-chat-safe-teens-checklist/inline-02-b94058f2.jpg)
+*Photo: Unsplash*

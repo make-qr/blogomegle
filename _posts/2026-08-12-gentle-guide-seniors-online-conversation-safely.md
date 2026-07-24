@@ -172,3 +172,6 @@ For more on the value of everyday conversation as we age, our companion articles
 ---
 
 *Human Connection · [OmegleChat Blog](https://blog.omeglechat.online/category/human-connection/) · This article is general guidance, not medical, legal, or financial advice. Always use your own judgment and consult family or professionals for individual concerns.*
+
+![Illustration for gentle-guide-seniors-online-conversation-safely](/assets/images/posts/gentle-guide-seniors-online-conversation-safely/inline-02-513e97c0.jpg)
+*Photo: Unsplash*

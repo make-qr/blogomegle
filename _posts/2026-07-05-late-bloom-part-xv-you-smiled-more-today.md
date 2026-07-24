@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"No drama — just love"*
 
-This is Part XV of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XIV](/late-bloom-part-xiv-blackout-on-the-riverfront/).
+This is Part XV of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XIV](https://blog.omeglechat.online/late-bloom-part-xiv-blackout-on-the-riverfront/).
 
 ## Portland
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part XIV](/late-bloom-part-xiv-blackout-on-the-riverfront/)  
-**Next:** [Part XVI](/late-bloom-part-xvi-viewer-number-11/)  
+**Previous:** [Part XIV](https://blog.omeglechat.online/late-bloom-part-xiv-blackout-on-the-riverfront/)  
+**Next:** [Part XVI](https://blog.omeglechat.online/late-bloom-part-xvi-viewer-number-11/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"When we grow up, I'll marry you"*
 
-This is Part 45 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 44](/late-bloom-part-44-a-3-year-contract/).
+This is Part 45 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 44](https://blog.omeglechat.online/late-bloom-part-44-a-3-year-contract/).
 
 ## New York
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 44](/late-bloom-part-44-a-3-year-contract/)  
-**Next:** [Part 46](/late-bloom-part-46-neighbors-on-floor-8/)  
+**Previous:** [Part 44](https://blog.omeglechat.online/late-bloom-part-44-a-3-year-contract/)  
+**Next:** [Part 46](https://blog.omeglechat.online/late-bloom-part-46-neighbors-on-floor-8/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

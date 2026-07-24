@@ -15,7 +15,7 @@ tags: [human-connection, chat-funnel, random-chat, advice]
 hero_image: "/assets/images/posts/after-breakup-talk-without-flirting/hero-9aa09ee3.jpg"
 hero_alt: "Person walking alone on a quiet evening street"
 hero_caption: "Photo: editorial stock"
-youtube_id: "8KkKuTCFvzI"
+youtube_id: 8KkKuTCFvzI
 youtube_caption: "Video: Robert Waldinger (TED) — human connection"
 ---
 

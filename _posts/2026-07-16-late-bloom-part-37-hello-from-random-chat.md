@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Learning English through strangers"*
 
-This is Part 37 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 36](/late-bloom-part-36-viewer-number-3/).
+This is Part 37 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 36](https://blog.omeglechat.online/late-bloom-part-36-viewer-number-3/).
 
 ## Chicago
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 36](/late-bloom-part-36-viewer-number-3/)  
-**Next:** [Part 38](/late-bloom-part-38-night-shift-7/)  
+**Previous:** [Part 36](https://blog.omeglechat.online/late-bloom-part-36-viewer-number-3/)  
+**Next:** [Part 38](https://blog.omeglechat.online/late-bloom-part-38-night-shift-7/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

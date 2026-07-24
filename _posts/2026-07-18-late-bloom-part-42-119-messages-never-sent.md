@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"I wrote it, then closed the app"*
 
-This is Part 42 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 41](/late-bloom-part-41-after-10-years-of-silence/).
+This is Part 42 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 41](https://blog.omeglechat.online/late-bloom-part-41-after-10-years-of-silence/).
 
 ## New York
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 41](/late-bloom-part-41-after-10-years-of-silence/)  
-**Next:** [Part 43](/late-bloom-part-43-broken-mirror-on-the-west-village/)  
+**Previous:** [Part 41](https://blog.omeglechat.online/late-bloom-part-41-after-10-years-of-silence/)  
+**Next:** [Part 43](https://blog.omeglechat.online/late-bloom-part-43-broken-mirror-on-the-west-village/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

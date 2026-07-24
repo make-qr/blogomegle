@@ -152,3 +152,6 @@ You cannot make a parent less lonely through willpower alone, and you should not
 ---
 
 *Human Connection · [OmegleChat Blog](https://blog.omeglechat.online/category/human-connection/) · This article is general guidance, not medical or mental health advice. If you are concerned about a parent's health, mood, or safety, please consult a licensed physician or mental health professional.*
+
+![Illustration for how-adult-children-can-help-quiet-parents-reconnect](/assets/images/posts/how-adult-children-can-help-quiet-parents-reconnect/inline-02-42fb7fb8.jpg)
+*Photo: Unsplash*

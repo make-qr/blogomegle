@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Your dog ran into my apartment"*
 
-This is Part 49 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 48](/late-bloom-part-48-blind-date-at-brooklyn-bridge/).
+This is Part 49 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 48](https://blog.omeglechat.online/late-bloom-part-48-blind-date-at-brooklyn-bridge/).
 
 ## New York
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 48](/late-bloom-part-48-blind-date-at-brooklyn-bridge/)  
-**Next:** [Part 50](/late-bloom-part-50-coffee-number-7-every-morning/)  
+**Previous:** [Part 48](https://blog.omeglechat.online/late-bloom-part-48-blind-date-at-brooklyn-bridge/)  
+**Next:** [Part 50](https://blog.omeglechat.online/late-bloom-part-50-coffee-number-7-every-morning/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

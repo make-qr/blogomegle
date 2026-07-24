@@ -18,11 +18,14 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-iii/
 next_part: /quiet-hours-chronicle-part-v/
 tags: [serial, essay, dating, relationships, human-connection]
+hero_image: "/assets/images/posts/part-iv-this-is-not-how-i-got-a-girlfriend/hero-8f3607e2.jpg"
+hero_alt: "Two people talking outdoors"
+hero_caption: "Photo: Unsplash"
 ---
 
-*[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part IV of VI*  
-*Category: [Human Connection](/category/human-connection/) · Personal Essay*  
-*By [Morgan Rivers](/author/morgan-rivers/), Staff Essayist*
+*[**The Quiet Hours Chronicle**](https://blog.omeglechat.online/series/the-quiet-hours-chronicle/) · Part IV of VI*  
+*Category: [Human Connection](https://blog.omeglechat.online/category/human-connection/) · Personal Essay*  
+*By [Morgan Rivers](https://blog.omeglechat.online/author/morgan-rivers/), Staff Essayist*
 
 ---
 
@@ -82,7 +85,7 @@ Two actions for thirty days.
 
 Part V holds the mirror question: **how to get a boyfriend** — same ethics, different pressures.
 
-*Continues in [Part V — Finding a Boyfriend Without Losing Yourself](/quiet-hours-chronicle-part-v/)* · *Previous: [Part III](/quiet-hours-chronicle-part-iii/)*
+*Continues in [Part V — Finding a Boyfriend Without Losing Yourself](https://blog.omeglechat.online/quiet-hours-chronicle-part-v/)* · *Previous: [Part III](https://blog.omeglechat.online/quiet-hours-chronicle-part-iii/)*
 
 ---
 

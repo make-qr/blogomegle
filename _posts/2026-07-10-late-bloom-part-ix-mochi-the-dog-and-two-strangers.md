@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *This is the story of Lucas and Mia.*
 
-This is Part I of **[Late Bloom Stories](/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
+This is Part I of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
 
 ## The story
 Lucas worked as a marketing manager. Mia was a pastry chef.
@@ -50,9 +50,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
 
-**Previous:** [Part — late-bloom-part-viii-blind-date-at-pike-place](/late-bloom-part-viii-blind-date-at-pike-place/)
-**Next:** [late-bloom-part-x-coffee-number-77-every-morning](/late-bloom-part-x-coffee-number-77-every-morning/)
+**Previous:** [Part — late-bloom-part-viii-blind-date-at-pike-place](https://blog.omeglechat.online/late-bloom-part-viii-blind-date-at-pike-place/)
+**Next:** [late-bloom-part-x-coffee-number-77-every-morning](https://blog.omeglechat.online/late-bloom-part-x-coffee-number-77-every-morning/)
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

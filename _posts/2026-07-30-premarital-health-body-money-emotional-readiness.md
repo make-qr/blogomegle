@@ -76,22 +76,7 @@ A few honest questions worth sitting with, alone and then together:
 
 Emotional readiness is not the absence of doubt. Almost everyone has some doubt before a wedding; that is normal decision fatigue, not automatically a warning sign. The distinction matters more than the doubt itself.
 
-![Couple talking seriously while sitting close together](/assets/images/posts/premarital-health-body-money-emotional-readiness/inline-02-01f14911.jpg)
-*Emotional readiness rarely announces itself loudly — it shows up in how you talk through doubt together.*
-
-## Red flags vs. normal jitters
-
-**Normal jitters** often sound like: "Am I ready for this much responsibility?" or "Will I still feel like myself?" These questions are uncomfortable but survivable, and talking about them out loud usually reduces their power.
-
-**Red flags** look different. They include a partner who refuses any conversation about finances, dismisses your health concerns, escalates every disagreement into a threat to leave, or pressures you to hide the relationship's problems from family and friends. If you are noticing patterns like these, premarital counseling with a licensed professional — not a wedding blog — is the next right step, and postponing a date is not a failure.
-
-## A practical premarital checklist you can start this month
-
-1. Schedule your own health checkup and bring your real questions, written down in advance.
-2. Set one no-phones evening to talk about money — accounts, debt, and goals — start to finish.
-3. Write, separately, three fears about marriage and three hopes. Compare notes without defending yourself.
-4. Ask each other: "How did your parents handle conflict, and what do you want to do differently?"
-5. Identify one licensed professional (doctor, financial planner, or couples counselor) you would actually call if things got hard later, so you are not searching for a name during a crisis.
+![Couple talking seriously while sitting close together](/assets/images/posts/premarital-health-body-money-emotional-readiness/inline-02-01f14911.jpg) you would actually call if things got hard later, so you are not searching for a name during a crisis.
 
 None of these steps requires a big, dramatic conversation. Small, repeated honesty beats one heroic confession the week before the wedding.
 

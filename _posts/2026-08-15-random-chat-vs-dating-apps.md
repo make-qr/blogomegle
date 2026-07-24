@@ -82,16 +82,7 @@ Being honest with yourself about which one you actually want, before you open ei
 
 Some people do meet romantic partners through random chat, the same way some people make lifelong friends through it — but that is not the design goal, and treating every random chat like a dating-app audition tends to make the conversation worse, not better. Go in for the conversation. If more grows naturally, that is a bonus, not the assignment.
 
-![Two phones side by side showing different kinds of chat apps](/assets/images/posts/random-chat-vs-dating-apps/inline-02-ce84eea9.jpg)
-*Different tools for different nights: one for dating intentionally, one for talking right now.*
-
-## How to choose in under a minute
-
-Ask yourself these three questions before opening either type of app:
-
-1. **Do I want a conversation tonight, or a relationship over time?** Tonight → random chat. Over time → dating app.
-2. **Do I have the energy to build a profile and wait for matches?** No → random chat is faster.
-3. **Am I looking for someone specific (age, location, intentions), or just someone to talk to?** Specific → dating app. Just someone → random chat.
+![Two phones side by side showing different kinds of chat apps](/assets/images/posts/random-chat-vs-dating-apps/inline-02-ce84eea9.jpg), or just someone to talk to?** Specific → dating app. Just someone → random chat.
 
 If two out of three point to "just want to talk," random chat is almost certainly the better fit for how you are feeling right now.
 
@@ -132,4 +123,3 @@ More reading in our **[Human Connection](https://blog.omeglechat.online/category
 ## Flirt chat vs conversation chat
 
 Searches like **flirt chat with strangers** often hide a simpler need: company. If you want low-pressure talk without romantic performance, random chat is usually the better lane tonight. If you want dates with filters, use dating apps intentionally — do not force strangers to audition.
-

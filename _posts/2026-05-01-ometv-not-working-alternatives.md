@@ -230,3 +230,10 @@ If you're done fighting the app, **browser alternatives** remove an entire class
 ---
 
 *Disclaimer: Platform availability and policies change. Random chat involves unpredictable people — no guide can guarantee safety. Your judgment and privacy habits matter most.*
+
+![Illustration for ometv-not-working-alternatives](/assets/images/posts/ometv-not-working-alternatives/inline-01-e01ae43e.jpg)
+*Photo: Unsplash*
+
+
+![Illustration for ometv-not-working-alternatives](/assets/images/posts/ometv-not-working-alternatives/inline-02-db32b345.jpg)
+*Photo: Unsplash*

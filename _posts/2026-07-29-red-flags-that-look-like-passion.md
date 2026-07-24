@@ -68,23 +68,7 @@ A dramatic apology, an expensive gift after a fight, a public declaration of lov
 
 Watch for patterns rather than moments: does care show up in ordinary weeks, or only after a big rupture that a grand gesture is meant to erase?
 
-![Couple sitting apart on a couch, one comforting the other gently](/assets/images/posts/red-flags-that-look-like-passion/inline-02-65b3d241.jpg)
-*Real repair looks like changed behavior over time — not just a well-timed apology.*
-
-## How to tell real passion from a red flag in disguise
-
-A few honest questions can help separate the two:
-
-1. **Does this feeling grow calmer and steadier over time, or does it require increasing drama to sustain itself?**
-2. **Do I feel safe being fully myself, or am I managing their reactions constantly?**
-3. **Would I recommend this dynamic to someone I loved, if I described it plainly without the romantic framing?**
-4. **Does affection stay consistent, or does it swing sharply based on control, jealousy, or conflict?**
-
-If your answers reveal a pattern of control, volatility, or fear disguised as intensity, that is worth taking seriously — regardless of how strong the chemistry feels.
-
-## Building the skills that make healthy passion possible
-
-Healthy intensity is real and worth wanting — it just needs to coexist with safety, respect, and consistency. Practicing calm, honest communication early in dating helps you build relationships where passion does not require chaos to feel real. Our guides on [how to start a conversation with someone you like](https://blog.omeglechat.online/how-to-start-conversation-someone-you-like/) and [texting without overthinking](https://blog.omeglechat.online/how-to-text-someone-you-like-without-overthinking/) both help you build connection that feels good without needing drama to prove itself.
+![Couple sitting apart on a couch, one comforting the other gently](/assets/images/posts/red-flags-that-look-like-passion/inline-02-65b3d241.jpg) and [texting without overthinking](https://blog.omeglechat.online/how-to-text-someone-you-like-without-overthinking/) both help you build connection that feels good without needing drama to prove itself.
 
 ## If loneliness is making red flags easier to excuse
 

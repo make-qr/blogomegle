@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *This is the story of Jake and Emma.*
 
-This is Part I of **[Late Bloom Stories](/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
+This is Part I of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
 
 ## The story
 Jake worked as a startup founder. Emma was a tutor.
@@ -50,9 +50,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
 
-**Previous:** [Part — late-bloom-part-iii-broken-mirror-rain-street](/late-bloom-part-iii-broken-mirror-rain-street/)
-**Next:** [late-bloom-part-v-friend-from-that-year](/late-bloom-part-v-friend-from-that-year/)
+**Previous:** [Part — late-bloom-part-iii-broken-mirror-rain-street](https://blog.omeglechat.online/late-bloom-part-iii-broken-mirror-rain-street/)
+**Next:** [late-bloom-part-v-friend-from-that-year](https://blog.omeglechat.online/late-bloom-part-v-friend-from-that-year/)
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

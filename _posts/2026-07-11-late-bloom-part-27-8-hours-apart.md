@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Eight p.m. for you is four a.m. for me"*
 
-This is Part 27 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 26](/late-bloom-part-26-neighbors-on-floor-8/).
+This is Part 27 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 26](https://blog.omeglechat.online/late-bloom-part-26-neighbors-on-floor-8/).
 
 ## Austin
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 26](/late-bloom-part-26-neighbors-on-floor-8/)  
-**Next:** [Part 28](/late-bloom-part-28-blind-date-at-zilker-park/)  
+**Previous:** [Part 26](https://blog.omeglechat.online/late-bloom-part-26-neighbors-on-floor-8/)  
+**Next:** [Part 28](https://blog.omeglechat.online/late-bloom-part-28-blind-date-at-zilker-park/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

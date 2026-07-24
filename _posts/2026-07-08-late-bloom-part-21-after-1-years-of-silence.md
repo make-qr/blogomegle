@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"I don't know you"*
 
-This is Part 21 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XX](/late-bloom-part-xx-noodle-shop-number-27/).
+This is Part 21 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XX](https://blog.omeglechat.online/late-bloom-part-xx-noodle-shop-number-27/).
 
 ## Austin
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part XX](/late-bloom-part-xx-noodle-shop-number-27/)  
-**Next:** [Part 22](/late-bloom-part-22-539-messages-never-sent/)  
+**Previous:** [Part XX](https://blog.omeglechat.online/late-bloom-part-xx-noodle-shop-number-27/)  
+**Next:** [Part 22](https://blog.omeglechat.online/late-bloom-part-22-539-messages-never-sent/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

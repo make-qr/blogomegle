@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"He did not know who I was"*
 
-This is Part 36 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 35](/late-bloom-part-35-you-smiled-more-today/).
+This is Part 36 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 35](https://blog.omeglechat.online/late-bloom-part-35-you-smiled-more-today/).
 
 ## Chicago
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 35](/late-bloom-part-35-you-smiled-more-today/)  
-**Next:** [Part 37](/late-bloom-part-37-hello-from-random-chat/)  
+**Previous:** [Part 35](https://blog.omeglechat.online/late-bloom-part-35-you-smiled-more-today/)  
+**Next:** [Part 37](https://blog.omeglechat.online/late-bloom-part-37-hello-from-random-chat/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

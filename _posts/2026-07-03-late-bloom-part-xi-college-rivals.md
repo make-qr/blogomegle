@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"We always fought for the top grade"*
 
-This is Part XI of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part X](/late-bloom-part-x-coffee-number-77-every-morning/).
+This is Part XI of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part X](https://blog.omeglechat.online/late-bloom-part-x-coffee-number-77-every-morning/).
 
 ## Portland
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part X](/late-bloom-part-x-coffee-number-77-every-morning/)  
-**Next:** [Part XII](/late-bloom-part-xii-an-exs-wedding/)  
+**Previous:** [Part X](https://blog.omeglechat.online/late-bloom-part-x-coffee-number-77-every-morning/)  
+**Next:** [Part XII](https://blog.omeglechat.online/late-bloom-part-xii-an-exs-wedding/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

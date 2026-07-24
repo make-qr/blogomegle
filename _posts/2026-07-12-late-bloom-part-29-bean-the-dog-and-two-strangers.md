@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Your dog ran into my apartment"*
 
-This is Part 29 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 28](/late-bloom-part-28-blind-date-at-zilker-park/).
+This is Part 29 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 28](https://blog.omeglechat.online/late-bloom-part-28-blind-date-at-zilker-park/).
 
 ## Austin
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 28](/late-bloom-part-28-blind-date-at-zilker-park/)  
-**Next:** [Part 30](/late-bloom-part-30-coffee-number-17-every-morning/)  
+**Previous:** [Part 28](https://blog.omeglechat.online/late-bloom-part-28-blind-date-at-zilker-park/)  
+**Next:** [Part 30](https://blog.omeglechat.online/late-bloom-part-30-coffee-number-17-every-morning/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

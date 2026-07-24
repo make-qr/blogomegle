@@ -83,22 +83,7 @@ Since the tone of this article is meant to stay light and warm, it's worth namin
 
 Good-natured, mutual, low-stakes humor builds closeness. One-sided mockery erodes it — even when it is technically "a joke." The test is simple: does everyone in the bit feel like they are laughing *with* each other?
 
-![Couple cooking together and laughing in a bright kitchen](/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/inline-02-c78737ac.jpg)
-*The best material rarely comes from a plan — it comes from doing ordinary things side by side.*
-
-## How to build more shared comedy on purpose
-
-If your relationship feels a little too serious lately, you can nudge it back toward playful without forcing anything:
-
-1. **Do more low-pressure activities together** — cooking, walking, a boring errand. Material comes from time spent, not from trying to be funny on command.
-2. **Let bad moments become future jokes.** The burnt dinner tonight is often the story you'll retell for years — if you choose to frame it that way instead of staying annoyed.
-3. **Revisit old jokes on purpose.** Bring up an old bit occasionally just to enjoy it together; nostalgia is part of the fun.
-4. **Give each other permission to be silly.** Some people need explicit reassurance that goofiness is welcome, especially if they grew up in a serious household.
-5. **Notice what already makes you both laugh**, and do more of that specific thing instead of trying to invent something new.
-
-## Why this matters beyond the laughs
-
-Shared humor is a form of emotional safety. Couples who can be silly together are usually couples who trust each other not to weaponize vulnerability. It is hard to be goofy around someone who might mock you for it later — so playful humor is often a quiet signal that a relationship feels safe, similar to the safety described in [Building a home that feels safe for both of you](https://blog.omeglechat.online/building-a-home-that-feels-safe-for-both-of-you/).
+![Couple cooking together and laughing in a bright kitchen](/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/inline-02-c78737ac.jpg).
 
 If you want a running list of the specific bits that long-term couples tend to develop, our companion piece — [10 gentle jokes only long-term couples understand](https://blog.omeglechat.online/10-gentle-jokes-only-long-term-couples-understand/) — collects the most common ones people recognize instantly.
 

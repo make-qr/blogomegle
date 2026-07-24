@@ -93,3 +93,6 @@ The brain, like the rest of the body, seems to respond to use. Conversation happ
 ---
 
 *Human Connection · [OmegleChat Blog](https://blog.omeglechat.online/category/human-connection/) · Written for every ordinary conversation that is quietly doing more than it looks like.*
+
+![Illustration for how-conversation-protects-the-aging-mind](/assets/images/posts/how-conversation-protects-the-aging-mind/inline-02-10c5d8af.jpg)
+*Photo: Unsplash*

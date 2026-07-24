@@ -15,7 +15,7 @@ tags: [human-connection, chat-funnel, random-chat, advice]
 hero_image: "/assets/images/posts/night-desk-companion-random-chat/hero-f7a4c3b2.jpg"
 hero_alt: "Laptop on a night desk with warm lamp"
 hero_caption: "Photo: editorial stock"
-youtube_id: "8KkKuTCFvzI"
+youtube_id: 8KkKuTCFvzI
 youtube_caption: "Video: Robert Waldinger (TED) — human connection"
 ---
 

@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"No Wi-Fi — only candles"*
 
-This is Part XIV of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XIII](/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/).
+This is Part XIV of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XIII](https://blog.omeglechat.online/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/).
 
 ## Portland
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part XIII](/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/)  
-**Next:** [Part XV](/late-bloom-part-xv-you-smiled-more-today/)  
+**Previous:** [Part XIII](https://blog.omeglechat.online/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/)  
+**Next:** [Part XV](https://blog.omeglechat.online/late-bloom-part-xv-you-smiled-more-today/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

@@ -93,3 +93,6 @@ Quiet, by itself, is not a problem. Some of the richest, most settled years of a
 ---
 
 *Human Connection · [OmegleChat Blog](https://blog.omeglechat.online/category/human-connection/) · Written for evenings that used to feel fuller.*
+
+![Illustration for loneliness-vs-solitude-after-60](/assets/images/posts/loneliness-vs-solitude-after-60/inline-02-d1ee3805.jpg)
+*Photo: Unsplash*

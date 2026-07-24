@@ -95,3 +95,6 @@ Quiet, in later life, is rarely one thing. Sometimes it is simply a person being
 ---
 
 *Human Connection · [OmegleChat Blog](https://blog.omeglechat.online/category/human-connection/) · Written for families learning to listen to what quiet is really saying.*
+
+![Illustration for why-older-adults-talk-less-as-they-age](/assets/images/posts/why-older-adults-talk-less-as-they-age/inline-02-6e8e740d.jpg)
+*Photo: Unsplash*

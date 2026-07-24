@@ -9,19 +9,19 @@ author_slug: morgan-rivers
 author_role: "Staff Essayist"
 category: "Human Connection"
 category_slug: human-connection
-format: article
-pillar: chat-funnel
 series_name: "Stranger Scripts"
-series_slug: "stranger-scripts"
+series_slug: stranger-scripts
 series_part: 1
 series_parts: 7
 series_part_label: "Script 1"
+format: article
+pillar: chat-funnel
 next_part: /stranger-scripts-02-why-are-you-here/
 tags: [human-connection, chat-funnel, stranger-scripts, random-chat, advice]
 hero_image: "/assets/images/posts/stranger-scripts-01-weather-opener/hero-2a0b6c8b.jpg"
 hero_alt: "Person looking out a rainy window with a warm drink"
 hero_caption: "Photo: editorial stock"
-youtube_id: "8KkKuTCFvzI"
+youtube_id: 8KkKuTCFvzI
 youtube_caption: "Video: Robert Waldinger (TED) — ordinary conversations matter"
 ---
 

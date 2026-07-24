@@ -76,17 +76,7 @@ It is easy to picture weddings, vacations, and anniversaries. Readiness shows up
 
 If you're unsure how this maps onto an actual person you're considering, it helps to revisit [what true love actually means](https://blog.omeglechat.online/what-true-love-actually-means/) — readiness and recognition tend to develop together, not separately.
 
-![Couple cooking together in a small kitchen, laughing](/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/inline-02-a8e3164a.jpg)
-*Ordinary life — cooking, errands, quiet evenings — is where readiness for a life partner is actually tested.*
-
-## What if you're not quite there yet?
-
-That is genuinely fine, and better to know now than mid-relationship. A few honest next steps:
-
-1. **Build solitude tolerance.** Spend deliberate time alone doing things you enjoy, without using dating apps to fill the gap.
-2. **Practice conflict in low-stakes settings.** Disagree respectfully with friends and family; it builds the same muscle you will need in partnership.
-3. **Get financially oriented**, even imperfectly — a budget, a plan, basic independence.
-4. **Practice real conversation.** If small talk or vulnerability feels hard, start smaller. Our guide on [how to start a conversation with someone you like](https://blog.omeglechat.online/how-to-start-conversation-someone-you-like/) and our piece on [texting without overthinking](https://blog.omeglechat.online/how-to-text-someone-you-like-without-overthinking/) both build the communication skills partnership depends on.
+![Couple cooking together in a small kitchen, laughing](/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/inline-02-a8e3164a.jpg) and our piece on [texting without overthinking](https://blog.omeglechat.online/how-to-text-someone-you-like-without-overthinking/) both build the communication skills partnership depends on.
 
 Readiness is a direction, not a finish line you cross once and never revisit.
 

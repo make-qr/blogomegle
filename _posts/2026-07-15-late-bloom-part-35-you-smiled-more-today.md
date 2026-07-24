@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"No drama — just love"*
 
-This is Part 35 of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 34](/late-bloom-part-34-blackout-on-lake-shore-drive/).
+This is Part 35 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 34](https://blog.omeglechat.online/late-bloom-part-34-blackout-on-lake-shore-drive/).
 
 ## Chicago
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 34](/late-bloom-part-34-blackout-on-lake-shore-drive/)  
-**Next:** [Part 36](/late-bloom-part-36-viewer-number-3/)  
+**Previous:** [Part 34](https://blog.omeglechat.online/late-bloom-part-34-blackout-on-lake-shore-drive/)  
+**Next:** [Part 36](https://blog.omeglechat.online/late-bloom-part-36-viewer-number-3/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

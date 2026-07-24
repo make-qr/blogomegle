@@ -9,20 +9,20 @@ author_slug: morgan-rivers
 author_role: "Staff Essayist"
 category: "Human Connection"
 category_slug: human-connection
-format: article
-pillar: chat-funnel
 series_name: "Stranger Scripts"
-series_slug: "stranger-scripts"
+series_slug: stranger-scripts
 series_part: 5
 series_parts: 7
 series_part_label: "Script 5"
+format: article
+pillar: chat-funnel
 prev_part: /stranger-scripts-04-language-warmup/
 next_part: /stranger-scripts-06-hobby-hook/
 tags: [human-connection, chat-funnel, stranger-scripts, random-chat, advice]
 hero_image: "/assets/images/posts/stranger-scripts-05-night-desk/hero-2aa6ae1a.jpg"
 hero_alt: "Desk with laptop glowing in a dark room"
 hero_caption: "Photo: editorial stock"
-youtube_id: "8KkKuTCFvzI"
+youtube_id: 8KkKuTCFvzI
 youtube_caption: "Video: Robert Waldinger (TED) — ordinary conversations matter"
 ---
 

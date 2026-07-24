@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"I still went — we were friends"*
 
-This is Part XII of **[Late Bloom Stories](/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XI](/late-bloom-part-xi-college-rivals/).
+This is Part XII of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part XI](https://blog.omeglechat.online/late-bloom-part-xi-college-rivals/).
 
 ## Portland
 
@@ -107,9 +107,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part XI](/late-bloom-part-xi-college-rivals/)  
-**Next:** [Part XIII](/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/)  
+**Previous:** [Part XI](https://blog.omeglechat.online/late-bloom-part-xi-college-rivals/)  
+**Next:** [Part XIII](https://blog.omeglechat.online/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/)  
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

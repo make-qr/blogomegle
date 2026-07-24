@@ -21,7 +21,7 @@ youtube_caption: "Video: The Gottman Institute — healthy communication (educat
 
 Most people do not fail at love because they lack charm. They fail because **starting the conversation feels like a test they are already losing** — too eager if they speak, invisible if they stay quiet.
 
-This guide is for anyone who likes someone and wants to talk to them **without sounding desperate**, performative, or weird. It is the first article in our **[Love Journey](/category/love-journey/)** series: practical relationship advice at **1,000+ words**, with images and video when it helps.
+This guide is for anyone who likes someone and wants to talk to them **without sounding desperate**, performative, or weird. It is the first article in our **[Love Journey](https://blog.omeglechat.online/category/love-journey/)** series: practical relationship advice at **1,000+ words**, with images and video when it helps.
 
 ## Why "just be yourself" is not enough advice
 
@@ -125,18 +125,11 @@ A graceful close:
 
 How you handle rejection is part of your attractiveness over time — not to them, but to **future you** and future partners who *are* available.
 
-![Walking together — building connection over time](/assets/images/posts/how-to-start-conversation-someone-you-like/inline-02-c65d21fe.jpg)
-*Trust grows in repeated small moments, not one perfect line.*
-
-## How this connects to online chat
-
-Some people practice conversation on **random text or video chat** before they feel brave offline. That can help — if you use it as training wheels, not a hiding place.
-
-We build [OmegleChat](https://omeglechat.online/chat.html) for **safe browser conversation with strangers**: clear leave button, no download, rules that favor respect. It can soften a lonely night or help you remember how to say hello.
+![Walking together — building connection over time](/assets/images/posts/how-to-start-conversation-someone-you-like/inline-02-c65d21fe.jpg) for **safe browser conversation with strangers**: clear leave button, no download, rules that favor respect. It can soften a lonely night or help you remember how to say hello.
 
 It will not replace liking someone in real life. If you are carrying a name in your chest, strangers behind a screen are not a substitute for the one conversation you are afraid to start.
 
-Related fiction: **[Late Bloom Part IV — This Is Not How I Got a Girlfriend](/quiet-hours-chronicle-part-iv/)** explores dating without performance.
+Related fiction: **[Late Bloom Part IV — This Is Not How I Got a Girlfriend](https://blog.omeglechat.online/quiet-hours-chronicle-part-iv/)** explores dating without performance.
 
 ## Quick checklist before you start
 
@@ -156,8 +149,8 @@ The next article in Love Journey: **signs someone is interested in you** — wit
 
 ---
 
-*Love Journey · [OmegleChat Blog](/) · Not medical or therapeutic advice.*
+*Love Journey · [OmegleChat Blog](https://blog.omeglechat.online/) · Not medical or therapeutic advice.*
 
 - [Start free chat](https://omeglechat.online/chat.html)
 - [Making friends online](https://omeglechat.online/making-friends.html)
-- [More Love Journey articles](/category/love-journey/)
+- [More Love Journey articles](https://blog.omeglechat.online/category/love-journey/)

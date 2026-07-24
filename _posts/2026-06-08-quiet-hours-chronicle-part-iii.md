@@ -18,11 +18,14 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-ii/
 next_part: /quiet-hours-chronicle-part-iv/
 tags: [serial, essay, sadness, mental health, human-connection]
+hero_image: "/assets/images/posts/part-iii-when-sadness-visits-anyway/hero-fbca3308.jpg"
+hero_alt: "Rainy window and reflection"
+hero_caption: "Photo: Unsplash"
 ---
 
-*[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part III of VI*  
-*Category: [Human Connection](/category/human-connection/) · Personal Essay*  
-*By [Morgan Rivers](/author/morgan-rivers/), Staff Essayist*
+*[**The Quiet Hours Chronicle**](https://blog.omeglechat.online/series/the-quiet-hours-chronicle/) · Part III of VI*  
+*Category: [Human Connection](https://blog.omeglechat.online/category/human-connection/) · Personal Essay*  
+*By [Morgan Rivers](https://blog.omeglechat.online/author/morgan-rivers/), Staff Essayist*
 
 ---
 
@@ -86,7 +89,7 @@ Two practices I still keep.
 
 Part IV answers the question readers ask next — *how do you get a girlfriend?* — not as pickup art, but as presence.
 
-*Continues in [Part IV — This Is Not How I Got a Girlfriend](/quiet-hours-chronicle-part-iv/)* · *Previous: [Part II](/quiet-hours-chronicle-part-ii/)*
+*Continues in [Part IV — This Is Not How I Got a Girlfriend](https://blog.omeglechat.online/quiet-hours-chronicle-part-iv/)* · *Previous: [Part II](https://blog.omeglechat.online/quiet-hours-chronicle-part-ii/)*
 
 ---
 

@@ -15,7 +15,7 @@ tags: [human-connection, chat-funnel, random-chat, advice]
 hero_image: "/assets/images/posts/practice-english-conversation-with-strangers-browser/hero-eab7d000.jpg"
 hero_alt: "Language notes and a laptop for conversation practice"
 hero_caption: "Photo: editorial stock"
-youtube_id: "8KkKuTCFvzI"
+youtube_id: 8KkKuTCFvzI
 youtube_caption: "Video: Robert Waldinger (TED) — human connection"
 ---
 
