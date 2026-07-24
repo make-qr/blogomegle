@@ -5,9 +5,9 @@ full_width: true
 ---
 
 <section class="hero">
-  <h1>Stories about connection in a loud, lonely world</h1>
-  <p class="hero-lead">Long-form romance serials, relationship advice, and safety guides — with images, audio, and video when it helps you stay.</p>
-  <p class="hero-sub">Romance serials · Love Journey advice · Safer random chat</p>
+  <h1>True love, marriage wisdom, and stories that end well</h1>
+  <p class="hero-lead">Practical tips for finding the one, building a life together, and late-bloom romance with happy endings — honest, warm, and human.</p>
+  <p class="hero-sub">True love · Marriage path · Couple life · Late Bloom stories</p>
 </section>
 
 {% include ad-leaderboard.html %}
@@ -16,23 +16,23 @@ full_width: true
 
 <section class="featured-grid">
   <article class="featured-card featured-primary">
-    <p class="label">★ Featured serial · Ongoing</p>
+    <p class="label">★ Love Journey · Advice</p>
+    <h2><a href="{{ '/category/love-journey/' | relative_url }}">True love &amp; marriage path</a></h2>
+    <p>What true love means, how to choose a partner you’ll still like in ten years, premarital health, life after the wedding, and gentle couple humor.</p>
+    <a class="btn" href="{{ '/category/love-journey/' | relative_url }}">Browse advice</a>
+    <a class="btn btn-outline" href="{{ '/how-to-start-conversation-someone-you-like/' | relative_url }}">Start with conversation</a>
+  </article>
+  <article class="featured-card">
+    <p class="label">♥ Fiction · Ongoing</p>
     <h2><a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a></h2>
-    <p>300 romance episodes with happy endings — loneliness, random chat, and love that blooms late. New parts every week.</p>
+    <p>300 romance episodes with happy endings — love that blooms late. New parts every day.</p>
     <p id="continue-reading-meta" class="continue-meta" hidden></p>
     {% assign lb_first = site.posts | where: "series_slug", "late-bloom-stories" | sort: "series_part" | first %}
     {% assign lb_latest = site.posts | where: "series_slug", "late-bloom-stories" | first %}
-    <a id="continue-reading-btn" class="btn" href="{{ lb_first.url | default: '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Start Part I</a>
+    <a id="continue-reading-btn" class="btn btn-outline" href="{{ lb_first.url | default: '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Start Part I</a>
     {% if lb_latest %}
     <a class="btn btn-outline" href="{{ lb_latest.url | relative_url }}">Newest episode</a>
     {% endif %}
-    <a class="btn btn-outline" href="{{ '/series/late-bloom-stories/' | relative_url }}">Series index</a>
-  </article>
-  <article class="featured-card">
-    <p class="label">✓ Complete · 6 parts</p>
-    <h2><a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">The Quiet Hours Chronicle</a></h2>
-    <p>Personal essays on loneliness, dating, and keeping people close — by Morgan Rivers.</p>
-    <a class="btn btn-outline" href="{{ '/quiet-hours-chronicle-part-i/' | relative_url }}">Read Part I</a>
   </article>
 </section>
 
