@@ -28,6 +28,17 @@
   gtag('js', new Date());
   gtag('config', 'G-KENLW8Z2M7');
 </script>
+<script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a.chat-cta-link, a[data-cta="chat"]');
+    if (!a || typeof gtag !== 'function') return;
+    gtag('event', 'chat_cta_click', {
+      event_category: 'conversion',
+      event_label: a.getAttribute('data-cta-placement') || 'unknown',
+      link_url: a.href
+    });
+  });
+</script>
 
 <!-- Begin Jekyll SEO tag v2.9.0 -->
 <title>Love &amp; Romance | OmegleChat Blog</title>
@@ -120,6 +131,14 @@
 <section class="home-section archive-listing">
   <p class="section-more" style="margin-top:0;margin-bottom:1.25rem;"><a href="/series/late-bloom-stories/">Late Bloom Stories — series index →</a></p>
   <div class="post-card-grid">
+    
+      
+    
+      
+    
+      
+    
+      
     
       
     

@@ -28,6 +28,17 @@
   gtag('js', new Date());
   gtag('config', 'G-KENLW8Z2M7');
 </script>
+<script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a.chat-cta-link, a[data-cta="chat"]');
+    if (!a || typeof gtag !== 'function') return;
+    gtag('event', 'chat_cta_click', {
+      event_category: 'conversion',
+      event_label: a.getAttribute('data-cta-placement') || 'unknown',
+      link_url: a.href
+    });
+  });
+</script>
 
 <!-- Begin Jekyll SEO tag v2.9.0 -->
 <title>Premarital Health: Body, Money, and Emotional Readiness | OmegleChat Blog</title>
@@ -294,11 +305,25 @@
 
       
 
+
+
+
+
+
+<aside class="chat-cta-box chat-cta-box--soft" aria-label="Try chat">
+  <p class="chat-cta-lead text-muted">Need someone to talk to tonight?</p>
+  <p><a class="btn btn-outline chat-cta-link" href="https://omeglechat.online/chat.html" data-cta="chat" data-cta-placement="post-end">Start free chat</a></p>
+</aside>
+
+
+
+      
+
       
 
       <footer class="post-footer">
         <a href="/posts/">← All posts</a>
-        <a href="https://omeglechat.online/chat.html" class="cta-chat">Try OmegleChat</a>
+        <a href="https://omeglechat.online/chat.html" class="cta-chat chat-cta-link" data-cta="chat" data-cta-placement="footer">Try OmegleChat</a>
       </footer>
     </div>
 
@@ -314,6 +339,38 @@
   <ul class="related-list">
     
     
+    
+      
+      
+        
+        
+        
+        
+      
+    
+      
+      
+        
+        
+        
+        
+      
+    
+      
+      
+        
+        
+        
+        
+      
+    
+      
+      
+        
+        
+        
+        
+      
     
       
       
@@ -1013,7 +1070,7 @@
       <div class="sidebar-cta">
         <p><strong>Need someone to talk to?</strong></p>
         <p class="text-muted">Safe random chat in your browser — no download.</p>
-        <a class="btn" href="https://omeglechat.online/chat.html">Start free chat</a>
+        <a class="btn chat-cta-link" href="https://omeglechat.online/chat.html" data-cta="chat" data-cta-placement="sidebar">Start free chat</a>
       </div>
     </aside>
   </div>

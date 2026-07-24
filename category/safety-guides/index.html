@@ -28,6 +28,17 @@
   gtag('js', new Date());
   gtag('config', 'G-KENLW8Z2M7');
 </script>
+<script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a.chat-cta-link, a[data-cta="chat"]');
+    if (!a || typeof gtag !== 'function') return;
+    gtag('event', 'chat_cta_click', {
+      event_category: 'conversion',
+      event_label: a.getAttribute('data-cta-placement') || 'unknown',
+      link_url: a.href
+    });
+  });
+</script>
 
 <!-- Begin Jekyll SEO tag v2.9.0 -->
 <title>Safety &amp; Guides | OmegleChat Blog</title>
@@ -119,6 +130,14 @@
 
 <section class="home-section archive-listing">
   <div class="post-card-grid">
+    
+      
+    
+      
+    
+      
+    
+      
     
       
     
@@ -482,7 +501,7 @@
 
 
   <a class="post-card-image" href="/random-chat-safety-2026/" aria-hidden="true" tabindex="-1">
-    <img src="/assets/images/posts/random-chat-safety-2026/hero-64d2df2c.jpg" alt="Safety guide cover — random-chat-safety-2026" loading="lazy" width="400" height="225" />
+    <img src="/assets/images/posts/random-chat-safety-2026/hero-64d2df2c.jpg" alt="Padlock and network concept for online safety" loading="lazy" width="400" height="225" />
   </a>
   <div class="post-card-body">
     
@@ -490,7 +509,7 @@
     
     <h3 class="post-card-title"><a href="/random-chat-safety-2026/">Random Video Chat Safety Guide — What to Do Before You Turn On Your Camera</a></h3>
     
-    <p class="post-card-excerpt">A practical safety checklist for random video and text chat — before, during, and after a session.</p>
+    <p class="post-card-excerpt">A practical safety checklist for random video and text chat — before, during, and after a session — so you can talk to strangers without ...</p>
     
     <div class="post-card-meta">
       <time datetime="2026-03-22T00:00:00+00:00">Mar 22, 2026</time>
@@ -498,9 +517,9 @@
       
 
 
-<span class="reading-time">1 min read</span>
+<span class="reading-time">5 min read</span>
 
-      
+      <span class="sep">·</span><span>Morgan Rivers</span>
     </div>
   </div>
 </article>
@@ -520,7 +539,7 @@
 
 
   <a class="post-card-image" href="/omegle-alternative-2026/" aria-hidden="true" tabindex="-1">
-    <img src="/assets/images/posts/omegle-alternative-2026/hero-72d756f9.jpg" alt="Safety guide cover — omegle-alternative-2026" loading="lazy" width="400" height="225" />
+    <img src="/assets/images/posts/omegle-alternative-2026/hero-72d756f9.jpg" alt="Person using a laptop for online conversation" loading="lazy" width="400" height="225" />
   </a>
   <div class="post-card-body">
     
@@ -528,7 +547,7 @@
     
     <h3 class="post-card-title"><a href="/omegle-alternative-2026/">Omegle Is Gone — Best Safe Alternatives to Talk to Strangers in 2026</a></h3>
     
-    <p class="post-card-excerpt">After Omegle shut down, here's how to choose a safe random chat site and what to try in your browser today.</p>
+    <p class="post-card-excerpt">After Omegle shut down, here is how to choose a safe random chat site in 2026 — browser-first, HTTPS, and habits that matter more than an...</p>
     
     <div class="post-card-meta">
       <time datetime="2026-03-15T00:00:00+00:00">Mar 15, 2026</time>
@@ -536,9 +555,9 @@
       
 
 
-<span class="reading-time">2 min read</span>
+<span class="reading-time">5 min read</span>
 
-      
+      <span class="sep">·</span><span>Morgan Rivers</span>
     </div>
   </div>
 </article>
