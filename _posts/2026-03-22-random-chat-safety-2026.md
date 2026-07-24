@@ -145,7 +145,7 @@ A rough chat can linger. Walk, drink water, message a real friend, or stop for t
 ## One-page summary you can remember
 
 **Protect identity. Prefer text. Leave early. Never install random apps.**  
-Those four sentences cover most of this guide. Everything else is detail for edge cases.
+Those four sentences cover most of this guide. Everything else is detail for edge cases. Bookmark this page and the on-site safety tips before your next session.
 
 
 ## Bottom line
