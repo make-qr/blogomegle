@@ -21,10 +21,14 @@ BROKEN_REPLACEMENTS: dict[str, str] = {
     "photo-1518199266791-5375a83190cc": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac",
     "photo-1523438885200-e6350762bf28": "https://images.unsplash.com/photo-1519741497674-611481863552",
     "photo-1437623889155-075d1c1d7d79": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e",
+    "photo-1494774157364-be4e5cba6e39": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac",
+    "photo-1522678985188-c8e4c2d8d0e8": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+    "photo-1507003211169-0a1dd7228f2d": "https://images.unsplash.com/photo-1511632765486-a01980e01a18",
 }
 
 HTTP_URL_RE = re.compile(r"https?://[^\s\"')>\]]+")
 HERO_RE = re.compile(r"^(hero_image:\s*)([\"']?)(https?://[^\s\"']+)\2", re.MULTILINE)
+COVER_RE = re.compile(r"^(cover_image:\s*)([\"']?)(https?://[^\s\"']+)\2", re.MULTILINE)
 MD_IMG_RE = re.compile(r"(!\[[^\]]*\]\()(https?://[^)]+)(\))")
 
 
@@ -93,33 +97,52 @@ def relative_url(path: Path) -> str:
     return "/" + path.relative_to(ROOT).as_posix()
 
 
-def process_markdown(path: Path) -> int:
+def absolute_blog_url(path: Path) -> str:
+    return "https://blog.omeglechat.online" + relative_url(path)
+
+
+def process_markdown(path: Path, *, for_offpage: bool = False) -> int:
     text = path.read_text(encoding="utf-8")
     post_slug = post_slug_from_path(path)
     changed = 0
 
     def localize_url(url: str, role: str) -> str | None:
+        # Already local relative — leave for blog; absolutize only when writing SEO offpage copy
         if url.startswith("/assets/"):
+            if for_offpage:
+                return "https://blog.omeglechat.online" + url
+            return None
+        # Already absolute on our CDN — keep for offpage; relativize for blog posts
+        if "blog.omeglechat.online/assets/" in url:
+            if for_offpage:
+                return None
+            path_part = url.split("blog.omeglechat.online", 1)[-1]
+            if path_part.startswith("/assets/"):
+                changed_local = path_part.split("?", 1)[0]
+                local_file = ROOT / changed_local.lstrip("/")
+                if local_file.is_file():
+                    return changed_local
             return None
         fixed = fix_broken_url(url)
         dest = local_path_for(post_slug, role, fixed)
         saved = download_image(fixed, dest)
         if not saved:
             return None
-        return relative_url(saved)
+        return absolute_blog_url(saved) if for_offpage else relative_url(saved)
 
-    # hero_image in frontmatter
-    def hero_sub(m: re.Match[str]) -> str:
+    # hero_image / cover_image in frontmatter
+    def fm_img_sub(m: re.Match[str]) -> str:
         nonlocal changed
         prefix, quote, url = m.group(1), m.group(2), m.group(3)
         local = localize_url(url, "hero")
         if local:
             changed += 1
-            q = quote or ""
+            q = quote or '"'
             return f"{prefix}{q}{local}{q}"
         return m.group(0)
 
-    text = HERO_RE.sub(hero_sub, text)
+    text = HERO_RE.sub(fm_img_sub, text)
+    text = COVER_RE.sub(fm_img_sub, text)
 
     # markdown images
     inline_n = 0
@@ -142,15 +165,16 @@ def process_markdown(path: Path) -> int:
     return changed
 
 
-def collect_sources() -> list[Path]:
-    files: list[Path] = []
+def collect_sources() -> list[tuple[Path, bool]]:
+    """(path, for_offpage). SEO copies must keep absolute CDN URLs for Dev.to/Blogger."""
+    files: list[tuple[Path, bool]] = []
     if POSTS.is_dir():
-        files.extend(sorted(POSTS.glob("*.md")))
+        files.extend((p, False) for p in sorted(POSTS.glob("*.md")))
     if SEO.is_dir():
         for sub in ("serial", "love-journey"):
             d = SEO / sub
             if d.is_dir():
-                files.extend(sorted(d.glob("*.md")))
+                files.extend((p, True) for p in sorted(d.glob("*.md")))
     return files
 
 
@@ -161,10 +185,13 @@ def main() -> int:
         return 1
     total = 0
     print(f"Scanning {len(files)} file(s)...")
-    for path in files:
-        if HTTP_URL_RE.search(path.read_text(encoding="utf-8")):
-            print(path.relative_to(ROOT) if path.is_relative_to(ROOT) else path)
-            total += process_markdown(path)
+    for path, for_offpage in files:
+        if HTTP_URL_RE.search(path.read_text(encoding="utf-8")) or (
+            for_offpage and "/assets/" in path.read_text(encoding="utf-8")
+        ):
+            label = path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
+            print(f"{label}{' [offpage-abs]' if for_offpage else ''}")
+            total += process_markdown(path, for_offpage=for_offpage)
     print(f"Done — {total} image reference(s) localized.")
     return 0
 

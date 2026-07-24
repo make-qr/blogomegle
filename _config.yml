@@ -1,9 +1,10 @@
 title: OmegleChat Blog
-description: Essays on human connection, random chat safety, and life after Omegle — by the OmegleChat editorial team.
+description: True love, marriage wisdom, couple life, and late-bloom romance stories — practical Love Journey guides from OmegleChat.
 url: https://blog.omeglechat.online
 baseurl: ""
 lang: en
 timezone: UTC
+future: true
 markdown: kramdown
 kramdown:
   input: GFM

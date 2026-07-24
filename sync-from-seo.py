@@ -81,6 +81,23 @@ DATE_MAP: dict[str, str] = {
     "late-bloom-part-v-friend-from-that-year": "2026-06-27",
     "late-bloom-part-vi-noodle-shop-number-seven": "2026-06-28",
     "how-to-start-conversation-someone-you-like": "2026-07-10",
+    "what-true-love-actually-means": "2026-07-24",
+    "how-to-text-someone-you-like-without-overthinking": "2026-07-25",
+    # Love Journey 8-week calendar (weeks 2–8)
+    "how-to-know-if-someone-is-the-one-or-just-comfortable": "2026-07-26",
+    "signs-youre-ready-to-look-for-a-life-partner": "2026-07-27",
+    "how-to-choose-a-spouse-youll-still-like-in-10-years": "2026-07-28",
+    "red-flags-that-look-like-passion": "2026-07-29",
+    "premarital-health-body-money-emotional-readiness": "2026-07-30",
+    "funny-married-life-truths-nobody-puts-in-wedding-vows": "2026-07-31",
+    "after-the-wedding-first-year-map-for-real-couples": "2026-08-01",
+    "how-to-fight-fair-without-threatening-the-relationship": "2026-08-02",
+    "money-talks-before-marriage-scripts": "2026-08-03",
+    "soft-couple-humor-when-we-becomes-a-comedy-duo": "2026-08-04",
+    "lonely-nights-vs-true-loneliness-when-to-reach-out": "2026-08-05",
+    "building-a-home-that-feels-safe-for-both-of-you": "2026-08-06",
+    "premarital-checkup-checklist-health-habits-family": "2026-08-07",
+    "10-gentle-jokes-only-long-term-couples-understand": "2026-08-08",
 }
 
 GUIDE_CATEGORY = "Safety & Guides"

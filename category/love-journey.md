@@ -19,10 +19,11 @@ category_slug: love-journey
   <div class="author-card">
     <p><strong>What you’ll find here</strong></p>
     <ul style="margin:0.5rem 0 0;padding-left:1.2rem;color:var(--text-muted);">
-      <li>What true love means (without the highlight reel)</li>
-      <li>How to find — and keep — a wife or husband you’ll still like</li>
-      <li>Health &amp; readiness before marriage; life after the wedding</li>
-      <li>Clean, funny slices of married life</li>
+      <li>What true love means — and red flags that look like passion</li>
+      <li>How to choose a spouse you’ll still like in 10 years</li>
+      <li>Premarital health, money talks, and the first year after the wedding</li>
+      <li>Clean couple humor and lonely-night honesty</li>
+      <li>Full 8-week Love Journey library (16+ guides)</li>
     </ul>
   </div>
 </section>
