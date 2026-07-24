@@ -34,8 +34,7 @@ MD_IMG_RE = re.compile(r"(!\[[^\]]*\]\()(https?://[^)]+)(\))")
 
 def post_slug_from_path(path: Path) -> str:
     text = path.read_text(encoding="utf-8", errors="ignore")
-    m = re.search(r"^slug:\s*[\"']?([^\"'
-]+)[\"']?", text, re.MULTILINE)
+    m = re.search(r'^slug:\s*["\']?([^"\'\n]+)["\']?', text, re.MULTILINE)
     if m:
         return m.group(1).strip()
     name = path.stem
