@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, marriage, money, premarital, advice]
-hero_image: "/assets/images/posts/money-talks-before-marriage-scripts/hero-8c7e7ca2.jpg"
+hero_image: "/assets/images/posts/money-talks-before-marriage-scripts/hero-8924c42a.jpg"
 hero_alt: "Couple sitting together reviewing paperwork at a table"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -50,7 +50,7 @@ Avoid opening with "we need to talk about your spending." Try:
 
 Follow with a simple, low-pressure structure: list income, fixed costs, debt, savings goals, and "fun money" that neither partner has to justify. Fun money matters — total austerity plans usually fail within months because nobody enjoys a relationship that feels like a spreadsheet.
 
-![Couple looking at a laptop together while planning finances](/assets/images/posts/money-talks-before-marriage-scripts/inline-01-a3b94575.jpg)
+![Couple looking at a laptop together while planning finances](/assets/images/posts/money-talks-before-marriage-scripts/inline-01-82dd43a7.jpg)
 *A calm, side-by-side setup beats a confrontation across a table.*
 
 ## Script 3: The debt disclosure script
@@ -99,7 +99,7 @@ Most financial differences are workable. A few patterns deserve slower, more ser
 
 None of these automatically end a relationship, but all of them deserve direct, unhurried conversation — the kind covered in [What true love actually means](https://blog.omeglechat.online/what-true-love-actually-means/), where honesty and repair matter more than surface-level compatibility.
 
-![Partners sitting side by side for a calm money conversation](/assets/images/posts/money-talks-before-marriage-scripts/inline-02-e6f1016e.jpg)
+![Partners sitting side by side for a calm money conversation](/assets/images/posts/money-talks-before-marriage-scripts/inline-02-e36a8606.jpg)
 *Side-by-side beats face-to-face interrogation energy.*
 
 ## Keeping romance in the room

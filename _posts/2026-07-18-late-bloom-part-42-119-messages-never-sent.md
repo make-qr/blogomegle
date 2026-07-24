@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-41-after-10-years-of-silence/
 next_part: /late-bloom-part-43-broken-mirror-on-the-west-village/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-42-119-messages-never-sent/hero-b75f3f6b.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-42-119-messages-never-sent/hero-f5cecf3e.jpg"
 hero_alt: "Aaron & Hannah — 119 Messages Never Sent"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -83,7 +83,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-42-119-messages-never-sent/inline-01-c06388d5.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-42-119-messages-never-sent/inline-01-542ac86e.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at New York
@@ -92,7 +92,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own New York tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-42-119-messages-never-sent/inline-02-b7352339.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-42-119-messages-never-sent/inline-02-2360ad54.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 ## What this has to do with OmegleChat

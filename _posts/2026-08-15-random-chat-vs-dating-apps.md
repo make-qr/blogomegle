@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: chat-funnel
 tags: [human-connection, chat-funnel, random-chat, advice]
-hero_image: "/assets/images/posts/random-chat-vs-dating-apps/hero-8f3607e2.jpg"
+hero_image: "/assets/images/posts/random-chat-vs-dating-apps/hero-e32bb7b6.jpg"
 hero_alt: "Person holding a phone with chat notifications at night"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -45,7 +45,7 @@ If you have ever opened a dating app just to "have someone to talk to" and close
 
 None of this makes dating apps bad. It makes them the wrong tool for a need they were never designed to solve quickly: low-stakes, immediate conversation.
 
-![Person scrolling through a phone on the couch, looking tired of swiping](/assets/images/posts/random-chat-vs-dating-apps/inline-01-7a43ae31.jpg)
+![Person scrolling through a phone on the couch, looking tired of swiping](/assets/images/posts/random-chat-vs-dating-apps/inline-01-bfe0e720.jpg)
 *Swiping fatigue is real — and it is often a sign the actual need was simpler than dating.*
 
 ## What random chat is actually good for
@@ -82,7 +82,7 @@ Being honest with yourself about which one you actually want, before you open ei
 
 Some people do meet romantic partners through random chat, the same way some people make lifelong friends through it — but that is not the design goal, and treating every random chat like a dating-app audition tends to make the conversation worse, not better. Go in for the conversation. If more grows naturally, that is a bonus, not the assignment.
 
-![Two phones side by side showing different kinds of chat apps](/assets/images/posts/random-chat-vs-dating-apps/inline-02-72d756f9.jpg)
+![Two phones side by side showing different kinds of chat apps](/assets/images/posts/random-chat-vs-dating-apps/inline-02-ce84eea9.jpg)
 *Different tools for different nights: one for dating intentionally, one for talking right now.*
 
 ## How to choose in under a minute

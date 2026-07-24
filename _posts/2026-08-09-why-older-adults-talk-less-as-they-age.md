@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: later-years
 tags: [human-connection, later-years, loneliness, seniors, advice]
-hero_image: "/assets/images/posts/why-older-adults-talk-less-as-they-age/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/why-older-adults-talk-less-as-they-age/hero-bb4b30a7.jpg"
 hero_alt: "Older man sitting quietly by a window, lost in thought"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -55,7 +55,7 @@ Many older adults carry a strong, sometimes painful instinct not to "bother" the
 
 Silence, like conversation, is a habit. A week without a real conversation becomes a month. A month becomes a pattern. Eventually, quiet stops feeling like an absence and starts feeling like the default setting — not because anything is wrong exactly, but because nothing has interrupted it.
 
-![Two older friends sitting together on a park bench, one listening closely](/assets/images/posts/why-older-adults-talk-less-as-they-age/inline-01-b3734c74.jpg)
+![Two older friends sitting together on a park bench, one listening closely](/assets/images/posts/why-older-adults-talk-less-as-they-age/inline-01-8a54cee2.jpg)
 *A shrinking circle of friends is one of the quietest, least discussed reasons conversation fades with age.*
 
 ## Quiet personality vs. withdrawal — how to tell the difference

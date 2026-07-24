@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 POSTS = ROOT / "_posts"
-PAGE_GLOBS = ("category/*.md", "series/*.md", "author/*.md", "*.md", "index.html")
+PAGE_GLOBS = ("category/*.md", "series/*.md", "author/*.md", "tools/*.html", "*.md", "index.html")
 
 MAIN_HOST = "omeglechat.online"
 BLOG_HOST = "blog.omeglechat.online"
@@ -64,7 +64,7 @@ def valid_internal_targets() -> set[str]:
             slug_m = re.search(r"^slug:\s*(\S+)", text, re.MULTILINE)
             if slug_m:
                 targets.add(f"/{slug_m.group(1).strip()}/")
-    for pattern in ("category/*.md", "series/*.md", "author/*.md"):
+    for pattern in ("category/*.md", "series/*.md", "author/*.md", "tools/*.html", "tools/*.md"):
         for page in ROOT.glob(pattern):
             text = page.read_text(encoding="utf-8")
             m = re.search(r"^permalink:\s*(\S+)", text, re.MULTILINE)

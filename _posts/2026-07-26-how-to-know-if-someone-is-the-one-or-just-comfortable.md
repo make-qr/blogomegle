@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, true-love, dating, relationships, advice]
-hero_image: "/assets/images/posts/how-to-know-if-someone-is-the-one-or-just-comfortable/hero-8f3607e2.jpg"
+hero_image: "/assets/images/posts/how-to-know-if-someone-is-the-one-or-just-comfortable/hero-9de80f4b.jpg"
 hero_alt: "Couple sitting close together on a bench, talking quietly"
 hero_caption: "Photo: Unsplash"
 youtube_id: R1vskiVDwl4
@@ -47,7 +47,7 @@ Ask yourself honestly: do you still want to know what they think about a new ide
 
 "The one" is a person you would choose again today, with full information, not just someone you have not gotten around to leaving. Comfort-only relationships often survive by default: it is easier to stay than to explain why you are leaving, especially to friends, family, or yourselves.
 
-![Couple laughing together over coffee at a small table](/assets/images/posts/how-to-know-if-someone-is-the-one-or-just-comfortable/inline-01-8323cdd6.jpg)
+![Couple laughing together over coffee at a small table](/assets/images/posts/how-to-know-if-someone-is-the-one-or-just-comfortable/inline-01-1e033f81.jpg)
 *Real connection usually still has some spark of curiosity left in it — not just routine.*
 
 ## Signs you may have found real connection, not just comfort
@@ -91,7 +91,7 @@ If the signs point toward real connection: invest more, not less. Real compatibi
 
 If the signs point toward comfort without real fit, that does not mean you must end things tonight. It means the relationship deserves an honest conversation, couples counseling if you both want to try, or a clear-eyed decision instead of years of quiet drifting. Staying out of fear and staying out of love produce very different lives ten years from now.
 
-![Two silhouettes walking along a path at sunset, holding hands loosely](/assets/images/posts/how-to-know-if-someone-is-the-one-or-just-comfortable/inline-02-73a3d6fb.jpg)
+![Two silhouettes walking along a path at sunset, holding hands loosely](/assets/images/posts/how-to-know-if-someone-is-the-one-or-just-comfortable/inline-02-fc0e3909.jpg)
 *Sometimes clarity comes from a long walk and an honest conversation, not a single dramatic realization.*
 
 ## If you are single and worried about ever knowing the difference

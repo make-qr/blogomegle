@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, marriage, spouse, compatibility, advice]
-hero_image: "/assets/images/posts/how-to-choose-a-spouse-youll-still-like-in-10-years/hero-a5ea7d48.jpg"
+hero_image: "/assets/images/posts/how-to-choose-a-spouse-youll-still-like-in-10-years/hero-b8e0f82c.jpg"
 hero_alt: "Older couple laughing together outdoors, still visibly close"
 hero_caption: "Photo: Unsplash"
 youtube_id: Fnt6f3Zp0FE
@@ -41,7 +41,7 @@ You are not just marrying a person; you are marrying their history. Watch how th
 
 This also predicts holidays, boundaries, and money conversations for the next several decades, so it is worth taking seriously early rather than discovering it after the wedding.
 
-![Couple sitting at a kitchen table with coffee, talking seriously](/assets/images/posts/how-to-choose-a-spouse-youll-still-like-in-10-years/inline-01-f863e7af.jpg)
+![Couple sitting at a kitchen table with coffee, talking seriously](/assets/images/posts/how-to-choose-a-spouse-youll-still-like-in-10-years/inline-01-a0ec6749.jpg)
 *The quiet, unremarkable conversations — not the big romantic gestures — reveal who you're actually choosing.*
 
 ## Criterion 3: Compatibility under stress, not just under ease
@@ -66,7 +66,7 @@ Notice how a potential spouse talks about you when frustrated, and how they talk
 
 Couples who stay genuinely fond of each other after a decade usually keep some shared humor — private jokes, an ability to laugh at themselves, lightness that survives stress. Humor at the *other person's* expense, used to control or belittle, is different and corrosive. Humor shared *with* each other tends to protect a marriage against the slow erosion of resentment.
 
-![Older couple cooking together in a bright kitchen](/assets/images/posts/how-to-choose-a-spouse-youll-still-like-in-10-years/inline-02-e6f1016e.jpg)
+![Older couple cooking together in a bright kitchen](/assets/images/posts/how-to-choose-a-spouse-youll-still-like-in-10-years/inline-02-15db82e1.jpg)
 *Shared, gentle humor in ordinary moments is one of the strongest predictors of a marriage that stays warm.*
 
 ## A conversation worth having before the wedding, not after

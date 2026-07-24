@@ -5,7 +5,7 @@ slug: ometv-not-working-alternatives
 permalink: /ometv-not-working-alternatives/
 excerpt: "OmeTV stuck on connecting, black screen, or camera blocked? Work through these six fixes — then try browser-based random chat alternatives that don't need an app."
 tags: [omegle, chat, ometv, troubleshooting, webdev]
-hero_image: "/assets/images/posts/ometv-not-working-alternatives/hero-593c37c4.jpg"
+hero_image: "/assets/images/posts/ometv-not-working-alternatives/hero-5f303b0f.jpg"
 hero_alt: "Safety guide cover — ometv-not-working-alternatives"
 hero_caption: "Photo: Unsplash"
 category: Safety & Guides

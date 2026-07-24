@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, marriage, home, emotional-safety, advice]
-hero_image: "/assets/images/posts/building-a-home-that-feels-safe-for-both-of-you/hero-8323cdd6.jpg"
+hero_image: "/assets/images/posts/building-a-home-that-feels-safe-for-both-of-you/hero-ca963a17.jpg"
 hero_alt: "Couple relaxing together in a cozy living room"
 hero_caption: "Photo: Unsplash"
 youtube_id: Fnt6f3Zp0FE
@@ -46,7 +46,7 @@ A few practical fixes:
 
 None of this requires expensive renovations. It requires noticing who has been quietly adjusting to the other person's version of "normal" and making space for both.
 
-![Couple unpacking boxes together in a new home](/assets/images/posts/building-a-home-that-feels-safe-for-both-of-you/inline-01-39e9343e.jpg)
+![Couple unpacking boxes together in a new home](/assets/images/posts/building-a-home-that-feels-safe-for-both-of-you/inline-01-6982875a.jpg)
 *A shared home is built in small negotiations, not one big decorating decision.*
 
 ## Rituals that make a home feel safe
@@ -77,7 +77,7 @@ This "invisible labor" imbalance is one of the most common slow leaks in long-te
 
 A useful practice: once a season, list every recurring task that keeps the household running — not just chores, but planning, remembering, and coordinating — and look at it together honestly. Splitting tasks does not need to be perfectly equal, but it does need to be **visible and chosen**, not defaulted onto whoever cares more or notices first.
 
-![Couple cooking dinner together in a warm kitchen](/assets/images/posts/building-a-home-that-feels-safe-for-both-of-you/inline-02-909fb5b8.jpg)
+![Couple cooking dinner together in a warm kitchen](/assets/images/posts/building-a-home-that-feels-safe-for-both-of-you/inline-02-615b55a3.jpg)
 *Shared, visible effort — even in small chores — is one of the clearest signs of a safe partnership.*
 
 ## In-laws, boundaries, and the "third home"

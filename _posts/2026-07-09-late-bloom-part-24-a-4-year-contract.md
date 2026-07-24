@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-23-broken-mirror-on-6th-street/
 next_part: /late-bloom-part-25-the-friend-from-that-year-the-congress-bridge/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-24-a-4-year-contract/hero-fbca3308.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-24-a-4-year-contract/hero-57e0187d.jpg"
 hero_alt: "Leo & Nina — A 4-Year Contract"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -83,7 +83,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-24-a-4-year-contract/inline-01-b0f03e07.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-24-a-4-year-contract/inline-01-ec19e756.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at Austin
@@ -92,7 +92,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own Austin tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-24-a-4-year-contract/inline-02-1cfd6c8d.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-24-a-4-year-contract/inline-02-376040da.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 ## What this has to do with OmegleChat

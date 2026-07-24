@@ -5,7 +5,7 @@ slug: make-friends-random-chat
 permalink: /make-friends-random-chat/
 excerpt: "Random chat isn't just for boredom — here's how people turn one good match into an actual online friendship."
 tags: [omegle, chat, social, friendship]
-hero_image: "/assets/images/posts/make-friends-random-chat/hero-e6f1016e.jpg"
+hero_image: "/assets/images/posts/make-friends-random-chat/hero-0c17f133.jpg"
 hero_alt: "Safety guide cover — make-friends-random-chat"
 hero_caption: "Photo: Unsplash"
 category: Safety & Guides

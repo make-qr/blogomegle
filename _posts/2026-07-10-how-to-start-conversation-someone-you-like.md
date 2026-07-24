@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, dating, conversation, relationships, advice]
-hero_image: "/assets/images/posts/how-to-start-conversation-someone-you-like/hero-e6f1016e.jpg"
+hero_image: "/assets/images/posts/how-to-start-conversation-someone-you-like/hero-9e991b68.jpg"
 hero_alt: "Two friends laughing together"
 hero_caption: "Photo: Unsplash"
 youtube_id: Fnt6f3Zp0FE
@@ -35,7 +35,7 @@ What actually works is **be yourself with structure**:
 
 Desperation is not wanting someone. Desperation is **needing** them to validate you in one conversation. The difference shows up in your body language, your pacing, and whether you can walk away calm.
 
-![Friends talking at a cafe — low-pressure conversation](/assets/images/posts/how-to-start-conversation-someone-you-like/inline-01-49fc2b73.jpg)
+![Friends talking at a cafe — low-pressure conversation](/assets/images/posts/how-to-start-conversation-someone-you-like/inline-01-220abf19.jpg)
 *A public, casual setting lowers pressure for both people.*
 
 ## Before you speak: check your motive
@@ -125,7 +125,7 @@ A graceful close:
 
 How you handle rejection is part of your attractiveness over time — not to them, but to **future you** and future partners who *are* available.
 
-![Walking together — building connection over time](/assets/images/posts/how-to-start-conversation-someone-you-like/inline-02-84943e04.jpg)
+![Walking together — building connection over time](/assets/images/posts/how-to-start-conversation-someone-you-like/inline-02-c65d21fe.jpg)
 *Trust grows in repeated small moments, not one perfect line.*
 
 ## How this connects to online chat

@@ -5,7 +5,7 @@ slug: language-exchange-strangers
 permalink: /language-exchange-strangers/
 excerpt: "Turn random chat into real language practice — structure, boundaries, and tools that actually work."
 tags: [language, chat, learning, omegle]
-hero_image: "/assets/images/posts/language-exchange-strangers/hero-d556abab.jpg"
+hero_image: "/assets/images/posts/language-exchange-strangers/hero-d7b4a632.jpg"
 hero_alt: "Safety guide cover — language-exchange-strangers"
 hero_caption: "Photo: Unsplash"
 category: Safety & Guides

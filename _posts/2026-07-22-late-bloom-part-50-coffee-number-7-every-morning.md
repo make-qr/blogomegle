@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-49-mochi-the-dog-and-two-strangers/
 next_part: /late-bloom-part-51-college-rivals/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-50-coffee-number-7-every-morning/hero-50c0665b.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-50-coffee-number-7-every-morning/hero-c84dadf8.jpg"
 hero_alt: "Ian & Olivia — Coffee Number 7 Every Morning"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -83,7 +83,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-50-coffee-number-7-every-morning/inline-01-712dcb91.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-50-coffee-number-7-every-morning/inline-01-74f3d5c5.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at New York
@@ -92,7 +92,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own New York tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-50-coffee-number-7-every-morning/inline-02-dbd7a291.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-50-coffee-number-7-every-morning/inline-02-cddecfcc.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 ## What this has to do with OmegleChat

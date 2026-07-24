@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-iii-broken-mirror-rain-street/
 next_part: /late-bloom-part-v-friend-from-that-year/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-iv-one-year-contract/hero-8f3607e2.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-iv-one-year-contract/hero-8b88005c.jpg"
 hero_alt: "Late Bloom Stories Part 4 cover"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---

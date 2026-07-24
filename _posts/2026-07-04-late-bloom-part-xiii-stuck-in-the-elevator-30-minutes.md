@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-xii-an-exs-wedding/
 next_part: /late-bloom-part-xiv-blackout-on-the-riverfront/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/hero-75f29bd7.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/hero-e8a6d0c0.jpg"
 hero_alt: "Matthew & Hannah — Stuck in the Elevator 30 Minutes"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
@@ -83,7 +83,7 @@ Random chat — the kind we build OmegleChat for — can lower the volume of lon
 
 **Does online chat help before dating again?** It can rebuild social confidence, but treat it as a bridge, not a destination.
 
-![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/inline-01-02d0711e.jpg)
+![Couple walking in the city — illustration of reunion](/assets/images/posts/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/inline-01-7d96fc46.jpg)
 *Photo: [Unsplash](https://unsplash.com) — reunion often starts with a small, honest step.*
 
 ## A slower look at Portland
@@ -92,7 +92,7 @@ Love stories set in real places matter because **place holds memory**. A lake pa
 
 If you are in your own Portland tonight, notice where you feel most yourself. That is often where honest conversation happens — not in performative dates, but in familiar streets where silence is allowed.
 
-![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/inline-02-c06388d5.jpg)
+![Coffee and conversation — quiet connection](/assets/images/posts/late-bloom-part-xiii-stuck-in-the-elevator-30-minutes/inline-02-1c8527d2.jpg)
 *Small rituals — coffee, walks, shared meals — build trust faster than grand gestures.*
 
 ## What this has to do with OmegleChat

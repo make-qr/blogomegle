@@ -1,0 +1,96 @@
+---
+layout: default
+title: Random Chat Opener Generator
+permalink: /tools/opener-generator/
+full_width: false
+page_kind: tool
+pillar: chat-funnel
+excerpt: Generate a simple first message for Omegle-style chat, then try it on OmegleChat.
+---
+
+<section class="archive-header">
+  <h1>Opener generator</h1>
+  <p class="archive-lead">Pick a mood, get one first message, then try it in a free browser chat. No account required on this page.</p>
+</section>
+
+<div class="opener-tool" id="opener-tool">
+  <label class="opener-label" for="opener-mood">Mood</label>
+  <select id="opener-mood" class="opener-select">
+    <option value="easy">Easy / light</option>
+    <option value="night">Night desk</option>
+    <option value="language">Language practice</option>
+    <option value="hobby">Hobby / media</option>
+    <option value="honest">Honest lonely</option>
+    <option value="nofirt">Company, not flirting</option>
+  </select>
+
+  <button type="button" class="btn" id="opener-generate">Generate opener</button>
+  <button type="button" class="btn btn-outline" id="opener-copy">Copy</button>
+
+  <p class="opener-output" id="opener-output" aria-live="polite">Press generate for a first message.</p>
+
+  <p class="opener-actions">
+    <a class="btn chat-cta-link" id="opener-chat" href="{{ site.chat_url | default: 'https://omeglechat.online/chat.html' }}" data-cta="chat" data-cta-placement="opener-tool">Try this on OmegleChat</a>
+    <a class="btn btn-outline" href="{{ '/series/stranger-scripts/' | relative_url }}">Stranger Scripts series</a>
+  </p>
+  <p class="text-muted" style="margin-top:1rem;font-size:0.95rem;">Tip: send one line, listen twice, then Next if it is flat. Read the <a href="{{ '/random-chat-safety-2026/' | relative_url }}">safety guide</a> if you are new.</p>
+</div>
+
+<script>
+(function () {
+  var pool = {
+    easy: [
+      "Hey! What's something good that happened to you today?",
+      "Okay this is always the awkward part — hi, how's your night going?",
+      "Random question — coffee or tea person?",
+      "Quick vibe check: sunny day energy or rainy-night energy over there?"
+    ],
+    night: [
+      "Night desk shift here — want a 5-message chat then we both go back to work?",
+      "I am studying and need a human break, not a deep talk. Up for a short one?",
+      "Companion mode: ask me what I am working on, I will ask you back."
+    ],
+    language: [
+      "Hey! I am practicing my English for ten minutes — want to chat slowly with me?",
+      "Language warm-up: I will type carefully if you correct me kindly. Deal?",
+      "Not dating, just practice — can we talk about ordinary day stuff?"
+    ],
+    hobby: [
+      "What have you been into lately — shows, games, music, anything?",
+      "If you could recommend one song for a quiet night, what is it?",
+      "I need a show recommendation that is comforting, not stressful. Got one?"
+    ],
+    honest: [
+      "Kind of a quiet night — figured I would say hi to a stranger instead of scrolling.",
+      "Not looking for anything deep, just wanted a real conversation for a few minutes.",
+      "I am lonely in a normal human way tonight, not a crisis way. Want to talk lightly?"
+    ],
+    nofirt: [
+      "Not looking to flirt — just want a normal conversation for a bit.",
+      "Company mode: shows, food, dumb opinions. No romance lane tonight.",
+      "Quiet night after a rough week. Up for light talk?"
+    ]
+  };
+  var mood = document.getElementById('opener-mood');
+  var out = document.getElementById('opener-output');
+  var last = '';
+  function pick() {
+    var list = pool[mood.value] || pool.easy;
+    var line = list[Math.floor(Math.random() * list.length)];
+    if (list.length > 1 && line === last) {
+      line = list[Math.floor(Math.random() * list.length)];
+    }
+    last = line;
+    out.textContent = line;
+  }
+  document.getElementById('opener-generate').addEventListener('click', pick);
+  document.getElementById('opener-copy').addEventListener('click', function () {
+    var t = out.textContent || '';
+    if (!t || t.indexOf('Press generate') === 0) return;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(t);
+    }
+  });
+  pick();
+})();
+</script>

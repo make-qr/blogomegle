@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, marital-health, marriage, premarital, advice]
-hero_image: "/assets/images/posts/premarital-health-body-money-emotional-readiness/hero-3661343e.jpg"
+hero_image: "/assets/images/posts/premarital-health-body-money-emotional-readiness/hero-df925937.jpg"
 hero_alt: "Couple sitting together reviewing documents at a table"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -59,7 +59,7 @@ Before the wedding, it helps enormously to sit down — sober, unhurried, withou
 
 Nobody needs a perfect spreadsheet before the wedding. You need enough honesty that no one discovers a hidden credit card balance during a fight about something else entirely.
 
-![Couple reviewing a budget together on a laptop](/assets/images/posts/premarital-health-body-money-emotional-readiness/inline-01-188e56b3.jpg)
+![Couple reviewing a budget together on a laptop](/assets/images/posts/premarital-health-body-money-emotional-readiness/inline-01-b128f13a.jpg)
 *A calm money conversation before the wedding prevents a hundred smaller fights after it.*
 
 ### Emotional readiness: the checkup with no chart
@@ -76,7 +76,7 @@ A few honest questions worth sitting with, alone and then together:
 
 Emotional readiness is not the absence of doubt. Almost everyone has some doubt before a wedding; that is normal decision fatigue, not automatically a warning sign. The distinction matters more than the doubt itself.
 
-![Couple talking seriously while sitting close together](/assets/images/posts/premarital-health-body-money-emotional-readiness/inline-02-e6f1016e.jpg)
+![Couple talking seriously while sitting close together](/assets/images/posts/premarital-health-body-money-emotional-readiness/inline-02-01f14911.jpg)
 *Emotional readiness rarely announces itself loudly — it shows up in how you talk through doubt together.*
 
 ## Red flags vs. normal jitters

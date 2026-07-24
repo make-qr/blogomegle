@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, marital-health, marriage, newlyweds, advice]
-hero_image: "/assets/images/posts/after-the-wedding-first-year-map-for-real-couples/hero-f863e7af.jpg"
+hero_image: "/assets/images/posts/after-the-wedding-first-year-map-for-real-couples/hero-92e88892.jpg"
 hero_alt: "Newlywed couple sitting together at home"
 hero_caption: "Photo: Unsplash"
 youtube_id: Fnt6f3Zp0FE
@@ -41,7 +41,7 @@ This is when small differences suddenly become visible: how each of you handles 
 - Building two or three small new rituals — a Sunday routine, a weekly check-in — instead of assuming old dating rhythms will just continue.
 - Being specific about chores and expectations instead of assuming your partner will "just know."
 
-![Couple unpacking boxes in their new home](/assets/images/posts/after-the-wedding-first-year-map-for-real-couples/inline-01-b2ac8de8.jpg)
+![Couple unpacking boxes in their new home](/assets/images/posts/after-the-wedding-first-year-map-for-real-couples/inline-01-dc794737.jpg)
 *The unglamorous work of month one — boxes, thank-you cards, and figuring out whose dishes stay.*
 
 ## Months 4–6: money, in-laws, and the first real disagreements
@@ -64,7 +64,7 @@ These questions are not signs of regret. They are signs of an honest brain adjus
 
 New marriages sometimes accidentally shrink a couple's social world — old friendships fade, single friends feel distant, and the couple becomes each other's only source of connection. That pressure is heavy for any one relationship to carry alone. Protecting outside friendships and interests in this window is one of the more underrated first-year habits.
 
-![Couple sitting comfortably together, one leaning on the other's shoulder](/assets/images/posts/after-the-wedding-first-year-map-for-real-couples/inline-02-7a43ae31.jpg)
+![Couple sitting comfortably together, one leaning on the other's shoulder](/assets/images/posts/after-the-wedding-first-year-map-for-real-couples/inline-02-5438c529.jpg)
 *By the back half of the year, most couples trade the wedding high for something steadier — and better.*
 
 ## Months 10–12: settling into an actual rhythm

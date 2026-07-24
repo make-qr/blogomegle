@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, loneliness, dating, true-love, advice]
-hero_image: "/assets/images/posts/lonely-nights-vs-true-loneliness-when-to-reach-out/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/lonely-nights-vs-true-loneliness-when-to-reach-out/hero-81f8980a.jpg"
 hero_alt: "Person sitting by a window at night, looking out quietly"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -45,7 +45,7 @@ Ask yourself honestly:
 
 If most answers land in the left column, you are likely having a **lonely night** — uncomfortable, human, and very treatable with the right small action. If most land in the right column, you may be dealing with **true loneliness**, which usually needs slower, structural changes rather than a single evening's fix.
 
-![Two people talking warmly over coffee at a small table](/assets/images/posts/lonely-nights-vs-true-loneliness-when-to-reach-out/inline-01-96e61f79.jpg)
+![Two people talking warmly over coffee at a small table](/assets/images/posts/lonely-nights-vs-true-loneliness-when-to-reach-out/inline-01-d68da65c.jpg)
 *Sometimes the fix for a lonely night is smaller than it feels — one real conversation, not a life overhaul.*
 
 ## What actually helps on a lonely night
@@ -87,7 +87,7 @@ A single party or one dating app match will not undo months of isolation. Recurr
 
 If loneliness has sat underneath your life for months, alongside low mood, hopelessness, or withdrawal from things you used to enjoy, a licensed therapist can help far more than any article, including this one. Chronic loneliness is a legitimate topic for professional support — not something you are supposed to solve alone through willpower.
 
-![Person walking alone on a quiet street at dusk](/assets/images/posts/lonely-nights-vs-true-loneliness-when-to-reach-out/inline-02-0d58cc2a.jpg)
+![Person walking alone on a quiet street at dusk](/assets/images/posts/lonely-nights-vs-true-loneliness-when-to-reach-out/inline-02-01748d62.jpg)
 *A single walk will not fix chronic loneliness — but it is often the first honest step toward noticing the pattern.*
 
 ## The trap: mistaking loneliness for love

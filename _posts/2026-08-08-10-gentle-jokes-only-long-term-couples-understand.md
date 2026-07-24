@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, couple-humor, marriage, humor, relationships]
-hero_image: "/assets/images/posts/10-gentle-jokes-only-long-term-couples-understand/hero-b2ac8de8.jpg"
+hero_image: "/assets/images/posts/10-gentle-jokes-only-long-term-couples-understand/hero-7b375b23.jpg"
 hero_alt: "Long-term couple laughing together at home"
 hero_caption: "Photo: Unsplash"
 youtube_id: R1vskiVDwl4
@@ -35,7 +35,7 @@ Every long-term household eventually bans one specific item after one specific d
 
 Somewhere along the way, boring chores turned into a bit — commentating on laundry-folding like a sports event, or turning dish duty into a dramatic Olympic final. It sounds silly written down. It is silly. That is exactly why it works.
 
-![Couple doing household chores together and laughing](/assets/images/posts/10-gentle-jokes-only-long-term-couples-understand/inline-01-fd8777e3.jpg)
+![Couple doing household chores together and laughing](/assets/images/posts/10-gentle-jokes-only-long-term-couples-understand/inline-01-c78a876a.jpg)
 *The most ordinary tasks often produce the longest-running jokes.*
 
 ## 4. The "we both know how this ends" prediction
@@ -62,7 +62,7 @@ At family events, there is often one relative whose stories, opinions, or timing
 
 One of you insists a dish needs more salt. The other insists it's perfect. Neither side has ever won, not once, in years. The argument itself has become the joke — you both know exactly how it goes and keep having it anyway, purely for the ritual of it.
 
-![Couple cooking and debating playfully in the kitchen](/assets/images/posts/10-gentle-jokes-only-long-term-couples-understand/inline-02-19dd5c4d.jpg)
+![Couple cooking and debating playfully in the kitchen](/assets/images/posts/10-gentle-jokes-only-long-term-couples-understand/inline-02-6b65565b.jpg)
 *Even a running disagreement can become a form of affection, once both people know it's not really a fight.*
 
 ## 10. The "we survived that" callback

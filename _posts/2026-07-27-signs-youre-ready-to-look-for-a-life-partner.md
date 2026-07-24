@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, marriage, dating, life-partner, advice]
-hero_image: "/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/hero-2b5db58f.jpg"
 hero_alt: "Person standing at a window looking out thoughtfully with morning light"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -41,7 +41,7 @@ Readiness includes a working list of what you actually need long-term: values ar
 
 If your list is either nonexistent ("I'll take anyone who's nice") or impossibly narrow (a fantasy checklist no real person meets), that is worth examining before you start seriously looking. A workable list is specific but human.
 
-![Person journaling with coffee, sitting by a window](/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/inline-01-3661343e.jpg)
+![Person journaling with coffee, sitting by a window](/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/inline-01-fdb604c8.jpg)
 *Knowing your non-negotiables usually takes some quiet reflection, not a dating app quiz.*
 
 ## Sign 3: You can handle conflict without collapsing or attacking
@@ -76,7 +76,7 @@ It is easy to picture weddings, vacations, and anniversaries. Readiness shows up
 
 If you're unsure how this maps onto an actual person you're considering, it helps to revisit [what true love actually means](https://blog.omeglechat.online/what-true-love-actually-means/) — readiness and recognition tend to develop together, not separately.
 
-![Couple cooking together in a small kitchen, laughing](/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/inline-02-8c7e7ca2.jpg)
+![Couple cooking together in a small kitchen, laughing](/assets/images/posts/signs-youre-ready-to-look-for-a-life-partner/inline-02-a8e3164a.jpg)
 *Ordinary life — cooking, errands, quiet evenings — is where readiness for a life partner is actually tested.*
 
 ## What if you're not quite there yet?

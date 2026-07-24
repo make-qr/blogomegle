@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-vi-noodle-shop-number-seven/
 next_part: /late-bloom-part-viii-blind-date-at-pike-place/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-vii-8-hours-apart/hero-c7573e51.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-vii-8-hours-apart/hero-53dffe25.jpg"
 hero_alt: "Late Bloom Stories Part 7 cover"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---

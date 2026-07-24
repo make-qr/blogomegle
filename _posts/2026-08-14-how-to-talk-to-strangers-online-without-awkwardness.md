@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: chat-funnel
 tags: [human-connection, chat-funnel, random-chat, advice]
-hero_image: "/assets/images/posts/how-to-talk-to-strangers-online-without-awkwardness/hero-8323cdd6.jpg"
+hero_image: "/assets/images/posts/how-to-talk-to-strangers-online-without-awkwardness/hero-2f1a52f4.jpg"
 hero_alt: "Person smiling while chatting on a laptop at home"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -44,7 +44,7 @@ Instead, aim for an opener that a stranger can answer in three seconds without t
 
 These work because they are **specific but low-effort**. Nobody has to write a paragraph, and nobody has to reveal anything personal. That combination — easy to answer, safe to answer — is the entire secret to a good opener.
 
-![Two people having a relaxed conversation over coffee](/assets/images/posts/how-to-talk-to-strangers-online-without-awkwardness/inline-01-72d756f9.jpg)
+![Two people having a relaxed conversation over coffee](/assets/images/posts/how-to-talk-to-strangers-online-without-awkwardness/inline-01-49c98bdd.jpg)
 *A relaxed opener does the same job online that a coffee-shop small-talk question does in person.*
 
 ## Stop narrating your own awkwardness
@@ -91,7 +91,7 @@ Not every chat needs to last twenty minutes, and forcing one that has run its co
 
 Knowing you can leave cleanly, at any point, actually reduces awkwardness while you are talking — because you are not trapped, you are choosing to stay.
 
-![Person relaxing with a phone, casually chatting in the evening](/assets/images/posts/how-to-talk-to-strangers-online-without-awkwardness/inline-02-e6f1016e.jpg)
+![Person relaxing with a phone, casually chatting in the evening](/assets/images/posts/how-to-talk-to-strangers-online-without-awkwardness/inline-02-10cf9280.jpg)
 *A short, easy conversation you can leave anytime beats a long one you feel stuck in.*
 
 ## A quick mindset shift that removes most of the pressure

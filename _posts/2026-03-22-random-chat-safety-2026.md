@@ -12,7 +12,7 @@ category_slug: safety-guides
 format: article
 pillar: chat-funnel
 tags: [security, chat, omegle, privacy, random-chat, safety]
-hero_image: "/assets/images/posts/random-chat-safety-2026/hero-64d2df2c.jpg"
+hero_image: "/assets/images/posts/random-chat-safety-2026/hero-1d323817.jpg"
 hero_alt: "Padlock and network concept for online safety"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -43,7 +43,7 @@ This is the core **Safety & Guides** checklist for anyone searching for an Omegl
 
 Read the on-site guide too: [OmegleChat safety tips](https://omeglechat.online/safety-tips.html).
 
-![Secure browsing mindset before starting random chat](/assets/images/posts/random-chat-safety-2026/inline-01-64d2df2c.jpg)
+![Secure browsing mindset before starting random chat](/assets/images/posts/random-chat-safety-2026/inline-01-7ecd7832.jpg)
 *Five minutes of setup beats hours of regret.*
 
 ## During a chat
@@ -83,7 +83,7 @@ No logo makes strangers safe. **Your habits are the filter** no algorithm can re
 
 When you want first-message ideas that stay light, use [what to say first on Omegle-style chat](https://blog.omeglechat.online/what-to-say-first-on-omegle-style-chat/). When nights feel heavy and you only need low-pressure company, read [lonely at night: low-pressure ways to talk](https://blog.omeglechat.online/lonely-at-night-low-pressure-ways-to-talk/) so you do not confuse panic with curiosity.
 
-![Person pausing before enabling a webcam](/assets/images/posts/random-chat-safety-2026/inline-02-72d756f9.jpg)
+![Person pausing before enabling a webcam](/assets/images/posts/random-chat-safety-2026/inline-02-754ef42c.jpg)
 *Camera off until the conversation earns it.*
 
 ## Why OmegleChat publishes safety content

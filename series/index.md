@@ -30,5 +30,12 @@ excerpt: Romance serials and essay series on human connection — OmegleChat Blo
       <a class="btn btn-outline" href="{{ '/quiet-hours-chronicle-part-i/' | relative_url }}">Begin Part I</a>
       <a class="btn btn-outline" href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">Series index</a>
     </article>
+    <article class="featured-card">
+      <p class="label">Chat funnel · 7 scripts</p>
+      <h2><a href="{{ '/series/stranger-scripts/' | relative_url }}">Stranger Scripts</a></h2>
+      <p>Copy-ready first messages for Omegle-style chat — plus an opener generator you can try before you Start.</p>
+      <a class="btn" href="{{ '/stranger-scripts-01-weather-opener/' | relative_url }}">Begin Script #1</a>
+      <a class="btn btn-outline" href="{{ '/tools/opener-generator/' | relative_url }}">Opener tool</a>
+    </article>
   </div>
 </section>

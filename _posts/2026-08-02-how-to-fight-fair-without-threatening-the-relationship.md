@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, conflict, communication, relationships, advice]
-hero_image: "/assets/images/posts/how-to-fight-fair-without-threatening-the-relationship/hero-a5ea7d48.jpg"
+hero_image: "/assets/images/posts/how-to-fight-fair-without-threatening-the-relationship/hero-94b02d7e.jpg"
 hero_alt: "Couple having a serious conversation on a couch"
 hero_caption: "Photo: Unsplash"
 youtube_id: Fnt6f3Zp0FE
@@ -51,7 +51,7 @@ Stonewalling is shutting down entirely — going silent, leaving the room, refus
 
 Recognizing these patterns in yourself is more useful than spotting them in your partner. You can only change your half of the dance.
 
-![Couple talking calmly across a table](/assets/images/posts/how-to-fight-fair-without-threatening-the-relationship/inline-01-3661343e.jpg)
+![Couple talking calmly across a table](/assets/images/posts/how-to-fight-fair-without-threatening-the-relationship/inline-01-e00d865e.jpg)
 *Fair fighting is not about staying calm forever — it is about staying respectful even when you are not calm.*
 
 ## What fighting fair actually looks like
@@ -76,7 +76,7 @@ Most complaints are really unmet requests wearing frustrated clothing. "You neve
 
 Healthy conflict includes being genuinely willing to be moved by your partner's perspective — not performing agreement, but actually updating your position sometimes. Relationships where one partner refuses any influence tend to accumulate resentment faster.
 
-![Couple reconciling with a gentle hand on the shoulder](/assets/images/posts/how-to-fight-fair-without-threatening-the-relationship/inline-02-b2ac8de8.jpg)
+![Couple reconciling with a gentle hand on the shoulder](/assets/images/posts/how-to-fight-fair-without-threatening-the-relationship/inline-02-3e856159.jpg)
 *Repair does not need to be perfect — it just needs to happen before the distance sets in.*
 
 ## Repair: the skill that matters more than winning

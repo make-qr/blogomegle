@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, couple-humor, marriage, married-life, humor]
-hero_image: "/assets/images/posts/funny-married-life-truths-nobody-puts-in-wedding-vows/hero-8f3607e2.jpg"
+hero_image: "/assets/images/posts/funny-married-life-truths-nobody-puts-in-wedding-vows/hero-8eeb5998.jpg"
 hero_alt: "Couple laughing together in their kitchen"
 hero_caption: "Photo: Unsplash"
 youtube_id: R1vskiVDwl4
@@ -39,7 +39,7 @@ Single-person grocery runs are efficient: list, store, cart, done. Married groce
 
 Married couples slowly build an entire private dialect. A single raised eyebrow across a dinner table can mean "that person is telling the story wrong" or "we are leaving in exactly six minutes." Certain words become entire inside jokes. Guests at your table have no idea why you are both suddenly laughing at the word "Tuesday."
 
-![Couple sharing a laugh over coffee at home](/assets/images/posts/funny-married-life-truths-nobody-puts-in-wedding-vows/inline-01-8ad27b6c.jpg)
+![Couple sharing a laugh over coffee at home](/assets/images/posts/funny-married-life-truths-nobody-puts-in-wedding-vows/inline-01-b4a31418.jpg)
 *Half of married communication happens in looks, sighs, and one very specific eyebrow.*
 
 ## The bathroom becomes a shared frontier, whether you like it or not
@@ -74,7 +74,7 @@ Somehow, running errands together turns into an unspoken competition: who can fi
 
 Long before any conversation about children happens, most couples run an unofficial trial through a plant that mysteriously always seems thirsty, or a pet who has clearly decided who the "fun parent" is. These small creatures reveal more about your teamwork than any pre-wedding quiz ever could.
 
-![Couple doing laundry together and laughing](/assets/images/posts/funny-married-life-truths-nobody-puts-in-wedding-vows/inline-02-8323cdd6.jpg)
+![Couple doing laundry together and laughing](/assets/images/posts/funny-married-life-truths-nobody-puts-in-wedding-vows/inline-02-fd6af2c4.jpg)
 *Somehow, folding towels together becomes its own inside joke by year two.*
 
 ## You will develop strong, oddly specific opinions about laundry

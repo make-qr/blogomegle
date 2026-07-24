@@ -95,7 +95,8 @@ def download_image(url: str, dest: Path) -> Path | None:
 
 
 def local_path_for(post_slug: str, role: str, url: str) -> Path:
-    key = hashlib.sha1(url.encode()).hexdigest()[:8]
+    # Salt with slug so two posts never share a filename even if a URL collides.
+    key = hashlib.sha1(f"{post_slug}|{role}|{url}".encode()).hexdigest()[:8]
     return IMG_ROOT / post_slug / f"{role}-{key}.jpg"
 
 

@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, marital-health, marriage, premarital, checklist]
-hero_image: "/assets/images/posts/premarital-checkup-checklist-health-habits-family/hero-73a3d6fb.jpg"
+hero_image: "/assets/images/posts/premarital-checkup-checklist-health-habits-family/hero-3e06e232.jpg"
 hero_alt: "Couple sitting together in a bright waiting room, talking calmly"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -45,7 +45,7 @@ Topics worth discussing openly:
 
 If either of you has specific concerns — fertility, a chronic illness, a genetic condition — the right next step is a real conversation with a physician or genetic counselor together, not guesswork from articles online.
 
-![Couple talking with a doctor in a clinic setting](/assets/images/posts/premarital-checkup-checklist-health-habits-family/inline-01-f401a188.jpg)
+![Couple talking with a doctor in a clinic setting](/assets/images/posts/premarital-checkup-checklist-health-habits-family/inline-01-3f6957c1.jpg)
 *A real medical conversation belongs with a licensed provider — this checklist just helps you know what to bring up.*
 
 ## Section 2: Mental health honesty
@@ -92,7 +92,7 @@ Again: this is a conversation-starter checklist, not a diagnostic tool. If speci
 
 Many marital conflicts about in-laws are really conflicts about **unspoken defaults** — each partner assuming their own family's normal is universal. Naming these defaults out loud early prevents years of quiet friction.
 
-![Couple sitting together outdoors, having a relaxed conversation](/assets/images/posts/premarital-checkup-checklist-health-habits-family/inline-02-d35fe6e2.jpg)
+![Couple sitting together outdoors, having a relaxed conversation](/assets/images/posts/premarital-checkup-checklist-health-habits-family/inline-02-4b7de17e.jpg)
 *Most of this checklist is simply permission to ask questions you have been avoiding.*
 
 ## A simple premarital checklist you can use tonight

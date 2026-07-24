@@ -109,6 +109,17 @@ DATE_MAP: dict[str, str] = {
     "random-chat-vs-dating-apps": "2026-08-15",
     "lonely-at-night-low-pressure-ways-to-talk": "2026-08-16",
     "what-to-say-first-on-omegle-style-chat": "2026-08-17",
+    # Stranger Scripts + funnel tools cluster
+    "stranger-scripts-01-weather-opener": "2026-08-18",
+    "stranger-scripts-02-why-are-you-here": "2026-08-19",
+    "stranger-scripts-03-coffee-or-tea": "2026-08-20",
+    "stranger-scripts-04-language-warmup": "2026-08-21",
+    "stranger-scripts-05-night-desk": "2026-08-22",
+    "stranger-scripts-06-hobby-hook": "2026-08-23",
+    "stranger-scripts-07-honest-lonely": "2026-08-24",
+    "night-desk-companion-random-chat": "2026-08-25",
+    "practice-english-conversation-with-strangers-browser": "2026-08-26",
+    "after-breakup-talk-without-flirting": "2026-08-27",
 }
 
 GUIDE_CATEGORY = "Safety & Guides"

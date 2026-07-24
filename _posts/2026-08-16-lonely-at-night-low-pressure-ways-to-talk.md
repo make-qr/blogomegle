@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: chat-funnel
 tags: [human-connection, chat-funnel, random-chat, loneliness, advice]
-hero_image: "/assets/images/posts/lonely-at-night-low-pressure-ways-to-talk/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/lonely-at-night-low-pressure-ways-to-talk/hero-8b0f9904.jpg"
 hero_alt: "Phone glowing softly on a nightstand in a quiet, dim bedroom"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -41,7 +41,7 @@ Before you open any chat platform, it is worth trying the options that cost you 
 
 These are not clever tricks. They work because loneliness at night is often about the *absence of any contact at all*, not the absence of a perfect solution. Almost any real, unhurried exchange with another person can shift the feeling.
 
-![Two friends talking warmly over coffee, one listening closely](/assets/images/posts/lonely-at-night-low-pressure-ways-to-talk/inline-01-e6f1016e.jpg)
+![Two friends talking warmly over coffee, one listening closely](/assets/images/posts/lonely-at-night-low-pressure-ways-to-talk/inline-01-833d2cc6.jpg)
 *A short, genuine conversation is often enough — it does not need to be a big gesture.*
 
 ## When your usual contacts are not available
@@ -69,7 +69,7 @@ If you want to try a browser chat tonight, a few habits make it a better experie
 4. **Leave without guilt** if the conversation feels off, boring, or uncomfortable. That is exactly what the Next or leave button is for — see our full [random chat safety guide](https://blog.omeglechat.online/random-chat-safety-2026/) for a more complete checklist before you connect with anyone.
 5. **Do not use it to avoid real relationships.** If a stranger chat becomes your only form of contact night after night, that is a signal to revisit the deeper-loneliness resources above, not a reason to feel bad — just a reason to widen the circle.
 
-![Laptop open on a small desk at night with a warm lamp glow](/assets/images/posts/lonely-at-night-low-pressure-ways-to-talk/inline-02-f863e7af.jpg)
+![Laptop open on a small desk at night with a warm lamp glow](/assets/images/posts/lonely-at-night-low-pressure-ways-to-talk/inline-02-587cd4a5.jpg)
 *A browser tab, a nickname, and a leave button — low stakes by design.*
 
 ## What to actually say

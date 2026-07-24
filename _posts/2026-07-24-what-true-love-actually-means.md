@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, true-love, relationships, marriage, dating, advice]
-hero_image: "/assets/images/posts/what-true-love-actually-means/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/what-true-love-actually-means/hero-0b83ccbe.jpg"
 hero_alt: "Couple walking together at golden hour"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -60,7 +60,7 @@ If peace feels empty to you, ask whether you were trained to equate love with ad
 
 Loving someone who refuses help, accountability, or basic respect is not noble forever. Compassion matters. So does self-respect. True love does not require you to erase yourself to keep the story going.
 
-![Two people sharing a quiet conversation outdoors](/assets/images/posts/what-true-love-actually-means/inline-01-8f3607e2.jpg)
+![Two people sharing a quiet conversation outdoors](/assets/images/posts/what-true-love-actually-means/inline-01-5c5b4972.jpg)
 *True love often looks like ordinary presence — not a highlight reel.*
 
 ## Five signs you may be in (or building) true love
@@ -109,7 +109,7 @@ Keep hobbies. Keep friendships. Keep sleep. A partner should be a priority, not 
 
 Trust is built in small deposits: doing what you said, arriving when you promised, apologizing without a courtroom defense. It is rarely built by one grand gesture after weeks of inconsistency.
 
-![Friends or partners walking side by side in the city](/assets/images/posts/what-true-love-actually-means/inline-02-8323cdd6.jpg)
+![Friends or partners walking side by side in the city](/assets/images/posts/what-true-love-actually-means/inline-02-f714d441.jpg)
 *Shared ordinary routes — walks, coffee, errands — reveal compatibility faster than performances.*
 
 ## True love and lonely nights

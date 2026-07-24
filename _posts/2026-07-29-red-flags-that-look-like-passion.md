@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, red-flags, dating, true-love, advice]
-hero_image: "/assets/images/posts/red-flags-that-look-like-passion/hero-72d756f9.jpg"
+hero_image: "/assets/images/posts/red-flags-that-look-like-passion/hero-4fb1caf0.jpg"
 hero_alt: "Two people standing close in dramatic evening light, intense expressions"
 hero_caption: "Photo: Unsplash"
 youtube_id: R1vskiVDwl4
@@ -41,7 +41,7 @@ Intense early attention — constant messages, grand declarations within days, t
 
 The test is not the intensity itself but what happens afterward. Does warmth stay consistent as the relationship matures, or does it flip suddenly into withdrawal, criticism, or conditional affection once you are emotionally invested? Real connection tends to deepen steadily. Love bombing tends to spike, then destabilize you.
 
-![Person looking thoughtfully out a rainy window, phone in hand](/assets/images/posts/red-flags-that-look-like-passion/inline-01-8f3607e2.jpg)
+![Person looking thoughtfully out a rainy window, phone in hand](/assets/images/posts/red-flags-that-look-like-passion/inline-01-56e7799c.jpg)
 *Intensity that arrives too fast is worth sitting with quietly before you trust it completely.*
 
 ## Red flag 3: Volatility mistaken for chemistry
@@ -68,7 +68,7 @@ A dramatic apology, an expensive gift after a fight, a public declaration of lov
 
 Watch for patterns rather than moments: does care show up in ordinary weeks, or only after a big rupture that a grand gesture is meant to erase?
 
-![Couple sitting apart on a couch, one comforting the other gently](/assets/images/posts/red-flags-that-look-like-passion/inline-02-8323cdd6.jpg)
+![Couple sitting apart on a couch, one comforting the other gently](/assets/images/posts/red-flags-that-look-like-passion/inline-02-65b3d241.jpg)
 *Real repair looks like changed behavior over time — not just a well-timed apology.*
 
 ## How to tell real passion from a red flag in disguise

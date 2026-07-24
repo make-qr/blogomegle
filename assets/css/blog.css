@@ -659,6 +659,48 @@ article.page-static .toc-table th {
   border: none;
   border-top: 1px solid var(--border);
 }
+.opener-tool {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.35rem 1.5rem;
+  margin: 0 0 2rem;
+}
+.opener-label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 0.35rem;
+}
+.opener-select {
+  display: block;
+  width: 100%;
+  max-width: 28rem;
+  margin-bottom: 0.9rem;
+  padding: 0.55rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text);
+  font: inherit;
+}
+.opener-output {
+  margin: 1rem 0;
+  padding: 1rem 1.1rem;
+  background: var(--bg-elevated);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  line-height: 1.45;
+}
+.opener-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0;
+}
+
 .chat-cta-kicker {
   margin: 0 0 0.25rem;
   font-size: 0.75rem;

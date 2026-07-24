@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: chat-funnel
 tags: [human-connection, chat-funnel, random-chat, loneliness, advice]
-hero_image: "/assets/images/posts/what-to-say-first-on-omegle-style-chat/hero-3661343e.jpg"
+hero_image: "/assets/images/posts/what-to-say-first-on-omegle-style-chat/hero-db8fa006.jpg"
 hero_alt: "Person typing a message on a laptop keyboard, close up"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -54,7 +54,7 @@ None of these need to be memorized word-for-word — use them as templates and s
 
 Notice the pattern: every example is short, ends with an implicit or explicit question, and requires zero effort to answer. That is what keeps a conversation moving past message one.
 
-![Two people smiling while looking at a phone together](/assets/images/posts/what-to-say-first-on-omegle-style-chat/inline-01-72d756f9.jpg)
+![Two people smiling while looking at a phone together](/assets/images/posts/what-to-say-first-on-omegle-style-chat/inline-01-ac971ff0.jpg)
 *The goal of a first message is simple: give the other person an easy, obvious way to respond.*
 
 ## What to avoid in the opening minute
@@ -82,7 +82,7 @@ Not every match deserves three attempts at conversation. Learning to leave quick
 
 There is no obligation to "give it a chance" past the point where it stopped feeling good. That is the entire value of the Next button: it turns a potentially awkward, dragged-out exchange into a two-second decision. Our [full safety checklist](https://blog.omeglechat.online/random-chat-safety-2026/) covers this in more depth, including what to do if a conversation crosses from "not my vibe" into something that should be reported.
 
-![Person sitting comfortably with a laptop, relaxed posture, casual chat](/assets/images/posts/what-to-say-first-on-omegle-style-chat/inline-02-e6f1016e.jpg)
+![Person sitting comfortably with a laptop, relaxed posture, casual chat](/assets/images/posts/what-to-say-first-on-omegle-style-chat/inline-02-bcfe74d5.jpg)
 *A conversation that isn't working is not a failure — it's just information. Move on.*
 
 ## A simple three-line structure for any opener

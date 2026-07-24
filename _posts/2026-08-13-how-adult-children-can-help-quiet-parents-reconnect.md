@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: later-years
 tags: [human-connection, later-years, seniors, loneliness, advice]
-hero_image: "/assets/images/posts/how-adult-children-can-help-quiet-parents-reconnect/hero-8323cdd6.jpg"
+hero_image: "/assets/images/posts/how-adult-children-can-help-quiet-parents-reconnect/hero-022f9099.jpg"
 hero_alt: "Adult daughter sitting close and talking warmly with her older mother"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -60,7 +60,7 @@ A few reasons recurring calls work better than occasional ones:
 
 If weekly feels like too much to guarantee, even a reliable biweekly call, kept consistently, beats a vague promise of "talking soon."
 
-![Grandmother laughing warmly with two grandchildren at a kitchen table](/assets/images/posts/how-adult-children-can-help-quiet-parents-reconnect/inline-01-8f3607e2.jpg)
+![Grandmother laughing warmly with two grandchildren at a kitchen table](/assets/images/posts/how-adult-children-can-help-quiet-parents-reconnect/inline-01-84562f60.jpg)
 *Visit rituals do not need to be elaborate — a repeated, familiar activity often matters more than a special occasion.*
 
 ## Build visit rituals, not just visits

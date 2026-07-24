@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: later-years
 tags: [human-connection, later-years, loneliness, seniors, advice]
-hero_image: "/assets/images/posts/loneliness-vs-solitude-after-60/hero-f863e7af.jpg"
+hero_image: "/assets/images/posts/loneliness-vs-solitude-after-60/hero-70cf92cb.jpg"
 hero_alt: "Older woman sitting alone by a window with a cup of tea, looking out calmly"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -47,7 +47,7 @@ None of these, on their own, mean something is seriously wrong. But when several
 
 Ask anyone who has experienced both, and they will usually describe a very specific time: the hour after dinner, when the day's obligations are finished and the evening stretches out ahead with nothing particular in it. Restorative solitude fills that hour easily — a show enjoyed on its own terms, a hobby, an early night. Lonely evening emptiness fills that same hour with a low hum of restlessness that no single activity quite resolves, because the missing ingredient was never activity. It was contact.
 
-![Television glowing in an otherwise dim, quiet living room in the evening](/assets/images/posts/loneliness-vs-solitude-after-60/inline-01-f401a188.jpg)
+![Television glowing in an otherwise dim, quiet living room in the evening](/assets/images/posts/loneliness-vs-solitude-after-60/inline-01-9e97eff0.jpg)
 *A television left on for company is one of the most common, least discussed signs that quiet has tipped into loneliness.*
 
 ### TV as fake company

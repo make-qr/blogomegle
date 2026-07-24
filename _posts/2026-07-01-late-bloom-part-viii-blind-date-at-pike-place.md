@@ -18,7 +18,7 @@ format: serial
 prev_part: /late-bloom-part-vii-8-hours-apart/
 next_part: /late-bloom-part-ix-mochi-the-dog-and-two-strangers/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
-hero_image: "/assets/images/posts/late-bloom-part-viii-blind-date-at-pike-place/hero-15ad6385.jpg"
+hero_image: "/assets/images/posts/late-bloom-part-viii-blind-date-at-pike-place/hero-78c92ff9.jpg"
 hero_alt: "Late Bloom Stories Part 8 cover"
 hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---

@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, couple-humor, marriage, humor, relationships]
-hero_image: "/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/hero-e6f1016e.jpg"
+hero_image: "/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/hero-ba01b63b.jpg"
 hero_alt: "Couple laughing together in the kitchen"
 hero_caption: "Photo: Unsplash"
 youtube_id: R1vskiVDwl4
@@ -40,7 +40,7 @@ Most long-term pairs settle into a loose comedic dynamic, even if neither partne
 
 None of these roles are fixed. Couples swap them depending on mood, topic, or how tired everyone is. The point is not the role — it's that you have built an entire shorthand together that took years to earn.
 
-![Couple sharing a playful moment on the couch](/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/inline-01-e7ef99f1.jpg)
+![Couple sharing a playful moment on the couch](/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/inline-01-5869ce13.jpg)
 *Inside jokes are proof of shared history — a private archive only two people can access.*
 
 ## Where the material actually comes from
@@ -83,7 +83,7 @@ Since the tone of this article is meant to stay light and warm, it's worth namin
 
 Good-natured, mutual, low-stakes humor builds closeness. One-sided mockery erodes it — even when it is technically "a joke." The test is simple: does everyone in the bit feel like they are laughing *with* each other?
 
-![Couple cooking together and laughing in a bright kitchen](/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/inline-02-fec194e9.jpg)
+![Couple cooking together and laughing in a bright kitchen](/assets/images/posts/soft-couple-humor-when-we-becomes-a-comedy-duo/inline-02-c78737ac.jpg)
 *The best material rarely comes from a plan — it comes from doing ordinary things side by side.*
 
 ## How to build more shared comedy on purpose

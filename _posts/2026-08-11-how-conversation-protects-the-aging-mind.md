@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: later-years
 tags: [human-connection, later-years, loneliness, seniors, advice]
-hero_image: "/assets/images/posts/how-conversation-protects-the-aging-mind/hero-3661343e.jpg"
+hero_image: "/assets/images/posts/how-conversation-protects-the-aging-mind/hero-90421d76.jpg"
 hero_alt: "Two older adults having an animated, engaged conversation at a table"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -35,7 +35,7 @@ One notable line of research, sometimes described under names like I-CONECT-styl
 
 It is important to describe this precisely, because it is easy to overstate. This is a promising area of research, not a settled cure. It does not claim that conversation prevents dementia, reverses cognitive decline, or replaces medical care. What it does suggest is something more modest and still genuinely encouraging: engaging, effortful conversation appears to be one of the more accessible, low-cost activities that may support cognitive engagement in people who would otherwise be isolated — and unlike many interventions, it is something almost anyone can start today, for free, with no special equipment.
 
-![Older adult on a video call, smiling while talking with someone](/assets/images/posts/how-conversation-protects-the-aging-mind/inline-01-96e61f79.jpg)
+![Older adult on a video call, smiling while talking with someone](/assets/images/posts/how-conversation-protects-the-aging-mind/inline-01-50534eb3.jpg)
 *Structured, engaging conversation — even over video — is the specific activity researchers are most interested in, not passive company.*
 
 ## Why conversation is such demanding "exercise" for the brain

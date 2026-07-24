@@ -12,7 +12,7 @@ category_slug: human-connection
 format: article
 pillar: later-years
 tags: [human-connection, later-years, seniors, loneliness, advice]
-hero_image: "/assets/images/posts/gentle-guide-seniors-online-conversation-safely/hero-7a43ae31.jpg"
+hero_image: "/assets/images/posts/gentle-guide-seniors-online-conversation-safely/hero-a1f063e5.jpg"
 hero_alt: "Older adult sitting comfortably at home looking at a laptop screen"
 hero_caption: "Photo: Unsplash"
 youtube_id: 8KkKuTCFvzI
@@ -53,7 +53,7 @@ Many guides assume everyone wants to download an app, but for a lot of older adu
 
 A simple rule of thumb: for calling family you already know, an app like a video calling app makes sense. For casual conversation with new people, a no-download browser option is usually gentler and easier to stop using the moment you feel like it.
 
-![Older woman using a tablet at a kitchen table with soft daylight](/assets/images/posts/gentle-guide-seniors-online-conversation-safely/inline-01-e6f1016e.jpg)
+![Older woman using a tablet at a kitchen table with soft daylight](/assets/images/posts/gentle-guide-seniors-online-conversation-safely/inline-01-8fd122a6.jpg)
 *A bright room, a comfortable chair, and a screen set at a readable size — small things that make a big difference before you even say hello.*
 
 ## Getting the screen comfortable first

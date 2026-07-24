@@ -12,7 +12,7 @@ category_slug: love-journey
 format: article
 pillar: love-journey
 tags: [love-journey, texting, dating, communication, relationships, advice]
-hero_image: "/assets/images/posts/how-to-text-someone-you-like-without-overthinking/hero-72d756f9.jpg"
+hero_image: "/assets/images/posts/how-to-text-someone-you-like-without-overthinking/hero-e0aa81cd.jpg"
 hero_alt: "Person holding a phone while messaging"
 hero_caption: "Photo: Unsplash"
 youtube_id: Fnt6f3Zp0FE
@@ -71,7 +71,7 @@ Before you send, run four checks:
 
 If the intent is “soothe my anxiety,” do not send yet. Walk, drink water, text a friend, or journal for ten minutes. Anxiety texts create the exact chaos you fear.
 
-![Hands typing a message on a smartphone](/assets/images/posts/how-to-text-someone-you-like-without-overthinking/inline-01-83343684.jpg)
+![Hands typing a message on a smartphone](/assets/images/posts/how-to-text-someone-you-like-without-overthinking/inline-01-a182fdde.jpg)
 *Draft once. Edit once. Send. Waiting for a perfect sentence is how afternoons disappear.*
 
 ## Message templates that do not sound like templates
@@ -124,7 +124,7 @@ If they destroy your nervous system, turn them off for yourself or stop monitori
 
 Use them when warmth matters and typing would flatten you. Keep them short. A two-minute monologue can feel like pressure; a twenty-second laugh-and-invite often works better.
 
-![Couple sitting together looking at a phone](/assets/images/posts/how-to-text-someone-you-like-without-overthinking/inline-02-73a3d6fb.jpg)
+![Couple sitting together looking at a phone](/assets/images/posts/how-to-text-someone-you-like-without-overthinking/inline-02-db5ca192.jpg)
 *Eventually the goal is not better texts — it is more real time together.*
 
 ## What healthy texting looks like after the first week
