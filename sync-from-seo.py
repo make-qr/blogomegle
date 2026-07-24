@@ -98,6 +98,12 @@ DATE_MAP: dict[str, str] = {
     "building-a-home-that-feels-safe-for-both-of-you": "2026-08-06",
     "premarital-checkup-checklist-health-habits-family": "2026-08-07",
     "10-gentle-jokes-only-long-term-couples-understand": "2026-08-08",
+    # Later Years / elderly connection (Human Connection)
+    "why-older-adults-talk-less-as-they-age": "2026-08-09",
+    "loneliness-vs-solitude-after-60": "2026-08-10",
+    "how-conversation-protects-the-aging-mind": "2026-08-11",
+    "gentle-guide-seniors-online-conversation-safely": "2026-08-12",
+    "how-adult-children-can-help-quiet-parents-reconnect": "2026-08-13",
 }
 
 GUIDE_CATEGORY = "Safety & Guides"
@@ -219,6 +225,10 @@ def collect_sources() -> list[Path]:
     lj = SRC / "love-journey"
     if lj.is_dir():
         for p in sorted(lj.glob("*.md")):
+            paths.append(p)
+    later = SRC / "later-years"
+    if later.is_dir():
+        for p in sorted(later.glob("*.md")):
             paths.append(p)
     return paths
 
