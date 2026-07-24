@@ -22,6 +22,9 @@ adsense:
   slots:
     leaderboard: "7974813655"
 
+# GA4 — cùng property với omeglechat.online (lọc theo hostname trong báo cáo)
+google_analytics: G-KENLW8Z2M7
+
 author:
   name: OmegleChat Editorial
   default_writer: Morgan Rivers

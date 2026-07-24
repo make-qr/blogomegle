@@ -13,8 +13,6 @@ page_kind: archive
 
 {% include category-pills.html active='all' %}
 
-{% include ad-leaderboard.html %}
-
 {% assign lb_posts = site.posts | where: "series_slug", "late-bloom-stories" | sort: "series_part" | reverse %}
 {% assign qh_posts = site.posts | where: "series_slug", "the-quiet-hours-chronicle" | sort: "series_part" %}
 {% assign guide_posts = site.posts | where_exp: "p", "p.category_slug == 'safety-guides' or p.category_slug == 'omegle-alternatives'" %}
