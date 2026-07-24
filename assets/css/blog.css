@@ -353,6 +353,7 @@ article.page-static .toc-table th {
 .blog-ad {
   margin: 1.5rem 0;
   text-align: center;
+  clear: both;
 }
 
 .blog-ad-leaderboard {
@@ -361,8 +362,6 @@ article.page-static .toc-table th {
   margin-left: auto;
   margin-right: auto;
   min-height: 90px;
-  max-height: 120px;
-  overflow: hidden;
 }
 
 .continue-meta {
