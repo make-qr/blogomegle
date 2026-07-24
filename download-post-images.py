@@ -171,10 +171,11 @@ def collect_sources() -> list[tuple[Path, bool]]:
     if POSTS.is_dir():
         files.extend((p, False) for p in sorted(POSTS.glob("*.md")))
     if SEO.is_dir():
-        for sub in ("serial", "love-journey"):
+        for sub in ("serial", "love-journey", "later-years", "chat-funnel"):
             d = SEO / sub
             if d.is_dir():
                 files.extend((p, True) for p in sorted(d.glob("*.md")))
+        files.extend((p, True) for p in sorted(SEO.glob("[0-9][0-9]-*.md")))
     return files
 
 

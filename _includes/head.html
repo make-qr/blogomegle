@@ -24,5 +24,16 @@
   gtag('js', new Date());
   gtag('config', '{{ site.google_analytics }}');
 </script>
+<script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a.chat-cta-link, a[data-cta="chat"]');
+    if (!a || typeof gtag !== 'function') return;
+    gtag('event', 'chat_cta_click', {
+      event_category: 'conversion',
+      event_label: a.getAttribute('data-cta-placement') || 'unknown',
+      link_url: a.href
+    });
+  });
+</script>
 {% endif %}
 {% seo %}

@@ -104,6 +104,11 @@ DATE_MAP: dict[str, str] = {
     "how-conversation-protects-the-aging-mind": "2026-08-11",
     "gentle-guide-seniors-online-conversation-safely": "2026-08-12",
     "how-adult-children-can-help-quiet-parents-reconnect": "2026-08-13",
+    # Chat funnel discovery cluster
+    "how-to-talk-to-strangers-online-without-awkwardness": "2026-08-14",
+    "random-chat-vs-dating-apps": "2026-08-15",
+    "lonely-at-night-low-pressure-ways-to-talk": "2026-08-16",
+    "what-to-say-first-on-omegle-style-chat": "2026-08-17",
 }
 
 GUIDE_CATEGORY = "Safety & Guides"
@@ -199,8 +204,9 @@ def jekyll_post(meta: dict, body: str, slug: str, d: str) -> str:
                 lines.append(f"{key}: {val}")
     if (
         meta.get("format") != "serial"
-        and meta.get("category_slug") not in ("human-connection", "love-journey", "love-romance")
+        and meta.get("category_slug") not in ("human-connection", "love-journey", "love-romance", "safety-guides")
         and meta.get("category") != "Human Connection"
+        and meta.get("pillar") != "chat-funnel"
     ):
         lines.append(f"category: {GUIDE_CATEGORY}")
         lines.append(f"category_slug: {GUIDE_SLUG}")
@@ -229,6 +235,10 @@ def collect_sources() -> list[Path]:
     later = SRC / "later-years"
     if later.is_dir():
         for p in sorted(later.glob("*.md")):
+            paths.append(p)
+    funnel = SRC / "chat-funnel"
+    if funnel.is_dir():
+        for p in sorted(funnel.glob("*.md")):
             paths.append(p)
     return paths
 

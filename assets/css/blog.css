@@ -643,6 +643,33 @@ article.page-static .toc-table th {
 .sidebar-cta .text-muted { padding: 0; background: transparent; font-size: 0.8rem; }
 .sidebar-cta .btn { margin-top: 0.65rem; width: 100%; text-align: center; font-size: 0.85rem; padding: 0.45rem 0.6rem; }
 
+.chat-cta-box {
+  margin: 1.75rem 0 0.5rem;
+  padding: 1.1rem 1.25rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--accent-soft);
+}
+.chat-cta-box--strong {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+}
+.chat-cta-box--soft {
+  background: transparent;
+  padding: 0.85rem 0 0;
+  border: none;
+  border-top: 1px solid var(--border);
+}
+.chat-cta-kicker {
+  margin: 0 0 0.25rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+.chat-cta-lead { margin: 0 0 0.75rem; }
+.chat-cta-actions { margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+
 .post-hero {
   margin: 0 0 1.75rem;
   border-radius: var(--radius);
