@@ -4,7 +4,8 @@ url: https://blog.omeglechat.online
 baseurl: ""
 lang: en
 timezone: UTC
-future: true
+# false = chỉ hiện bài date ≤ hôm nay; bài đã gắn 25/07→02/09 tự lên đúng lịch (không xả 40 URL một lúc)
+future: false
 markdown: kramdown
 kramdown:
   input: GFM
