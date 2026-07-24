@@ -22,12 +22,21 @@ POSTS = ROOT / "_posts"
 PAGE_GLOBS = ("category/*.md", "series/*.md", "author/*.md", "*.md", "index.html")
 
 MAIN_HOST = "omeglechat.online"
+BLOG_HOST = "blog.omeglechat.online"
 
 # Bare omeglechat.online paths that must carry a .html suffix.
 MAIN_SITE_PAGES = ("chat", "making-friends", "safety-tips", "language-learning")
 
 LINK_RE = re.compile(r"\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
 HREF_RE = re.compile(r'href="([^"]+)"')
+BLOG_URL_RE = re.compile(
+    rf"^https?://(?:www\.)?{re.escape(BLOG_HOST)}(/[^?#]*)?",
+    re.IGNORECASE,
+)
+MAIN_URL_RE = re.compile(
+    rf"^https?://(?:www\.)?{re.escape(MAIN_HOST)}(/|\?|#|$)",
+    re.IGNORECASE,
+)
 
 # Static/liquid pages that always exist (not emitted as markdown permalinks).
 STATIC_PATHS = {"/", "/posts/", "/series/", "/feed.xml", "/sitemap.xml"}
@@ -105,6 +114,14 @@ def check_asset(path: str) -> bool:
     return (ROOT / rel).exists()
 
 
+def normalize_internal_path(path: str) -> str:
+    clean = "/" + path.strip("/").split("#")[0].split("?")[0]
+    clean = clean if clean.endswith("/") or "." in clean.rsplit("/", 1)[-1] else clean + "/"
+    if clean == "//":
+        return "/"
+    return clean
+
+
 def main() -> int:
     do_fix = "--fix" in sys.argv
     check_external = "--no-external" not in sys.argv
@@ -122,6 +139,13 @@ def main() -> int:
                 continue
 
             if url.startswith("http"):
+                blog_m = BLOG_URL_RE.match(url)
+                if blog_m:
+                    clean = normalize_internal_path(blog_m.group(1) or "/")
+                    if clean not in targets:
+                        broken.append((path.name, url, "blog path missing locally"))
+                    continue
+
                 corrected = fix_main_site(url)
                 if corrected:
                     if do_fix:
@@ -130,7 +154,9 @@ def main() -> int:
                     else:
                         broken.append((path.name, url, f"should be {corrected}"))
                     continue
-                if check_external and MAIN_HOST in url:
+                # Only probe the main product site — not blog.omeglechat.online
+                # (substring match would false-positive and 404 before deploy).
+                if check_external and MAIN_URL_RE.match(url):
                     status = http_status(url)
                     if status != 200:
                         broken.append((path.name, url, f"HTTP {status}"))
@@ -142,10 +168,7 @@ def main() -> int:
                 continue
 
             if url.startswith("/"):
-                clean = "/" + url.strip("/").split("#")[0].split("?")[0]
-                clean = clean if clean.endswith("/") or "." in clean.rsplit("/", 1)[-1] else clean + "/"
-                if clean == "//":
-                    clean = "/"
+                clean = normalize_internal_path(url)
                 if clean not in targets:
                     broken.append((path.name, url, "internal target missing"))
                 continue
