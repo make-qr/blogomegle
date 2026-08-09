@@ -16,6 +16,7 @@ series_parts: 300
 series_part_label: "Part 52"
 format: serial
 prev_part: /late-bloom-part-51-college-rivals/
+next_part: /late-bloom-part-57-hello-from-random-chat/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
 hero_image: "/assets/images/posts/late-bloom-part-52-an-exs-wedding/hero-f4e326d4.jpg"
 hero_alt: "Noah & Kate — An Ex's Wedding"

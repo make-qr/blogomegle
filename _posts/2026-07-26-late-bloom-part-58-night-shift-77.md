@@ -16,7 +16,6 @@ series_parts: 300
 series_part_label: "Part 58"
 format: serial
 prev_part: /late-bloom-part-57-hello-from-random-chat/
-next_part: /late-bloom-part-59-back-row-concert-tickets/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
 hero_image: "/assets/images/posts/late-bloom-part-58-night-shift-77/hero-bc8a5a54.jpg"
 hero_alt: "Marcus & Claire — Night Shift 77"
@@ -113,7 +112,7 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
 **Previous:** [Part 57](https://blog.omeglechat.online/late-bloom-part-57-hello-from-random-chat/)  
-**Next:** [Part 59](https://blog.omeglechat.online/late-bloom-part-59-back-row-concert-tickets/)  
+**Series hub:** [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)  
 
 ---
 
