@@ -1,0 +1,26 @@
+{% assign chat_url = site.chat_url | default: 'https://omeglechat.online/chat.html' %}
+{% assign is_serial = false %}
+{% if page.format == 'serial' or page.series_slug %}{% assign is_serial = true %}{% endif %}
+{% assign is_funnel = false %}
+{% if page.pillar == 'chat-funnel' or page.category_slug == 'safety-guides' %}{% assign is_funnel = true %}{% endif %}
+
+{% if is_funnel %}
+<aside class="chat-cta-box chat-cta-box--strong" aria-label="Start chat">
+  <p class="chat-cta-kicker">Ready to talk?</p>
+  <p class="chat-cta-lead">Free random chat in your browser — no download, leave anytime.</p>
+  <p class="chat-cta-actions">
+    <a class="btn chat-cta-link" href="{{ chat_url }}" data-cta="chat" data-cta-placement="guide-end">Start free chat</a>
+    <a class="btn btn-outline chat-cta-link" href="https://omeglechat.online/safety-tips.html" data-cta="safety" data-cta-placement="guide-end">Safety tips</a>
+  </p>
+</aside>
+{% elsif is_serial %}
+<aside class="chat-cta-box chat-cta-box--soft" aria-label="Practice conversation">
+  <p class="chat-cta-lead text-muted">Want a low-pressure conversation after this chapter?</p>
+  <p><a class="chat-cta-link" href="{{ chat_url }}" data-cta="chat" data-cta-placement="serial-end">Try OmegleChat →</a></p>
+</aside>
+{% else %}
+<aside class="chat-cta-box chat-cta-box--soft" aria-label="Try chat">
+  <p class="chat-cta-lead text-muted">Need someone to talk to tonight?</p>
+  <p><a class="btn btn-outline chat-cta-link" href="{{ chat_url }}" data-cta="chat" data-cta-placement="post-end">Start free chat</a></p>
+</aside>
+{% endif %}

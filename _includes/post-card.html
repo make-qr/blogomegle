@@ -1,0 +1,36 @@
+{% assign post = include.post %}
+{% if post %}
+{% assign card_title = post.title %}
+{% if post.series_slug == 'late-bloom-stories' %}
+  {% assign card_title = post.title | split: ' — Late Bloom' | first %}
+{% elsif post.series_slug == 'the-quiet-hours-chronicle' %}
+  {% assign card_title = post.title | split: ' — ' | first %}
+{% endif %}
+<article class="post-card">
+  {% include post-cover.html post=post %}
+  <a class="post-card-image" href="{{ post.url | relative_url }}" aria-hidden="true" tabindex="-1">
+    <img src="{{ cover_src }}" alt="{{ post.hero_alt | default: post.title | escape }}" loading="lazy" width="400" height="225">
+  </a>
+  <div class="post-card-body">
+    {% if post.series_name %}
+    <span class="post-card-tag tag-romance">{{ post.series_name }}{% if post.series_part %} · Part {{ post.series_part }}{% elsif post.series_part_label %} · {{ post.series_part_label }}{% endif %}</span>
+    {% elsif post.category_slug == 'love-journey' %}
+    <span class="post-card-tag tag-advice">Love Journey</span>
+    {% elsif post.category_slug == 'safety-guides' or post.category_slug == 'omegle-alternatives' or post.format == 'guide' %}
+    <span class="post-card-tag tag-guide">Safety &amp; Guides</span>
+    {% elsif post.category %}
+    <span class="post-card-tag tag-essay">{{ post.category }}</span>
+    {% endif %}
+    <h3 class="post-card-title"><a href="{{ post.url | relative_url }}">{{ card_title }}</a></h3>
+    {% if post.excerpt %}
+    <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+    {% endif %}
+    <div class="post-card-meta">
+      {% if post.date %}<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>{% endif %}
+      <span class="sep">·</span>
+      {% include reading-time.html content=post.content %}
+      {% if post.author %}<span class="sep">·</span><span>{{ post.author }}</span>{% endif %}
+    </div>
+  </div>
+</article>
+{% endif %}

@@ -5,8 +5,11 @@ slug: language-exchange-strangers
 permalink: /language-exchange-strangers/
 excerpt: "Turn random chat into real language practice — structure, boundaries, and tools that actually work."
 tags: [language, chat, learning, omegle]
-category: Omegle & Alternatives
-category_slug: omegle-alternatives
+hero_image: "/assets/images/posts/language-exchange-strangers/hero-d7b4a632.jpg"
+hero_alt: "Safety guide cover — language-exchange-strangers"
+hero_caption: "Photo: Unsplash"
+category: Safety & Guides
+category_slug: safety-guides
 ---
 
 You don't need a classroom to improve speaking confidence. **Talking to strangers in your target language** is one of the fastest ways to break the "I understand but can't speak" wall — if you structure the session instead of hoping for a fluent partner.
@@ -56,3 +59,10 @@ Pair with our [safety tips](https://omeglechat.online/safety-tips.html) if you'r
 ---
 
 *Fluency comes from repetition. Ten short chats beat one perfect conversation you never start.*
+
+![Illustration for language-exchange-strangers](/assets/images/posts/language-exchange-strangers/inline-01-95f07eab.jpg)
+*Photo: Unsplash*
+
+
+![Illustration for language-exchange-strangers](/assets/images/posts/language-exchange-strangers/inline-02-e11822a8.jpg)
+*Photo: Unsplash*

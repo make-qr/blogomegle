@@ -17,11 +17,14 @@ series_part_label: "Part I"
 format: serial
 next_part: /quiet-hours-chronicle-part-ii/
 tags: [serial, essay, loneliness, connection, human-connection]
+hero_image: "/assets/images/posts/part-i-the-room-that-answered-back/hero-7a43ae31.jpg"
+hero_alt: "Quiet apartment evening light"
+hero_caption: "Photo: Unsplash"
 ---
 
-*[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part I of VI*  
-*Category: [Human Connection](/category/human-connection/) · Personal Essay*  
-*By [Morgan Rivers](/author/morgan-rivers/), Staff Essayist*
+*[**The Quiet Hours Chronicle**](https://blog.omeglechat.online/series/the-quiet-hours-chronicle/) · Part I of VI*  
+*Category: [Human Connection](https://blog.omeglechat.online/category/human-connection/) · Personal Essay*  
+*By [Morgan Rivers](https://blog.omeglechat.online/author/morgan-rivers/), Staff Essayist*
 
 ---
 
@@ -93,7 +96,7 @@ I tried the second thing on a Thursday. I'll tell you what happened in Part II �
 
 ---
 
-*Continues in [Part II — Evenings That Stopped Feeling Empty](/quiet-hours-chronicle-part-ii/)*
+*Continues in [Part II — Evenings That Stopped Feeling Empty](https://blog.omeglechat.online/quiet-hours-chronicle-part-ii/)*
 
 ---
 

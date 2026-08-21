@@ -18,11 +18,14 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-i/
 next_part: /quiet-hours-chronicle-part-iii/
 tags: [serial, essay, loneliness, evening routine, human-connection]
+hero_image: "/assets/images/posts/part-ii-evenings-that-stopped-feeling-empty/hero-fb42065e.jpg"
+hero_alt: "Evening coffee and conversation"
+hero_caption: "Photo: Unsplash"
 ---
 
-*[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part II of VI*  
-*Category: [Human Connection](/category/human-connection/) · Personal Essay*  
-*By [Morgan Rivers](/author/morgan-rivers/), Staff Essayist*
+*[**The Quiet Hours Chronicle**](https://blog.omeglechat.online/series/the-quiet-hours-chronicle/) · Part II of VI*  
+*Category: [Human Connection](https://blog.omeglechat.online/category/human-connection/) · Personal Essay*  
+*By [Morgan Rivers](https://blog.omeglechat.online/author/morgan-rivers/), Staff Essayist*
 
 ---
 
@@ -86,7 +89,7 @@ Two things to try this week.
 
 Part III concerns sadness — the sort that remains even when you are less alone.
 
-*Continues in [Part III — When Sadness Visits Anyway](/quiet-hours-chronicle-part-iii/)* · *Previous: [Part I](/quiet-hours-chronicle-part-i/)*
+*Continues in [Part III — When Sadness Visits Anyway](https://blog.omeglechat.online/quiet-hours-chronicle-part-iii/)* · *Previous: [Part I](https://blog.omeglechat.online/quiet-hours-chronicle-part-i/)*
 
 ---
 

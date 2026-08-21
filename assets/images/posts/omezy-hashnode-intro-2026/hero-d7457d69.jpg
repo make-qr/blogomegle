@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Anonymous random chat and video chat concept">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563eb"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".95"/><stop offset="1" stop-color="#eef4ff" stop-opacity=".9"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#0f172a" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="630" rx="0" fill="url(#bg)"/>
+  <circle cx="130" cy="110" r="90" fill="#fff" opacity=".12"/><circle cx="1060" cy="520" r="130" fill="#fff" opacity=".13"/><circle cx="970" cy="120" r="52" fill="#fff" opacity=".12"/>
+  <text x="70" y="100" font-family="Inter,Arial,sans-serif" font-size="42" font-weight="800" fill="#fff">Omegle alternatives in 2026</text>
+  <text x="70" y="150" font-family="Inter,Arial,sans-serif" font-size="23" fill="#dbeafe">Random chat · video chat · safer conversations</text>
+  <g filter="url(#shadow)">
+    <rect x="80" y="210" width="470" height="300" rx="34" fill="url(#card)"/>
+    <text x="125" y="270" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#1e3a8a">Anonymous text chat</text>
+    <rect x="125" y="315" width="270" height="44" rx="22" fill="#dbeafe"/><rect x="185" y="378" width="300" height="44" rx="22" fill="#ede9fe"/><rect x="125" y="441" width="230" height="44" rx="22" fill="#cffafe"/>
+    <circle cx="452" cy="318" r="34" fill="#2563eb"/><path d="M438 318h28M452 304v28" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="650" y="210" width="470" height="300" rx="34" fill="url(#card)"/>
+    <text x="695" y="270" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#4c1d95">Random video chat</text>
+    <rect x="705" y="310" width="360" height="160" rx="28" fill="#111827"/>
+    <circle cx="825" cy="385" r="52" fill="#60a5fa"/><circle cx="945" cy="385" r="52" fill="#a78bfa"/>
+    <rect x="806" y="450" width="158" height="30" rx="15" fill="#fff" opacity=".85"/>
+    <circle cx="1038" cy="330" r="24" fill="#ef4444"/><rect x="1026" y="321" width="24" height="18" rx="4" fill="#fff"/>
+  </g>
+  <text x="70" y="580" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff">Meet new people online — protect your privacy first.</text>
+</svg>

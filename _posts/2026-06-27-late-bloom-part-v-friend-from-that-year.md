@@ -18,11 +18,14 @@ format: serial
 prev_part: /late-bloom-part-iv-one-year-contract/
 next_part: /late-bloom-part-vi-noodle-shop-number-seven/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: "/assets/images/posts/late-bloom-part-v-friend-from-that-year/hero-f4647ca1.jpg"
+hero_alt: "Late Bloom Stories Part 5 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 *This is the story of Ryan and Lily.*
 
-This is Part I of **[Late Bloom Stories](/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
+This is Part I of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
 
 ## The story
 Ryan worked as a teacher. Lily was a pharmacist.
@@ -47,9 +50,9 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
 
-**Previous:** [Part — late-bloom-part-iv-one-year-contract](/late-bloom-part-iv-one-year-contract/)
-**Next:** [late-bloom-part-vi-noodle-shop-number-seven](/late-bloom-part-vi-noodle-shop-number-seven/)
+**Previous:** [Part — late-bloom-part-iv-one-year-contract](https://blog.omeglechat.online/late-bloom-part-iv-one-year-contract/)
+**Next:** [late-bloom-part-vi-noodle-shop-number-seven](https://blog.omeglechat.online/late-bloom-part-vi-noodle-shop-number-seven/)
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

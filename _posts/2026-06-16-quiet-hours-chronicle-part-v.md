@@ -18,11 +18,14 @@ format: serial
 prev_part: /quiet-hours-chronicle-part-iv/
 next_part: /quiet-hours-chronicle-part-vi/
 tags: [serial, essay, dating, relationships, human-connection]
+hero_image: "/assets/images/posts/part-v-finding-a-boyfriend-without-losing-yourself/hero-8323cdd6.jpg"
+hero_alt: "Friends walking together"
+hero_caption: "Photo: Unsplash"
 ---
 
-*[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part V of VI*  
-*Category: [Human Connection](/category/human-connection/) · Personal Essay*  
-*By [Morgan Rivers](/author/morgan-rivers/), Staff Essayist*
+*[**The Quiet Hours Chronicle**](https://blog.omeglechat.online/series/the-quiet-hours-chronicle/) · Part V of VI*  
+*Category: [Human Connection](https://blog.omeglechat.online/category/human-connection/) · Personal Essay*  
+*By [Morgan Rivers](https://blog.omeglechat.online/author/morgan-rivers/), Staff Essayist*
 
 ---
 
@@ -76,7 +79,7 @@ Write **non-negotiables** on paper. Add **one recurring room** where people see 
 
 Part VI closes the chronicle: **keeping people close** after you find them.
 
-*Continues in [Part VI — Keeping People Close](/quiet-hours-chronicle-part-vi/)* · *Previous: [Part IV](/quiet-hours-chronicle-part-iv/)*
+*Continues in [Part VI — Keeping People Close](https://blog.omeglechat.online/quiet-hours-chronicle-part-vi/)* · *Previous: [Part IV](https://blog.omeglechat.online/quiet-hours-chronicle-part-iv/)*
 
 ---
 

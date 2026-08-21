@@ -1,9 +1,11 @@
 title: OmegleChat Blog
-description: Essays on human connection, random chat safety, and life after Omegle — by the OmegleChat editorial team.
+description: True love, marriage wisdom, couple life, and late-bloom romance stories — practical Love Journey guides from OmegleChat.
 url: https://blog.omeglechat.online
 baseurl: ""
 lang: en
 timezone: UTC
+# false = chỉ hiện bài date ≤ hôm nay; bài đã gắn 25/07→02/09 tự lên đúng lịch (không xả 40 URL một lúc)
+future: false
 markdown: kramdown
 kramdown:
   input: GFM
@@ -22,6 +24,9 @@ adsense:
   slots:
     leaderboard: "7974813655"
 
+# GA4 — cùng property với omeglechat.online (lọc theo hostname trong báo cáo)
+google_analytics: G-KENLW8Z2M7
+
 author:
   name: OmegleChat Editorial
   default_writer: Morgan Rivers
@@ -32,6 +37,7 @@ defaults:
       type: posts
     values:
       layout: post
+      full_width: true
   - scope:
       path: ""
       type: pages
@@ -43,6 +49,14 @@ exclude:
   - Gemfile.lock
   - README.md
   - DEPLOY.md
+  - HUONG-DAN-VIET-BAI-BLOG.md
   - sync-from-seo.py
+  - assign-post-covers.py
+  - download-cover-images.py
+  - download-post-images.py
+  - check-links.py
+  - reassign-late-bloom-images.py
+  - fix-guides-and-audio.py
+  - publish-serial-daily.sh
   - vendor
   - .bundle

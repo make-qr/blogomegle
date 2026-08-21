@@ -16,12 +16,17 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
           bundler-cache: true
+          cache-version: 1
       - run: python3 sync-from-seo.py
+      - run: python3 assign-post-covers.py
+      - run: python3 download-cover-images.py
+      - run: python3 download-post-images.py
+      - run: python3 check-links.py --fix
       - run: bundle exec jekyll build --destination ./_site
       - uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/main'

@@ -17,11 +17,14 @@ series_part_label: "Part VI"
 format: serial
 prev_part: /late-bloom-part-v-friend-from-that-year/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
+hero_image: "/assets/images/posts/late-bloom-part-vi-noodle-shop-number-seven/hero-4a5fa384.jpg"
+hero_alt: "Late Bloom Stories Part 6 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 *This is the story of Tom and Helen.*
 
-This is Part I of **[Late Bloom Stories](/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
+This is Part I of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — **300 episodes** of romance with happy endings, loneliness, random chat, and courage to reach out again.
 
 ## The story
 Tom worked as a noodle shop owner. Helen was a his wife.
@@ -46,8 +49,8 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 - [Making friends online](https://omeglechat.online/making-friends.html)
 - [Safety tips](https://omeglechat.online/safety-tips.html)
 
-**Previous:** [Part — late-bloom-part-v-friend-from-that-year](/late-bloom-part-v-friend-from-that-year/)
+**Previous:** [Part — late-bloom-part-v-friend-from-that-year](https://blog.omeglechat.online/late-bloom-part-v-friend-from-that-year/)
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

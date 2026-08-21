@@ -18,6 +18,9 @@ format: serial
 prev_part: /late-bloom-part-i-late-blooming-cherry/
 next_part: /late-bloom-part-iii-broken-mirror-rain-street/
 tags: [serial, love, connection, romance, human-connection, omeglechat, texting]
+hero_image: "/assets/images/posts/late-bloom-part-ii-messages-never-sent/hero-053fa398.jpg"
+hero_alt: "Late Bloom Stories Part 2 cover"
+hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories"
 ---
 
 <p class="audio-player-wrap">
@@ -32,7 +35,7 @@ tags: [serial, love, connection, romance, human-connection, omeglechat, texting]
 
 Strangers don't draft that line three hundred and sixty-five times. Former lovers do — then leave it in Notes, afraid the answer arrived too late.
 
-This is Part II of **[Late Bloom Stories](/series/late-bloom-stories/)** — after [Part I: Late Blooming Cherry](/late-bloom-part-i-late-blooming-cherry/). Same promise: **human connection**, loneliness, courage, and a **happy ending**.
+This is Part II of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — after [Part I: Late Blooming Cherry](https://blog.omeglechat.online/late-bloom-part-i-late-blooming-cherry/). Same promise: **human connection**, loneliness, courage, and a **happy ending**.
 
 ## Portland, three quiet years
 
@@ -80,9 +83,9 @@ When you're ready:
 - **Make friends at your pace:** [making friends online](https://omeglechat.online/making-friends.html)
 - **Stay safe:** [random chat safety tips](https://omeglechat.online/safety-tips.html)
 
-**Previous:** [Part I — Late Blooming Cherry](/late-bloom-part-i-late-blooming-cherry/)  
-****Next:** [Part III — Broken Mirror on a Rain Street](/late-bloom-part-iii-broken-mirror-rain-street/)
+**Previous:** [Part I — Late Blooming Cherry](https://blog.omeglechat.online/late-bloom-part-i-late-blooming-cherry/)  
+****Next:** [Part III — Broken Mirror on a Rain Street](https://blog.omeglechat.online/late-bloom-part-iii-broken-mirror-rain-street/)
 
 ---
 
-*Original fiction · [Late Bloom Stories](/series/late-bloom-stories/) · OmegleChat*
+*Original fiction · [Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/) · OmegleChat*

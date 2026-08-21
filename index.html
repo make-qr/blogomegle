@@ -1,37 +1,57 @@
 ---
 layout: default
 title: Home
+full_width: true
 ---
 
 <section class="hero">
-  <h1>Stories about connection in a loud, lonely world</h1>
-  <p class="hero-lead">Essays, guides, and serial fiction on loneliness, friendship, dating, and safer ways to talk to strangers online — from the OmegleChat editorial team.</p>
+  <h1>True love, marriage wisdom, and stories that end well</h1>
+  <p class="hero-lead">Practical tips for finding the one, building a life together, and late-bloom romance with happy endings — honest, warm, and human.</p>
+  <p class="hero-sub">Random chat guides · True love · Later years · Late Bloom stories</p>
 </section>
 
 {% include ad-leaderboard.html %}
 
-<section class="featured-serial">
-  <p class="label">Featured serial</p>
-  <h2><a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">The Quiet Hours Chronicle</a></h2>
-  <p>A six-part personal essay by <a href="{{ '/author/morgan-rivers/' | relative_url }}">Morgan Rivers</a> — loneliness, sadness, love, and learning to reach out again.</p>
-  <a class="btn" href="{{ '/quiet-hours-chronicle-part-i/' | relative_url }}">Start Part I</a>
-  <a class="btn btn-outline" href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}" style="margin-left:0.5rem">Table of contents</a>
+{% include category-pills.html active='all' %}
+
+<section class="featured-grid">
+  <article class="featured-card featured-primary">
+    <p class="label">★ Guides · Talk to strangers</p>
+    <h2><a href="{{ '/best-websites-to-talk-to-strangers-2026/' | relative_url }}">Best websites to talk to strangers</a></h2>
+    <p>Free random chat, safety checklists, and Omegle-style alternatives — soft path to browser chat.</p>
+    <a class="btn" href="{{ site.chat_url }}">Start free chat</a>
+    <a class="btn btn-outline" href="{{ '/free-random-chat-online/' | relative_url }}">Free random chat</a>
+    <a class="btn btn-outline" href="{{ '/omegle-alternative-2026/' | relative_url }}">Omegle alternative</a>
+    <a class="btn btn-outline" href="{{ '/tools/opener-generator/' | relative_url }}">Opener generator</a>
+  </article>
+  <article class="featured-card">
+    <p class="label">♥ Fiction · Ongoing</p>
+    <h2><a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a></h2>
+    <p>300 romance episodes with happy endings — love that blooms late. New parts every day.</p>
+    <p id="continue-reading-meta" class="continue-meta" hidden></p>
+    {% assign lb_first = site.posts | where: "series_slug", "late-bloom-stories" | sort: "series_part" | first %}
+    {% assign lb_latest = site.posts | where: "series_slug", "late-bloom-stories" | first %}
+    <a id="continue-reading-btn" class="btn btn-outline" href="{{ lb_first.url | default: '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Start Part I</a>
+    {% if lb_latest %}
+    <a class="btn btn-outline" href="{{ lb_latest.url | relative_url }}">Newest episode</a>
+    {% endif %}
+  </article>
 </section>
 
-<section>
+<section class="home-section" style="padding-top:0;">
+  <h2 class="section-title">Love Journey · soft bridge</h2>
+  <p class="archive-lead" style="margin-top:0;">True love and later-years connection — with a light path to practice conversation when nights feel quiet.</p>
+  <p><a class="btn btn-outline" href="{{ '/category/love-journey/' | relative_url }}">Love Journey</a>
+  <a class="btn btn-outline" href="{{ '/why-older-adults-talk-less-as-they-age/' | relative_url }}">Later years</a></p>
+</section>
+
+<section class="home-section">
   <h2 class="section-title">Latest articles</h2>
-  <ul class="post-list">
-    {% assign recent = site.posts | slice: 0, 10 %}
+  <div class="post-card-grid">
+    {% assign recent = site.posts | slice: 0, 12 %}
     {% for post in recent %}
-    <li>
-      <a class="title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <div class="meta">
-        {% if post.author %}{{ post.author }} · {% endif %}
-        {{ post.date | date: "%B %d, %Y" }}
-        {% if post.category %} · {{ post.category }}{% endif %}
-      </div>
-    </li>
+      {% include post-card.html post=post %}
     {% endfor %}
-  </ul>
-  <p style="margin-top:1.5rem"><a href="{{ '/posts/' | relative_url }}">View all posts →</a></p>
+  </div>
+  <p class="section-more"><a href="{{ '/posts/' | relative_url }}">View all posts →</a></p>
 </section>

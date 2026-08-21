@@ -17,11 +17,14 @@ series_part_label: "Part VI"
 format: serial
 prev_part: /quiet-hours-chronicle-part-v/
 tags: [serial, essay, friendship, relationships, human-connection]
+hero_image: "/assets/images/posts/part-vi-keeping-people-close/hero-e6f1016e.jpg"
+hero_alt: "Close friends sharing a moment"
+hero_caption: "Photo: Unsplash"
 ---
 
-*[**The Quiet Hours Chronicle**](/series/the-quiet-hours-chronicle/) · Part VI of VI · **Finale***  
-*Category: [Human Connection](/category/human-connection/) · Personal Essay*  
-*By [Morgan Rivers](/author/morgan-rivers/), Staff Essayist*
+*[**The Quiet Hours Chronicle**](https://blog.omeglechat.online/series/the-quiet-hours-chronicle/) · Part VI of VI · **Finale***  
+*Category: [Human Connection](https://blog.omeglechat.online/category/human-connection/) · Personal Essay*  
+*By [Morgan Rivers](https://blog.omeglechat.online/author/morgan-rivers/), Staff Essayist*
 
 ---
 
@@ -81,14 +84,14 @@ Three closing lines for the whole chronicle.
 
 | Part | Title |
 |------|-------|
-| I | [The Room That Answered Back](/quiet-hours-chronicle-part-i/) |
-| II | [Evenings That Stopped Feeling Empty](/quiet-hours-chronicle-part-ii/) |
-| III | [When Sadness Visits Anyway](/quiet-hours-chronicle-part-iii/) |
-| IV | [This Is Not How I Got a Girlfriend](/quiet-hours-chronicle-part-iv/) |
-| V | [Finding a Boyfriend Without Losing Yourself](/quiet-hours-chronicle-part-v/) |
+| I | [The Room That Answered Back](https://blog.omeglechat.online/quiet-hours-chronicle-part-i/) |
+| II | [Evenings That Stopped Feeling Empty](https://blog.omeglechat.online/quiet-hours-chronicle-part-ii/) |
+| III | [When Sadness Visits Anyway](https://blog.omeglechat.online/quiet-hours-chronicle-part-iii/) |
+| IV | [This Is Not How I Got a Girlfriend](https://blog.omeglechat.online/quiet-hours-chronicle-part-iv/) |
+| V | [Finding a Boyfriend Without Losing Yourself](https://blog.omeglechat.online/quiet-hours-chronicle-part-v/) |
 | VI | *Keeping People Close* |
 
-→ Return to [series home](/series/the-quiet-hours-chronicle/) · [Morgan Rivers](/author/morgan-rivers/)
+→ Return to [series home](https://blog.omeglechat.online/series/the-quiet-hours-chronicle/) · [Morgan Rivers](https://blog.omeglechat.online/author/morgan-rivers/)
 
 ---
 
