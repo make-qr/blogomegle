@@ -16,7 +16,6 @@ series_parts: 300
 series_part_label: "Part 110"
 format: serial
 prev_part: /late-bloom-part-109-bean-the-dog-and-two-strangers/
-next_part: /late-bloom-part-111-college-rivals/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
 hero_image: "/assets/images/posts/late-bloom-part-110-coffee-number-7-every-morning/hero-239822c1.jpg"
 hero_alt: "Henry & Hannah — Coffee Number 7 Every Morning"
@@ -113,7 +112,7 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
 **Previous:** [Part 109](https://blog.omeglechat.online/late-bloom-part-109-bean-the-dog-and-two-strangers/)  
-**Next:** [Part 111](https://blog.omeglechat.online/late-bloom-part-111-college-rivals/)  
+**Next:** Coming soon  
 
 ---
 

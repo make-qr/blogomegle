@@ -15,7 +15,7 @@ series_part: 57
 series_parts: 300
 series_part_label: "Part 57"
 format: serial
-prev_part: /late-bloom-part-56-viewer-number-27/
+prev_part: /late-bloom-part-52-an-exs-wedding/
 next_part: /late-bloom-part-58-night-shift-77/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
 hero_image: "/assets/images/posts/late-bloom-part-57-hello-from-random-chat/hero-a66cc86e.jpg"
@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Learning English through strangers"*
 
-This is Part 57 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 56](https://blog.omeglechat.online/late-bloom-part-56-viewer-number-27/).
+This is Part 57 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 52](https://blog.omeglechat.online/late-bloom-part-52-an-exs-wedding/).
 
 
 
@@ -112,7 +112,7 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 56](https://blog.omeglechat.online/late-bloom-part-56-viewer-number-27/)  
+**Previous:** [Part 52](https://blog.omeglechat.online/late-bloom-part-52-an-exs-wedding/)  
 **Next:** [Part 58](https://blog.omeglechat.online/late-bloom-part-58-night-shift-77/)  
 
 ---

@@ -15,7 +15,7 @@ series_part: 93
 series_parts: 300
 series_part_label: "Part 93"
 format: serial
-prev_part: /late-bloom-part-92-an-exs-wedding/
+prev_part: /late-bloom-part-58-night-shift-77/
 next_part: /late-bloom-part-94-blackout-on-lake-shore-drive/
 tags: [serial, love, connection, romance, human-connection, omeglechat]
 hero_image: "/assets/images/posts/late-bloom-part-93-stuck-in-the-elevator-30-minutes/hero-513b8d2c.jpg"
@@ -25,7 +25,7 @@ hero_caption: "Photo: Unsplash — editorial illustration for Late Bloom Stories
 
 *"Forty minutes with someone I argued with"*
 
-This is Part 93 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 92](https://blog.omeglechat.online/late-bloom-part-92-an-exs-wedding/).
+This is Part 93 of **[Late Bloom Stories](https://blog.omeglechat.online/series/late-bloom-stories/)** — 300 episodes of romance with happy endings, loneliness, random chat, and courage to reach out again. After [Part 58](https://blog.omeglechat.online/late-bloom-part-58-night-shift-77/).
 
 
 
@@ -112,7 +112,7 @@ We build **OmegleChat** for safe random conversation in the browser — not to r
 
 This episode is part of a **300-story archive** — each installment is written to be read alone or in order. Take your time; romance that blooms late is still romance worth waiting for.
 
-**Previous:** [Part 92](https://blog.omeglechat.online/late-bloom-part-92-an-exs-wedding/)  
+**Previous:** [Part 58](https://blog.omeglechat.online/late-bloom-part-58-night-shift-77/)  
 **Next:** [Part 94](https://blog.omeglechat.online/late-bloom-part-94-blackout-on-lake-shore-drive/)  
 
 ---
