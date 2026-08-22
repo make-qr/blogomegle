@@ -1,6 +1,6 @@
 ---
 title: "What Is Omezy? Omegle Alternative Guide for Random Chat in 2026"
-date: 2026-08-21
+date: 2026-08-22
 slug: omezy-omegle-alternative-guide-2026
 permalink: /omezy-omegle-alternative-guide-2026/
 excerpt: "Omezy is a browser-based Omegle-style random chat for text, voice, and video. Here is what it is, how it works, safety tips, and how it compares to OmegleChat."
