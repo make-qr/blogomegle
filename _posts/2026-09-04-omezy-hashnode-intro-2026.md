@@ -1,6 +1,6 @@
 ---
 title: "Introducing Omezy — Browser Random Chat After Omegle (Text, Voice & Video)"
-date: 2026-09-03
+date: 2026-09-04
 slug: omezy-hashnode-intro-2026
 permalink: /omezy-hashnode-intro-2026/
 excerpt: "Omezy is a browser-first Omegle alternative with text, voice, and video matching — no app install, guest sessions, and built-in reporting. Here is what we built and how to use it safely in 2026."
