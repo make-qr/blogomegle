@@ -1,6 +1,6 @@
 ---
 title: "Omegle Is Gone — A Safety-First Guide to Random Chat in 2026"
-date: 2026-09-04
+date: 2026-09-05
 slug: substack-random-chat-safety-omeglechat-2026
 permalink: /substack-random-chat-safety-omeglechat-2026/
 excerpt: "When Omegle shut down, millions lost their default place to talk to strangers. This is issue #1 of Random Chat Safety Weekly — how to choose a browser chat site, what to check before you click Start, and where we send readers who want text or video without a sketchy download."
