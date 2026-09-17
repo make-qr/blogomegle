@@ -15,20 +15,8 @@ POSTS = ROOT / "_posts"
 # slug → publish date (newest serial last for sort order we want reverse - actually Jekyll sorts newest first)
 # Assign dates so serial I is oldest in June, guides spread before
 DATE_MAP: dict[str, str] = {
-    "late-bloom-part-162-119-messages-never-sent": "2026-09-16",
-    "late-bloom-part-161-after-1-years-of-silence": "2026-09-16",
-    "late-bloom-part-160-noodle-shop-number-11": "2026-09-15",
-    "late-bloom-part-159-back-row-concert-tickets": "2026-09-15",
-    "late-bloom-part-158-night-shift-7": "2026-09-14",
-    "late-bloom-part-157-hello-from-random-chat": "2026-09-14",
-    "late-bloom-part-156-viewer-number-3": "2026-09-13",
-    "late-bloom-part-155-you-smiled-more-today": "2026-09-13",
-    "late-bloom-part-154-blackout-on-lake-shore-drive": "2026-09-12",
-    "late-bloom-part-153-stuck-in-the-elevator-30-minutes": "2026-09-12",
-    "late-bloom-part-152-an-exs-wedding": "2026-09-11",
-    "late-bloom-part-151-college-rivals": "2026-09-11",
-    "late-bloom-part-150-coffee-number-17-every-morning": "2026-09-10",
-    "late-bloom-part-149-bean-the-dog-and-two-strangers": "2026-09-10",
+    "late-bloom-part-164-a-4-year-contract": "2026-09-17",
+    "late-bloom-part-163-broken-mirror-on-the-west-village": "2026-09-17",
     "late-bloom-part-58-night-shift-77": "2026-07-26",
     "late-bloom-part-57-hello-from-random-chat": "2026-07-26",
     "late-bloom-part-x-coffee-number-77-every-morning": "2026-07-10",
