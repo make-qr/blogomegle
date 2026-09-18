@@ -15,6 +15,8 @@ POSTS = ROOT / "_posts"
 # slug → publish date (newest serial last for sort order we want reverse - actually Jekyll sorts newest first)
 # Assign dates so serial I is oldest in June, guides spread before
 DATE_MAP: dict[str, str] = {
+    "late-bloom-part-166-neighbors-on-floor-8": "2026-09-18",
+    "late-bloom-part-165-the-friend-from-that-year-the-high-line": "2026-09-18",
     "late-bloom-part-164-a-4-year-contract": "2026-09-17",
     "late-bloom-part-163-broken-mirror-on-the-west-village": "2026-09-17",
     "late-bloom-part-58-night-shift-77": "2026-07-26",
