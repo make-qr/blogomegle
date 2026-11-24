@@ -66,13 +66,10 @@ a:hover { text-decoration: underline; }
 
 .brand:hover { text-decoration: none; opacity: 0.92; }
 
-.brand-icon {
-  width: 40px;
-  height: 40px;
-  flex-shrink: 0;
-  border-radius: 11px;
-  object-fit: cover;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+.brand-logo {
+  height: 36px;
+  width: auto;
+  display: block;
 }
 
 .brand-text { display: flex; flex-direction: column; line-height: 1.15; gap: 0.1rem; }
