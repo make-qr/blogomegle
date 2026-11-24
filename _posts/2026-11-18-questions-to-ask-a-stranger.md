@@ -4,14 +4,14 @@ date: 2026-11-18
 slug: questions-to-ask-a-stranger
 permalink: /questions-to-ask-a-stranger/
 excerpt: "Grouped questions that are easy to answer and hard to misuse. Skip any question that feels like a test."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Meet and connect"
 category_slug: meet-connect
 pillar: meet-connect
 format: article
 tags: [meet-connect]
+image: "/assets/images/posts/questions-to-ask-a-stranger/hero.svg"
 hero_image: "/assets/images/posts/questions-to-ask-a-stranger/hero.svg"
 hero_alt: "Questions to Ask a Stranger on Video Chat"
 hero_caption: "Original cover for this essay."

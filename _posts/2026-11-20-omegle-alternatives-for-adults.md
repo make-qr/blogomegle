@@ -4,14 +4,14 @@ date: 2026-11-20
 slug: omegle-alternatives-for-adults
 permalink: /omegle-alternatives-for-adults/
 excerpt: "What people mean by an Omegle alternative, why Omegle closed, and how to avoid sites that borrow the name."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Random video chat"
 category_slug: random-video-chat
 pillar: random-video-chat
 format: article
 tags: [random-video-chat]
+image: "/assets/images/posts/omegle-alternatives-for-adults/hero.svg"
 hero_image: "/assets/images/posts/omegle-alternatives-for-adults/hero.svg"
 hero_alt: "Omegle Alternatives for Adults, Without the Confusion"
 hero_caption: "Original cover for this essay."

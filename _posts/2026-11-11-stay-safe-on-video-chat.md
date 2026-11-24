@@ -4,14 +4,14 @@ date: 2026-11-11
 slug: stay-safe-on-video-chat
 permalink: /stay-safe-on-video-chat/
 excerpt: "Age limit, camera, what not to share, and how Report differs from Block on OmegleChat."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Online safety"
 category_slug: online-safety
 pillar: online-safety
 format: article
 tags: [online-safety]
+image: "/assets/images/posts/stay-safe-on-video-chat/hero.svg"
 hero_image: "/assets/images/posts/stay-safe-on-video-chat/hero.svg"
 hero_alt: "How to Stay Safe When Video Chatting with Strangers"
 hero_caption: "Original cover for this essay."

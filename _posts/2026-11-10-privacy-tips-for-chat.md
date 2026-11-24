@@ -4,14 +4,14 @@ date: 2026-11-10
 slug: privacy-tips-for-chat
 permalink: /privacy-tips-for-chat/
 excerpt: "What to keep private on a one-to-one stranger chat, and how to leave."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Online safety"
 category_slug: online-safety
 pillar: online-safety
 format: article
 tags: [online-safety]
+image: "/assets/images/posts/privacy-tips-for-chat/hero.svg"
 hero_image: "/assets/images/posts/privacy-tips-for-chat/hero.svg"
 hero_alt: "What Not to Share on a Random Chat"
 hero_caption: "Original cover for this essay."

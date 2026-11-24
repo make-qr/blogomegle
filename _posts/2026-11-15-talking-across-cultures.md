@@ -4,14 +4,14 @@ date: 2026-11-15
 slug: talking-across-cultures
 permalink: /talking-across-cultures/
 excerpt: "Assume you will misread a pause. Ask what it meant instead of defending your guess."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Culture and people"
 category_slug: culture-people
 pillar: culture-people
 format: article
 tags: [culture-people]
+image: "/assets/images/posts/talking-across-cultures/hero.svg"
 hero_image: "/assets/images/posts/talking-across-cultures/hero.svg"
 hero_alt: "How to Talk with Someone from Another Culture"
 hero_caption: "Original cover for this essay."

@@ -4,14 +4,14 @@ date: 2026-11-14
 slug: why-people-talk-to-strangers
 permalink: /why-people-talk-to-strangers/
 excerpt: "A stranger has no file on you. That is the appeal, and also the limit."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Connection"
 category_slug: social-psychology
 pillar: social-psychology
 format: article
 tags: [social-psychology]
+image: "/assets/images/posts/why-people-talk-to-strangers/hero.svg"
 hero_image: "/assets/images/posts/why-people-talk-to-strangers/hero.svg"
 hero_alt: "Why Do People Enjoy Talking to Strangers?"
 hero_caption: "Original cover for this essay."

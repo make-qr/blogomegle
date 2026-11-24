@@ -2,6 +2,8 @@
 layout: default
 title: Series
 permalink: /series/
+sitemap: false
+noindex: true
 full_width: true
 page_kind: archive
 excerpt: The old serials have been removed. Read the current essays instead.

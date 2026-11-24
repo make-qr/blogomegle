@@ -4,14 +4,14 @@ date: 2026-11-23
 slug: how-to-video-chat-with-strangers
 permalink: /how-to-video-chat-with-strangers/
 excerpt: "The practical steps for a first random video chat: browser, camera, age check, and how to leave."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Random video chat"
 category_slug: random-video-chat
 pillar: random-video-chat
 format: article
 tags: [random-video-chat]
+image: "/assets/images/posts/how-to-video-chat-with-strangers/hero.svg"
 hero_image: "/assets/images/posts/how-to-video-chat-with-strangers/hero.svg"
 hero_alt: "How to Video Chat with Strangers Online"
 hero_caption: "Original cover for this essay."

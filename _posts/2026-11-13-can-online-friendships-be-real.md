@@ -4,14 +4,14 @@ date: 2026-11-13
 slug: can-online-friendships-be-real
 permalink: /can-online-friendships-be-real/
 excerpt: "A friendship can start on a screen. It becomes real when both people can disappoint each other and return."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Connection"
 category_slug: social-psychology
 pillar: social-psychology
 format: article
 tags: [social-psychology]
+image: "/assets/images/posts/can-online-friendships-be-real/hero.svg"
 hero_image: "/assets/images/posts/can-online-friendships-be-real/hero.svg"
 hero_alt: "Can Online Friendships Become Real Friendships?"
 hero_caption: "Original cover for this essay."

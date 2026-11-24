@@ -1,19 +1,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
-<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-<link rel="canonical" href="{{ page.url | absolute_url }}">
+{% if page.noindex %}
+<meta name="robots" content="noindex, follow">
+{% endif %}
 <link rel="icon" href="{{ '/assets/images/logo-icon.png' | relative_url }}?v=4" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}?v=6">
-{% if page.hero_image or page.image %}
-<meta property="og:image" content="{% if page.hero_image contains 'http' %}{{ page.hero_image }}{% else %}{{ page.hero_image | default: page.image | absolute_url }}{% endif %}">
-<meta name="twitter:card" content="summary_large_image">
-{% else %}
-<meta property="og:image" content="{{ '/assets/images/logo-icon.png' | absolute_url }}">
-<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}?v=7">
+{% if page.hero_image %}
+<link rel="preload" as="image" href="{{ page.hero_image | relative_url }}?v=2">
 {% endif %}
 {% include adsense-loader.html %}
 {% if site.google_analytics %}
@@ -37,3 +33,4 @@
 </script>
 {% endif %}
 {% seo %}
+{% include schema-extra.html %}

@@ -4,14 +4,14 @@ date: 2026-11-19
 slug: how-to-talk-to-strangers-online
 permalink: /how-to-talk-to-strangers-online/
 excerpt: "A first-minute method for talking to someone you have never met, without a script that sounds like an interview."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Meet and connect"
 category_slug: meet-connect
 pillar: meet-connect
 format: article
 tags: [meet-connect]
+image: "/assets/images/posts/how-to-talk-to-strangers-online/hero.svg"
 hero_image: "/assets/images/posts/how-to-talk-to-strangers-online/hero.svg"
 hero_alt: "How to Talk to Strangers Online"
 hero_caption: "Original cover for this essay."

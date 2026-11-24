@@ -4,14 +4,14 @@ date: 2026-11-12
 slug: loneliness-in-the-digital-age
 permalink: /loneliness-in-the-digital-age/
 excerpt: "A full phone is not the same as a person who would notice if you did not write."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Connection"
 category_slug: social-psychology
 pillar: social-psychology
 format: article
 tags: [social-psychology]
+image: "/assets/images/posts/loneliness-in-the-digital-age/hero.svg"
 hero_image: "/assets/images/posts/loneliness-in-the-digital-age/hero.svg"
 hero_alt: "Why Loneliness Shows Up in a Connected Day"
 hero_caption: "Original cover for this essay."

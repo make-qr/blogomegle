@@ -4,14 +4,14 @@ date: 2026-11-17
 slug: make-friends-around-the-world
 permalink: /make-friends-around-the-world/
 excerpt: "International friendship starts with one repeat conversation, not with collecting countries."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Meet and connect"
 category_slug: meet-connect
 pillar: meet-connect
 format: article
 tags: [meet-connect]
+image: "/assets/images/posts/make-friends-around-the-world/hero.svg"
 hero_image: "/assets/images/posts/make-friends-around-the-world/hero.svg"
 hero_alt: "How to Make Friends with People Around the World"
 hero_caption: "Original cover for this essay."

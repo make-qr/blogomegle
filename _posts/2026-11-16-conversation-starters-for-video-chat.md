@@ -4,14 +4,14 @@ date: 2026-11-16
 slug: conversation-starters-for-video-chat
 permalink: /conversation-starters-for-video-chat/
 excerpt: "Short openers you can say on camera when the first second feels blank."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Meet and connect"
 category_slug: meet-connect
 pillar: meet-connect
 format: article
 tags: [meet-connect]
+image: "/assets/images/posts/conversation-starters-for-video-chat/hero.svg"
 hero_image: "/assets/images/posts/conversation-starters-for-video-chat/hero.svg"
 hero_alt: "Conversation Starters for a Random Video Chat"
 hero_caption: "Original cover for this essay."

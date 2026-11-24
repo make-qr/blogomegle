@@ -4,14 +4,14 @@ date: 2026-11-21
 slug: how-to-choose-a-random-video-chat
 permalink: /how-to-choose-a-random-video-chat/
 excerpt: "A buyer's checklist for adults comparing random video chat sites, including what OmegleChat does and does not claim."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Random video chat"
 category_slug: random-video-chat
 pillar: random-video-chat
 format: article
 tags: [random-video-chat]
+image: "/assets/images/posts/how-to-choose-a-random-video-chat/hero.svg"
 hero_image: "/assets/images/posts/how-to-choose-a-random-video-chat/hero.svg"
 hero_alt: "How to Choose a Random Video Chat Site"
 hero_caption: "Original cover for this essay."

@@ -29,7 +29,7 @@ full_width: true
     <h1>{{ page.title }}</h1>
     <div class="post-meta">
       {% if page.author %}
-      <span>By <a href="{{ '/author/' | append: page.author_slug | default: 'morgan-rivers' | append: '/' | relative_url }}">{{ page.author }}</a>{% if page.author_role %}, {{ page.author_role }}{% endif %}</span>
+      <span>By <a href="{{ '/author/' | append: page.author_slug | default: 'omeglechat-editorial' | append: '/' | relative_url }}">{{ page.author }}</a>{% if page.author_role %}, {{ page.author_role }}{% endif %}</span>
       {% endif %}
       {% if page.category %}
       <span class="sep">·</span>
@@ -49,7 +49,7 @@ full_width: true
 
   {% if page.hero_image or page.image %}
   <figure class="post-hero">
-    <img src="{% if page.hero_image contains 'http' %}{{ page.hero_image }}{% else %}{{ page.hero_image | default: page.image | relative_url }}?v=2{% endif %}" alt="{{ page.hero_alt | default: page.title }}" width="1200" height="630" loading="eager">
+    <img src="{% if page.hero_image contains 'http' %}{{ page.hero_image }}{% else %}{{ page.hero_image | default: page.image | relative_url }}?v=2{% endif %}" alt="{{ page.hero_alt | default: page.title }}" width="1200" height="630" loading="eager" fetchpriority="high" decoding="async">
     {% if page.hero_caption %}<figcaption>{{ page.hero_caption }}</figcaption>{% endif %}
   </figure>
   {% endif %}

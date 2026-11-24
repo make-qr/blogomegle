@@ -4,14 +4,14 @@ date: 2026-11-24
 slug: what-is-random-video-chat
 permalink: /what-is-random-video-chat/
 excerpt: "A plain explanation of one-to-one random video chat: matching, cameras, leaving, and what OmegleChat actually does."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Random video chat"
 category_slug: random-video-chat
 pillar: random-video-chat
 format: article
 tags: [random-video-chat]
+image: "/assets/images/posts/what-is-random-video-chat/hero.svg"
 hero_image: "/assets/images/posts/what-is-random-video-chat/hero.svg"
 hero_alt: "What Is Random Video Chat and How Does It Work?"
 hero_caption: "Original cover for this essay."

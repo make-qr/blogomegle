@@ -1,0 +1,9 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  {% if page.layout == 'post' and page.pillar %}
+  <span aria-hidden="true">/</span>
+  <a href="{{ '/' | append: page.pillar | append: '/' | relative_url }}">{{ page.category }}</a>
+  {% endif %}
+  <span aria-hidden="true">/</span>
+  <span aria-current="page">{{ page.title }}</span>
+</nav>

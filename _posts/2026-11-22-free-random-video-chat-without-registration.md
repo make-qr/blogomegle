@@ -4,14 +4,14 @@ date: 2026-11-22
 slug: free-random-video-chat-without-registration
 permalink: /free-random-video-chat-without-registration/
 excerpt: "What no-account video chat means on OmegleChat, and what the site still stores."
-author: "Morgan Rivers"
-author_slug: morgan-rivers
-author_role: "Staff Essayist"
+author: "OmegleChat Editorial"
+author_slug: omeglechat-editorial
 category: "Random video chat"
 category_slug: random-video-chat
 pillar: random-video-chat
 format: article
 tags: [random-video-chat]
+image: "/assets/images/posts/free-random-video-chat-without-registration/hero.svg"
 hero_image: "/assets/images/posts/free-random-video-chat-without-registration/hero.svg"
 hero_alt: "Free Random Video Chat Without Registration"
 hero_caption: "Original cover for this essay."
