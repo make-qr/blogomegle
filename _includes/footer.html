@@ -2,15 +2,16 @@
   <div class="container footer-inner">
     <div class="footer-grid">
       <div>
-        <strong>OmegleChat Blog</strong>
-        <p>Original essays on love, home life, and leaving a conversation that feels wrong.</p>
+        <strong>The Human Connection</strong>
+        <p>Essays on meeting people, conversation, culture, and staying safe. OmegleChat is not affiliated with Omegle.</p>
       </div>
       <div>
-        <strong>Explore</strong>
+        <strong>Sections</strong>
         <div class="footer-links">
+          <a href="{{ '/random-video-chat/' | relative_url }}">Random video chat</a>
+          <a href="{{ '/meet-connect/' | relative_url }}">Meet and connect</a>
+          <a href="{{ '/online-safety/' | relative_url }}">Online safety</a>
           <a href="{{ '/posts/' | relative_url }}">All articles</a>
-          <a href="{{ '/category/love-journey/' | relative_url }}">Love</a>
-          <a href="{{ '/category/safety-guides/' | relative_url }}">Safety</a>
         </div>
       </div>
       <div>
@@ -18,10 +19,11 @@
         <div class="footer-links">
           <a href="{{ site.main_site }}">Main site</a>
           <a href="{{ site.chat_url }}">Start chatting</a>
+          <a href="{{ site.main_site }}/safety-tips.html">Rules</a>
         </div>
       </div>
     </div>
-    <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} OmegleChat. Fiction and essays are not medical or legal advice.</p>
+    <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} OmegleChat. For adults 18 and over. Not medical, legal, or financial advice. Not the former Omegle service.</p>
   </div>
 </footer>
 <script src="{{ '/assets/js/blog.js' | relative_url }}" defer></script>

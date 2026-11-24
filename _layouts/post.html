@@ -33,7 +33,7 @@ full_width: true
       {% endif %}
       {% if page.category %}
       <span class="sep">·</span>
-      <a href="{{ '/category/' | append: page.category_slug | default: 'human-connection' | append: '/' | relative_url }}">{{ page.category }}</a>
+      <a href="{{ '/' | append: page.pillar | default: page.category_slug | append: '/' | relative_url }}">{{ page.category }}</a>
       {% endif %}
       {% if page.date %}
       <span class="sep">·</span>
@@ -104,7 +104,7 @@ full_width: true
 
       <footer class="post-footer">
         <a href="{{ '/posts/' | relative_url }}">← All posts</a>
-        <a href="{{ site.chat_url }}" class="cta-chat chat-cta-link" data-cta="chat" data-cta-placement="footer">Try OmegleChat</a>
+        <a href="{{ site.chat_url }}" class="cta-chat chat-cta-link" data-cta="chat" data-cta-placement="footer">Start random video chat</a>
       </footer>
     </div>
 

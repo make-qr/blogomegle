@@ -1,5 +1,5 @@
 title: OmegleChat Blog
-description: Practical notes on love, home life, and kinder conversation — original essays from OmegleChat.
+description: The Human Connection — essays on random video chat, meeting people, culture, and online safety. OmegleChat is not affiliated with Omegle.
 url: https://blog.omeglechat.online
 baseurl: ""
 lang: en
@@ -60,3 +60,5 @@ exclude:
   - publish-serial-daily.sh
   - vendor
   - .bundle
+  - wp-tools
+  - _gen_posts.py

@@ -8,7 +8,7 @@ page_kind: archive
 
 <section class="archive-header">
   <h1>All articles</h1>
-  <p class="archive-lead">{{ site.posts.size }} original essays. Each one has its own photograph.</p>
+  <p class="archive-lead">{{ site.posts.size }} original essays on meeting people, conversation, and safety.</p>
 </section>
 
 {% include category-pills.html active='all' %}
