@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="hsl(300,42%,18%)"/>
+<circle cx="404" cy="200" r="94" fill="hsl(320,55%,62%)" opacity="0.9"/>
+<circle cx="700" cy="456" r="90" fill="hsl(340,40%,42%)"/>
+<rect x="76" y="40" width="284" height="8" rx="4" fill="hsl(300,45%,72%)" opacity="0.85"/><rect x="26" y="76" width="285" height="8" rx="4" fill="hsl(308,45%,72%)" opacity="0.85"/><rect x="56" y="112" width="286" height="8" rx="4" fill="hsl(316,45%,72%)" opacity="0.85"/><rect x="86" y="148" width="287" height="8" rx="4" fill="hsl(324,45%,72%)" opacity="0.85"/><rect x="36" y="184" width="288" height="8" rx="4" fill="hsl(332,45%,72%)" opacity="0.85"/><rect x="66" y="220" width="289" height="8" rx="4" fill="hsl(340,45%,72%)" opacity="0.85"/>
+<text x="72" y="560" fill="#f6f1ff" font-family="Georgia, serif" font-size="42">Conversation Starters for a Random Video C</text>
+</svg>

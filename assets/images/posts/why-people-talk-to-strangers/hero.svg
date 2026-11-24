@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="hsl(280,42%,18%)"/>
+<circle cx="460" cy="220" r="70" fill="hsl(300,55%,62%)" opacity="0.9"/>
+<circle cx="660" cy="440" r="90" fill="hsl(320,40%,42%)"/>
+<rect x="30" y="40" width="310" height="8" rx="4" fill="hsl(280,45%,72%)" opacity="0.85"/><rect x="60" y="76" width="311" height="8" rx="4" fill="hsl(288,45%,72%)" opacity="0.85"/><rect x="90" y="112" width="312" height="8" rx="4" fill="hsl(296,45%,72%)" opacity="0.85"/><rect x="40" y="148" width="313" height="8" rx="4" fill="hsl(304,45%,72%)" opacity="0.85"/><rect x="70" y="184" width="314" height="8" rx="4" fill="hsl(312,45%,72%)" opacity="0.85"/><rect x="20" y="220" width="315" height="8" rx="4" fill="hsl(320,45%,72%)" opacity="0.85"/>
+<text x="72" y="560" fill="#f6f1ff" font-family="Georgia, serif" font-size="42">Why Do People Enjoy Talking to Strangers?</text>
+</svg>
