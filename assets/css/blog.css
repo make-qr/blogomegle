@@ -358,7 +358,10 @@ article.page-static .toc-table th {
   max-width: 728px;
   margin-left: auto;
   margin-right: auto;
-  min-height: 90px;
+  min-height: 0;
+}
+.blog-ad:not(:has(iframe)) {
+  display: none;
 }
 
 .continue-meta {

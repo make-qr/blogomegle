@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
-<rect width="1200" height="675" fill="hsl(276,42%,18%)"/>
-<circle cx="348" cy="180" r="78" fill="hsl(296,55%,62%)" opacity="0.9"/>
-<circle cx="740" cy="472" r="90" fill="hsl(316,40%,42%)"/>
-<rect x="42" y="40" width="258" height="8" rx="4" fill="hsl(276,45%,72%)" opacity="0.85"/><rect x="72" y="76" width="259" height="8" rx="4" fill="hsl(284,45%,72%)" opacity="0.85"/><rect x="22" y="112" width="260" height="8" rx="4" fill="hsl(292,45%,72%)" opacity="0.85"/><rect x="52" y="148" width="261" height="8" rx="4" fill="hsl(300,45%,72%)" opacity="0.85"/><rect x="82" y="184" width="262" height="8" rx="4" fill="hsl(308,45%,72%)" opacity="0.85"/><rect x="32" y="220" width="263" height="8" rx="4" fill="hsl(316,45%,72%)" opacity="0.85"/>
-<text x="72" y="560" fill="#f6f1ff" font-family="Georgia, serif" font-size="42">Questions to Ask a Stranger on Video Chat</text>
+<rect width="1200" height="675" fill="hsl(276,42%,16%)"/>
+<circle cx="980" cy="140" r="110" fill="hsl(300,55%,62%)"/>
+<circle cx="160" cy="520" r="80" fill="hsl(324,40%,40%)"/>
+<rect x="80" y="210" width="420" height="10" rx="5" fill="hsl(276,50%,70%)" opacity="0.8"/><rect x="98" y="238" width="390" height="10" rx="5" fill="hsl(288,50%,70%)" opacity="0.8"/><rect x="116" y="266" width="360" height="10" rx="5" fill="hsl(300,50%,70%)" opacity="0.8"/><rect x="134" y="294" width="330" height="10" rx="5" fill="hsl(312,50%,70%)" opacity="0.8"/><rect x="152" y="322" width="300" height="10" rx="5" fill="hsl(324,50%,70%)" opacity="0.8"/>
+<text x="80" y="430" fill="#f6f1ff" font-family="Georgia, serif" font-size="64">Better questions</text>
 </svg>

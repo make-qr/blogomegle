@@ -3,7 +3,7 @@ title: "What Not to Share on a Random Chat"
 date: 2026-11-10
 slug: privacy-tips-for-chat
 permalink: /privacy-tips-for-chat/
-excerpt: "Ten privacy habits for a one-to-one stranger chat. None of them require you to be rude."
+excerpt: "What to keep private on a one-to-one stranger chat, and how to leave."
 author: "Morgan Rivers"
 author_slug: morgan-rivers
 author_role: "Staff Essayist"
