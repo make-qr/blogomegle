@@ -5,9 +5,9 @@ full_width: true
 ---
 
 <section class="hero">
-  <h1>True love, marriage wisdom, and stories that end well</h1>
-  <p class="hero-lead">Practical tips for finding the one, building a life together, and late-bloom romance with happy endings — honest, warm, and human.</p>
-  <p class="hero-sub">Random chat guides · True love · Later years · Late Bloom stories</p>
+  <h1>Notes on love, home, and kinder conversation</h1>
+  <p class="hero-lead">Original essays about dating without a script, sharing a home, and leaving a chat that feels wrong. No recycled serials.</p>
+  <p class="hero-sub">Love · Home · Daily habits · Safety</p>
 </section>
 
 {% include ad-leaderboard.html %}
@@ -16,44 +16,27 @@ full_width: true
 
 <section class="featured-grid">
   <article class="featured-card featured-primary">
-    <p class="label">★ Guides · Talk to strangers</p>
-    <h2><a href="{{ '/best-websites-to-talk-to-strangers-2026/' | relative_url }}">Best websites to talk to strangers</a></h2>
-    <p>Free random chat, safety checklists, and Omegle-style alternatives — soft path to browser chat.</p>
-    <a class="btn" href="{{ site.chat_url }}">Start free chat</a>
-    <a class="btn btn-outline" href="{{ '/free-random-chat-online/' | relative_url }}">Free random chat</a>
-    <a class="btn btn-outline" href="{{ '/omegle-alternative-2026/' | relative_url }}">Omegle alternative</a>
-    <a class="btn btn-outline" href="{{ '/tools/opener-generator/' | relative_url }}">Opener generator</a>
+    <p class="label">Love</p>
+    <h2><a href="{{ '/a-sunday-that-counts-as-a-date/' | relative_url }}">A Sunday that counts as a date</a></h2>
+    <p>A short plan for two people who like each other and do not want a performance.</p>
+    <a class="btn" href="{{ '/a-sunday-that-counts-as-a-date/' | relative_url }}">Read the essay</a>
   </article>
   <article class="featured-card">
-    <p class="label">♥ Fiction · Ongoing</p>
-    <h2><a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a></h2>
-    <p>300 romance episodes with happy endings — love that blooms late. New parts every day.</p>
-    <p id="continue-reading-meta" class="continue-meta" hidden></p>
-    {% assign lb_first = site.posts | where: "series_slug", "late-bloom-stories" | sort: "series_part" | first %}
-    {% assign lb_latest = site.posts | where: "series_slug", "late-bloom-stories" | first %}
-    <a id="continue-reading-btn" class="btn btn-outline" href="{{ lb_first.url | default: '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Start Part I</a>
-    {% if lb_latest %}
-    <a class="btn btn-outline" href="{{ lb_latest.url | relative_url }}">Newest episode</a>
-    {% endif %}
+    <p class="label">Safety</p>
+    <h2><a href="{{ '/how-to-leave-a-chat-that-feels-wrong/' | relative_url }}">How to leave a chat that feels wrong</a></h2>
+    <p>What to do in the first minute, and what you do not owe a stranger.</p>
+    <a class="btn btn-outline" href="{{ '/how-to-leave-a-chat-that-feels-wrong/' | relative_url }}">Read the guide</a>
+    <a class="btn btn-outline" href="{{ site.chat_url }}">Start chat</a>
   </article>
-</section>
-
-<section class="home-section" style="padding-top:0;">
-  <h2 class="section-title">Love Journey · soft bridge</h2>
-  <p class="archive-lead" style="margin-top:0;">True love and later-years connection — with a light path to practice conversation when nights feel quiet.</p>
-  <p><a class="btn btn-outline" href="{{ '/category/love-journey/' | relative_url }}">Love Journey</a>
-  <a class="btn btn-outline" href="{{ '/why-older-adults-talk-less-as-they-age/' | relative_url }}">Later years</a></p>
 </section>
 
 <section class="home-section">
-  <h2 class="section-title">Latest articles</h2>
+  <h2 class="section-title">Latest essays</h2>
   <div class="post-card-grid">
-    {% assign recent = site.posts | slice: 0, 12 %}
-    {% for post in recent %}
+    {% for post in site.posts %}
       {% include post-card.html post=post %}
     {% endfor %}
   </div>
-  <p class="section-more"><a href="{{ '/posts/' | relative_url }}">View all posts →</a></p>
 </section>
 
 {% include comments.html post="home" %}

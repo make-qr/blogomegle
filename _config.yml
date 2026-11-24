@@ -1,5 +1,5 @@
 title: OmegleChat Blog
-description: True love, marriage wisdom, couple life, and late-bloom romance stories — practical Love Journey guides from OmegleChat.
+description: Practical notes on love, home life, and kinder conversation — original essays from OmegleChat.
 url: https://blog.omeglechat.online
 baseurl: ""
 lang: en
@@ -20,7 +20,7 @@ chat_url: https://omeglechat.online/chat.html
 
 # AdSense — same account as omeglechat.online (ads-config.js)
 adsense:
-  client: ca-pub-4151519079019358
+  client: ca-pub-4590108196186345
   slots:
     leaderboard: "7974813655"
 

@@ -10,7 +10,7 @@ category_slug: love-journey
 
 <section class="archive-header">
   <h1>Love Journey</h1>
-  <p class="archive-lead">From first spark to lasting marriage: <strong>true love</strong>, choosing a partner who fits, premarital &amp; postmarital health, and warm couple humor — practical, kind, and honest.</p>
+  <p class="archive-lead">Essays about choosing someone, staying kind, and sharing a life without turning it into a performance.</p>
 </section>
 
 {% include category-pills.html active='love-journey' %}
@@ -19,11 +19,9 @@ category_slug: love-journey
   <div class="author-card">
     <p><strong>What you’ll find here</strong></p>
     <ul style="margin:0.5rem 0 0;padding-left:1.2rem;color:var(--text-muted);">
-      <li>What true love means — and red flags that look like passion</li>
-      <li>How to choose a spouse you’ll still like in 10 years</li>
-      <li>Premarital health, money talks, and the first year after the wedding</li>
-      <li>Clean couple humor and lonely-night honesty</li>
-      <li>Full 8-week Love Journey library (16+ guides)</li>
+      <li>A Sunday that is a date without a restaurant script</li>
+      <li>Jokes that do not embarrass the other person</li>
+      <li>What waiting is, and what it is not</li>
     </ul>
   </div>
 </section>
@@ -38,6 +36,6 @@ category_slug: love-journey
   </div>
   {% assign lj_count = site.posts | where: "category_slug", "love-journey" | size %}
   {% if lj_count == 0 %}
-  <p class="text-muted">New guides publishing weekly. Start with <a href="{{ '/how-to-start-conversation-someone-you-like/' | relative_url }}">how to start a conversation with someone you like</a>.</p>
+  <p class="text-muted">No essays in this shelf yet.</p>
   {% endif %}
 </section>

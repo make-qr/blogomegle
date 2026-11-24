@@ -16,23 +16,7 @@ excerpt: Staff Essayist at OmegleChat — on loneliness, conversation, romance, 
 
 <section class="home-section">
   <div class="author-card">
-    <p>Morgan Rivers writes <strong>long-form</strong> pieces about modern connection — essays, romance serials, and relationship advice (1,000+ words, with images and audio when it serves the story).</p>
-    <p style="margin-bottom:0">Series include <a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">The Quiet Hours Chronicle</a> (six essays) and <a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a> (300-part romance). New <a href="{{ '/category/love-journey/' | relative_url }}">Love Journey</a> guides cover dating, gifts, trust, and commitment.</p>
-  </div>
-
-  <div class="featured-grid">
-    <article class="featured-card featured-primary">
-      <p class="label">Ongoing · 300 parts planned</p>
-      <h2><a href="{{ '/series/late-bloom-stories/' | relative_url }}">Late Bloom Stories</a></h2>
-      <p>Romance with happy endings — US settings, loneliness, and safe random chat as a night-time bridge.</p>
-      <a class="btn" href="{{ '/late-bloom-part-i-late-blooming-cherry/' | relative_url }}">Read Late Bloom Part I</a>
-    </article>
-    <article class="featured-card">
-      <p class="label">Complete · 6 parts</p>
-      <h2><a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">The Quiet Hours Chronicle</a></h2>
-      <p>First-person essays on loneliness, dating without performance, and keeping people close.</p>
-      <a class="btn btn-outline" href="{{ '/quiet-hours-chronicle-part-i/' | relative_url }}">Read Quiet Hours Part I</a>
-    </article>
+    <p>Morgan Rivers writes the essays on this blog: dating without a script, money and meals at home, and how to end a chat that feels wrong. The old serials are gone.</p>
   </div>
 </section>
 

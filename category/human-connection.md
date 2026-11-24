@@ -27,7 +27,6 @@ category_slug: human-connection
   </div>
 </section>
 <section class="home-section archive-listing">
-  <p class="section-more" style="margin-top:0;margin-bottom:1.25rem;"><a href="{{ '/series/the-quiet-hours-chronicle/' | relative_url }}">The Quiet Hours Chronicle — complete series →</a></p>
   <div class="post-card-grid">
     {% for post in site.posts %}
       {% if post.category_slug == 'human-connection' or post.category == 'Human Connection' %}
