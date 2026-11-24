@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
-<rect width="1200" height="675" fill="hsl(258,42%,18%)"/>
-<circle cx="320" cy="170" r="70" fill="hsl(278,55%,62%)" opacity="0.9"/>
-<circle cx="760" cy="480" r="90" fill="hsl(298,40%,42%)"/>
-<rect x="25" y="40" width="245" height="8" rx="4" fill="hsl(258,45%,72%)" opacity="0.85"/><rect x="55" y="76" width="246" height="8" rx="4" fill="hsl(266,45%,72%)" opacity="0.85"/><rect x="85" y="112" width="247" height="8" rx="4" fill="hsl(274,45%,72%)" opacity="0.85"/><rect x="35" y="148" width="248" height="8" rx="4" fill="hsl(282,45%,72%)" opacity="0.85"/><rect x="65" y="184" width="249" height="8" rx="4" fill="hsl(290,45%,72%)" opacity="0.85"/><rect x="95" y="220" width="250" height="8" rx="4" fill="hsl(298,45%,72%)" opacity="0.85"/>
-<text x="72" y="560" fill="#f6f1ff" font-family="Georgia, serif" font-size="42">How to Talk to Strangers Online</text>
+<rect width="1200" height="675" fill="hsl(258,42%,16%)"/>
+<circle cx="980" cy="140" r="110" fill="hsl(282,55%,62%)"/>
+<circle cx="160" cy="520" r="80" fill="hsl(306,40%,40%)"/>
+<rect x="80" y="210" width="420" height="10" rx="5" fill="hsl(258,50%,70%)" opacity="0.8"/><rect x="98" y="238" width="390" height="10" rx="5" fill="hsl(270,50%,70%)" opacity="0.8"/><rect x="116" y="266" width="360" height="10" rx="5" fill="hsl(282,50%,70%)" opacity="0.8"/><rect x="134" y="294" width="330" height="10" rx="5" fill="hsl(294,50%,70%)" opacity="0.8"/><rect x="152" y="322" width="300" height="10" rx="5" fill="hsl(306,50%,70%)" opacity="0.8"/>
+<text x="80" y="430" fill="#f6f1ff" font-family="Georgia, serif" font-size="64">First minute</text>
 </svg>

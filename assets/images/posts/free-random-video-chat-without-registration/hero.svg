@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
-<rect width="1200" height="675" fill="hsl(282,42%,18%)"/>
-<circle cx="236" cy="140" r="86" fill="hsl(302,55%,62%)" opacity="0.9"/>
-<circle cx="820" cy="504" r="90" fill="hsl(322,40%,42%)"/>
-<rect x="54" y="40" width="206" height="8" rx="4" fill="hsl(282,45%,72%)" opacity="0.85"/><rect x="84" y="76" width="207" height="8" rx="4" fill="hsl(290,45%,72%)" opacity="0.85"/><rect x="34" y="112" width="208" height="8" rx="4" fill="hsl(298,45%,72%)" opacity="0.85"/><rect x="64" y="148" width="209" height="8" rx="4" fill="hsl(306,45%,72%)" opacity="0.85"/><rect x="94" y="184" width="210" height="8" rx="4" fill="hsl(314,45%,72%)" opacity="0.85"/><rect x="44" y="220" width="211" height="8" rx="4" fill="hsl(322,45%,72%)" opacity="0.85"/>
-<text x="72" y="560" fill="#f6f1ff" font-family="Georgia, serif" font-size="42">Free Random Video Chat Without Registratio</text>
+<rect width="1200" height="675" fill="hsl(282,42%,16%)"/>
+<circle cx="980" cy="140" r="110" fill="hsl(306,55%,62%)"/>
+<circle cx="160" cy="520" r="80" fill="hsl(330,40%,40%)"/>
+<rect x="80" y="210" width="420" height="10" rx="5" fill="hsl(282,50%,70%)" opacity="0.8"/><rect x="98" y="238" width="390" height="10" rx="5" fill="hsl(294,50%,70%)" opacity="0.8"/><rect x="116" y="266" width="360" height="10" rx="5" fill="hsl(306,50%,70%)" opacity="0.8"/><rect x="134" y="294" width="330" height="10" rx="5" fill="hsl(318,50%,70%)" opacity="0.8"/><rect x="152" y="322" width="300" height="10" rx="5" fill="hsl(330,50%,70%)" opacity="0.8"/>
+<text x="80" y="430" fill="#f6f1ff" font-family="Georgia, serif" font-size="64">No account</text>
 </svg>
