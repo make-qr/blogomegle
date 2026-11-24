@@ -1,16 +1,16 @@
 /* OmegleChat Blog — blog.omeglechat.online */
 :root {
-  --bg: #0f1419;
-  --bg-card: #1a222d;
-  --bg-elevated: #232d3b;
-  --text: #e8edf4;
-  --text-muted: #9aa8b8;
-  --accent: #6c9eff;
-  --accent-soft: rgba(108, 158, 255, 0.15);
-  --accent-romance: #e8a4b8;
-  --accent-advice: #7ec8a3;
-  --accent-guide: #6c9eff;
-  --border: #2d3a4d;
+  --bg: #140e22;
+  --bg-card: #221832;
+  --bg-elevated: #2c2140;
+  --text: #f4eefc;
+  --text-muted: #b7a9cc;
+  --accent: #c4b5fd;
+  --accent-soft: rgba(196, 181, 253, 0.16);
+  --accent-romance: #f0abfc;
+  --accent-advice: #d8b4fe;
+  --accent-guide: #c4b5fd;
+  --border: #3d2d58;
   --serif: "Lora", Georgia, serif;
   --sans: "DM Sans", system-ui, sans-serif;
   --radius: 12px;
@@ -505,7 +505,7 @@ article.page-static .toc-table th {
 
 .post-card:hover {
   transform: translateY(-2px);
-  border-color: rgba(108, 158, 255, 0.4);
+  border-color: rgba(196, 181, 253, 0.45);
 }
 
 .post-card-image {
