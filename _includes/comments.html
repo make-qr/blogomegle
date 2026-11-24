@@ -1,0 +1,20 @@
+<section class="post-comments" id="comments" aria-label="Comments">
+  <h2>Comments</h2>
+  <p class="comment-lead">Leave a name and a short note. It appears on this page.</p>
+  <form class="comment-form" data-post="{{ include.post }}">
+    <label>Name
+      <input name="name" maxlength="40" autocomplete="nickname" placeholder="Your name">
+    </label>
+    <label>Comment
+      <textarea name="body" maxlength="1200" minlength="2" required placeholder="Write a comment"></textarea>
+    </label>
+    <label class="comment-hp">Company
+      <input name="company" tabindex="-1" autocomplete="off">
+    </label>
+    <button class="btn" type="submit">Post comment</button>
+    <p class="comment-status" role="status"></p>
+  </form>
+  <p class="comments-empty">No comments yet.</p>
+  <ol class="comments"></ol>
+</section>
+<script src="{{ '/assets/js/comments.js' | relative_url }}" defer></script>
