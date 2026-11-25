@@ -17,7 +17,7 @@ plugins:
   - jekyll-seo-tag
 
 main_site: https://omeglechat.online
-chat_url: https://omeglechat.online/
+chat_url: https://omeglechat.online/chat.html
 
 # AdSense — same account as omeglechat.online (ads-config.js)
 adsense:
